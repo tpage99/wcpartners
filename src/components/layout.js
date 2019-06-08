@@ -29,16 +29,14 @@ const Layout = ({ children }) => (
         <div
           style={{
             margin: `0 auto`,
-            maxWidth: 960,
+            maxWidth: 1200,
             padding: `0px 1.0875rem 1.45rem`,
             paddingTop: 0,
           }}
         >
           <main>{children}</main>
-          <footer>
-            © {new Date().getFullYear()}, Built with
-            {` `}
-            <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <footer style={{ textAlign: `center`, marginTop: `1.5rem` }}>
+            © {new Date().getFullYear()}, Contact WC Partners by phone at (417) 630-0782 or by email at <a href="mailto:info@wc-partners.net">info@wc-partners.net</a>
           </footer>
         </div>
       </>
