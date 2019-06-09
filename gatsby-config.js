@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `WC Partners`,
-    description: `Webster County SB40 Board serving the developmentally disabled population.`,
+    title: `WC PARTNERS`,
+    description: `Webster County SB40 Board - Growing Towards Empowered Futures.`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -14,6 +14,19 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `Merriweather`,
+          },
+          {
+            family: `PT Sans`
+          },
+        ],
+      },
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

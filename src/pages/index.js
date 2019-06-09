@@ -8,14 +8,30 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Webster County TCM Services</h1>
-    <p>Welcome to the new website for WC Partners.</p>
-    <p>The mission of Webster County is to advocate, enhance services, and positively impact the lives of citizens with developmental disabilities.
+    <h1>Welcome to the WC Partners Website!</h1>
+    <p>WC Partners is the local SB 40 Board for Webster County. To learn more visit our     <Link to="/about/">About page</Link>.
 </p>
-    <div style={{ maxWidth: `350px`, marginBottom: `1.45rem` }}>
+    <div style={{ maxWidth: `350px`, margin: `0 auto` }}>
       <Image />
     </div>
-    <Link to="/about/">Go to the About page</Link>
+    <p style={{ textAlign: `center` }}><em>Growing towards empowered futures for Webster County</em></p>
+    <div style={{
+      background: `#48b04c`,
+      paddingTop: `25px`,
+      paddingBottom: `25px`,
+      textAlign: `center`
+    }}>
+      <h1>Why We're Here</h1>
+      <p>The Webster County SB40 Board exists to help support individuals and families with developmental disabilities. By promoting natural and state paid resources, individuals with developmental disabilities can live empowered and fulfilling lives living their idea of a good life.</p>
+    </div>
+    <div className="circle-link">
+      <a href="#">Targeted Case Management</a>
+    </div>
+    <div>
+      <button>Community Resources</button>
+      <button>SB40 History</button>
+      <button>Social Activity/Events</button>
+    </div>
   </Layout>
 )
 

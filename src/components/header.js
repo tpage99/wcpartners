@@ -50,8 +50,21 @@ const Header = ({ siteTitle }) => (
               marginRight: `3rem`,
               verticalAlign: `sub`
             }}
+            className="nav-link"
           >
-            About
+            ABOUT
+        </Link></li>
+          <li><Link
+            to="/resources"
+            style={{
+              color: `white`,
+              textDecoration: `none`,
+              marginRight: `3rem`,
+              verticalAlign: `sub`
+            }}
+            className="nav-link"
+          >
+            RESOURCES
         </Link></li>
           <li><Link
             to="/contact"
@@ -60,8 +73,9 @@ const Header = ({ siteTitle }) => (
               textDecoration: `none`,
               verticalAlign: `sub`
             }}
+            className="nav-link"
           >
-            Contact
+            CONTACT
         </Link></li>
         </ul>
       </div>
