@@ -39,10 +39,6 @@ progress {
 template {
   display: none;
 }
-a {
-  background-color: transparent;
-  -webkit-text-decoration-skip: objects;
-}
 abbr[title] {
   border-bottom: none;
   text-decoration: underline;
@@ -620,22 +616,28 @@ pre tt:after {
 }
 
 /* gatsby boilerplate end */
+
+/* colors from WC Partners logo are 2D5B2D for dark green and 48b04c for light green */
+
+.nav-link a {
+  display: block;
+}
+
 .nav-link:hover {
   background-color: #48b04c;
   color: white;
-  padding: 26px 10px;
+  padding: 10px 0;
 }
 
 button {
   background: #48b04c;
   color: white;
   padding: 7px 10px;
+  border: none;
+  cursor: pointer;
 }
 
-.circle-link {
-  display: block;
-  border: 5px solid #48b04c;
-  border-radius: 50%;
-  width: 250px;
-  height: 250px;
+#simple-link a:link,
+#simple-link a:visited {
+  color: white !important;
 }

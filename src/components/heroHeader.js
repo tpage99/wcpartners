@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import React from "react"
 
 const HeroHeader = ({ siteTitle }) => (
-  <header style={{ paddingTop: `10px` }}
+  <header style={{ paddingTop: `20px` }}
   >
     <div
       style={{
@@ -36,6 +36,7 @@ const HeroHeader = ({ siteTitle }) => (
           flexDirection: `row`,
           justifyContent: `flex-end`,
           fontSize: `25px`,
+          fontFamily: `PT Sans`
         }}>
           <li><Link
             to="/about"
