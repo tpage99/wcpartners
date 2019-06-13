@@ -10,18 +10,38 @@ import '../components/layout.css'
 
 const IndexPage = () => (
   <Fragment>
-    <HeroNav />
+    <HeroNav style={{ zIndex: `1` }} />
     <SEO title="Home" />
     <div style={{
-      backgroundImage: `url(https://res.cloudinary.com/tpage99/image/upload/v1560288862/WCPartners/wc_hero_grayscale.png)`,
-      backgroundPosition: `center center`,
-      backgroundRepeat: `no-repeat`,
-      backgroundAttachment: `fixed`,
-      backgroundSize: `cover`,
-      height: `115vh`,
+      marginTop: `-15vh`,
       width: `100vw`,
-      marginTop: `-15vh`
+      height: `105vh`,
+      background: `linear-gradient(208deg, #2D5B2D 55.52%, rgba(255, 255, 255, 0) 55.52%), #FFFFFF`,
+      zIndex: `0`
     }}>
+      <div className="grid" style={{ zIndex: `2` }}>
+        <div className="img-fluid" style={{ gridColumnStart: `1`, gridColumn: `span 7` }}>
+          <img
+            src="https://res.cloudinary.com/tpage99/image/upload/v1560422846/WCPartners/heroGroup.png"
+            alt="collage of people smiling"
+            className="feature-img"
+          />
+        </div>
+        <div className="text-block" style={{ gridColumnEnd: `-1`, gridColumn: `span 4` }}>
+          <h2 style={{
+            fontSize: `4rem`,
+            color: `white`,
+            margin: `0 auto`,
+            paddingTop: `50px`,
+            paddingLeft: `20px`
+          }}>
+            Growing<br />
+            Towards<br />
+            Empowered<br />
+            Futures
+          </h2>
+        </div>
+      </div>
     </div>
     <div style={{
       background: `#48b04c`,

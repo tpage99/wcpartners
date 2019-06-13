@@ -22,7 +22,7 @@ const HeroHeader = ({ siteTitle }) => (
             textDecoration: `none`,
             display: `inline-block`
           }}
-        >
+        > <img src="https://res.cloudinary.com/tpage99/image/upload/v1560421417/WCPartners/wclogo.png" alt="wc partners logo" style={{ maxHeight: `60px`, maxWidth: `60px`, margin: `0`, padding: `15px 10px 0 0` }} />
           {siteTitle}
         </Link>
       </h1>
@@ -43,7 +43,7 @@ const HeroHeader = ({ siteTitle }) => (
             style={{
               color: `white`,
               textDecoration: `none`,
-              marginRight: `3rem`,
+              marginRight: `2rem`,
               verticalAlign: `sub`
             }}
             className="nav-link"
@@ -55,7 +55,7 @@ const HeroHeader = ({ siteTitle }) => (
             style={{
               color: `white`,
               textDecoration: `none`,
-              marginRight: `3rem`,
+              marginRight: `2rem`,
               verticalAlign: `sub`
             }}
             className="nav-link"
