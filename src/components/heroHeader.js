@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import React from "react"
 
 const HeroHeader = ({ siteTitle }) => (
-  <header style={{ paddingTop: `20px` }}
+  <header style={{ paddingTop: `10px`, background: `#2D5B2D` }}
   >
     <div
       style={{
@@ -11,7 +11,7 @@ const HeroHeader = ({ siteTitle }) => (
         maxWidth: 1200,
         display: `flex`,
         justifyContent: `space-between`,
-        alignItems: `center`
+        alignItems: `center`,
       }}
     >
       <h1 style={{ margin: 0 }}>
@@ -36,14 +36,14 @@ const HeroHeader = ({ siteTitle }) => (
           flexDirection: `row`,
           justifyContent: `flex-end`,
           fontSize: `25px`,
-          fontFamily: `PT Sans`
+          fontFamily: `Lato`
         }}>
           <li><Link
             to="/about"
             style={{
               color: `white`,
               textDecoration: `none`,
-              marginRight: `2rem`,
+              marginRight: `2.1rem`,
               verticalAlign: `sub`
             }}
             className="nav-link"
@@ -55,7 +55,7 @@ const HeroHeader = ({ siteTitle }) => (
             style={{
               color: `white`,
               textDecoration: `none`,
-              marginRight: `2rem`,
+              marginRight: `2.1rem`,
               verticalAlign: `sub`
             }}
             className="nav-link"
@@ -67,7 +67,8 @@ const HeroHeader = ({ siteTitle }) => (
             style={{
               color: `white`,
               textDecoration: `none`,
-              verticalAlign: `sub`
+              verticalAlign: `sub`,
+              marginRight: `2.1rem`,
             }}
             className="nav-link"
           >

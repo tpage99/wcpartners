@@ -22,7 +22,7 @@ module.exports = {
             family: `Merriweather`,
           },
           {
-            family: `PT Sans`
+            family: `Lato`
           },
         ],
       },

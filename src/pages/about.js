@@ -22,7 +22,7 @@ const About = () => (
     <h2>What are TCM services?</h2>
     <p>WC Partners Support Coordinators work with the individual's support team to develop an individualized personal plan. The Personal Plan outlines the outcomes, action steps, background, and people responsible to assist with working toward each goal.</p>
 
-    <h3>🤓 Who is eligible for TCM services?</h3>
+    <h3><span role="img" aria-label="nerd face emoji">🤓</span> Who is eligible for TCM services?</h3>
     <p>Individuals who have been clinically diagnosed with a developmental disability or suspect they have a developmental disability can be eligible for TCM services. Contact the Springfield Regional Office to confirm eligibility and be referred to WC Partners TCM services.</p>
 
     <Link to="/">Go back to the homepage</Link>
