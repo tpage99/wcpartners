@@ -56,6 +56,7 @@ const IndexPage = () => (
           />
         </div>
       </div>
+      <h1 style={{ textAlign: `center` }}>Information and Resources</h1>
       <div className="flex">
         <div className="link-box">
           <h3><a href="#"><button>Targeted Case Management</button></a></h3>
@@ -70,7 +71,6 @@ const IndexPage = () => (
           <h3><a href="#"><button>Social Activity/Events</button></a></h3>
         </div>
       </div>
-
       <Footer />
     </Layout>
   </Fragment >
