@@ -644,6 +644,34 @@ button {
   padding: 0.25rem 0.25rem;
 }
 
+.link-box {
+  background: #2d5b2d;
+  height: 200px;
+  width: 250px;
+  padding-top: 50px;
+  margin: 20px auto;
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.48);
+}
+.link-box h3 {
+  text-align: center;
+  align-content: middle;
+}
+.box-link {
+  text-decoration: none;
+  color: white;
+}
+.footer-link {
+  display: inline;
+  padding-right: 2rem;
+}
+.footer-link a:link,
+.footer-link a:visited {
+  color: black;
+}
+
 @media (max-width: 799px) {
   .grid {
     display: flex;
@@ -688,31 +716,5 @@ button {
     flex-wrap: wrap;
     align-content: center;
     margin: 0 auto;
-  }
-  .link-box {
-    background: #2d5b2d;
-    height: 200px;
-    width: 250px;
-    padding-top: 50px;
-    margin: 20px auto;
-    color: white;
-    border: none;
-    cursor: pointer;
-    box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.48);
-  }
-  .link-box h3 {
-    text-align: center;
-    align-content: middle;
-  }
-  .box-link {
-    text-decoration: none;
-    color: white;
-  }
-  .footer-link {
-    display: inline;
-    padding-right: 2rem;
-  }
-  .footer-link a:link {
-    color: black;
   }
 }
