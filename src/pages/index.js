@@ -56,7 +56,7 @@ const IndexPage = () => (
           />
         </div>
       </div>
-      <div className="flex" style={{ maxWidth: `80%` }}>
+      <div className="flex">
         <div className="link-box">
           <h3><a href="#"><button>Targeted Case Management</button></a></h3>
         </div>
