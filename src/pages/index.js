@@ -2,7 +2,6 @@ import React, { Fragment } from "react"
 import { Link } from "gatsby"
 
 import HeroNav from "../components/heroNav"
-import Image from "../components/image"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 import Footer from "../components/footer"
@@ -59,16 +58,16 @@ const IndexPage = () => (
       <h1 style={{ textAlign: `center` }}>Information and Resources</h1>
       <div className="flex">
         <div className="link-box">
-          <h3><a href="#"><button>Targeted Case Management</button></a></h3>
+          <h3 className="box-link"><Link to="#"><button>Targeted Case Management</button></Link></h3>
         </div>
         <div className="link-box">
-          <h3><a href="#"><button>Community Resources</button></a></h3>
+          <h3 className="box-link"><Link to="#"><button>Community Resources</button></Link></h3>
         </div>
         <div className="link-box">
-          <h3><a href="#"><button>SB40 History</button></a></h3>
+          <h3 className="box-link"><Link to="#"><button>SB40 History</button></Link></h3>
         </div>
         <div className="link-box">
-          <h3><a href="#"><button>Social Activity/Events</button></a></h3>
+          <h3 className="box-link"><Link to="#"><button>Social Activity/Events</button></Link></h3>
         </div>
       </div>
       <Footer />

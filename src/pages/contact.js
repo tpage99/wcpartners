@@ -1,9 +1,9 @@
 import React, { Fragment } from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/heroHeader"
+import Footer from "../components/footer"
 
 const Contact = () => (
   <Fragment>
@@ -15,7 +15,7 @@ const Contact = () => (
 
       <p>Maybe thow a contact form in here, phone number, and possibly a map with location information.</p>
 
-      <Link to="/">Go back to the homepage</Link>
+      <Footer />
     </Layout>
   </Fragment>
 

@@ -5,12 +5,16 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/heroHeader"
 import Footer from "../components/footer"
+import ArtImage from "../components/artImage"
 
 const About = () => (
   <Fragment>
     <HeroHeader />
     <SEO title="About" />
     <Layout>
+      <div style={{ margin: `0 auto` }}>
+        <ArtImage />
+      </div>
 
       <h1>About WC Partners</h1>
 

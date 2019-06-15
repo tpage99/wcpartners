@@ -704,4 +704,15 @@ button {
     text-align: center;
     align-content: middle;
   }
+  .box-link {
+    text-decoration: none;
+    color: white;
+  }
+  .footer-link {
+    display: inline;
+    padding-right: 2rem;
+  }
+  .footer-link a:link {
+    color: black;
+  }
 }
