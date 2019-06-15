@@ -636,9 +636,12 @@ button {
   cursor: pointer;
 }
 
+#simple-link a,
 #simple-link a:link,
 #simple-link a:visited {
-  color: white !important;
+  color: white;
+  background-color: #48b04c;
+  padding: 0.25rem 0.25rem;
 }
 
 @media (max-width: 799px) {
@@ -671,10 +674,9 @@ button {
   .grid {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    padding-bottom: 100px;
+    padding: 2rem 0;
     grid-template-columns: fit-content;
     grid-auto-flow: dense;
-    padding-top: 60px;
   }
   .img-fluid {
     max-width: 80%;

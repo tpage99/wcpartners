@@ -1,19 +1,24 @@
-import React from "react"
+import React, { Fragment } from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import HeroHeader from "../components/heroHeader"
 
 const Contact = () => (
-  <Layout>
-    <SEO title="Contact" />
+  <Fragment>
+    <HeroHeader />
+    <Layout>
+      <SEO title="Contact" />
 
-    <h1>This is the Contact Page <span role="img" aria-label="telephone email and mail emojis">☎️✉️📧</span></h1>
+      <h1>This is the Contact Page <span role="img" aria-label="telephone email and mail emojis">☎️✉️📧</span></h1>
 
-    <p>Maybe thow a contact form in here, phone number, and possibly a map with location information.</p>
+      <p>Maybe thow a contact form in here, phone number, and possibly a map with location information.</p>
 
-    <Link to="/">Go back to the homepage</Link>
-  </Layout>
+      <Link to="/">Go back to the homepage</Link>
+    </Layout>
+  </Fragment>
+
 )
 
 export default Contact

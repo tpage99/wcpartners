@@ -2,8 +2,8 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
-const HeroHeader = ({ siteTitle }) => (
-  <header style={{ paddingTop: `10px`, background: `#2D5B2D` }}
+const HeroHeader = () => (
+  <header style={{ padding: `1rem`, background: `#2D5B2D` }}
   >
     <div
       style={{
@@ -20,10 +20,11 @@ const HeroHeader = ({ siteTitle }) => (
           style={{
             color: `white`,
             textDecoration: `none`,
-            display: `inline-block`
+            display: `inline-block`,
+            verticalAlign: `middle`
           }}
-        > <img src="https://res.cloudinary.com/tpage99/image/upload/v1560421417/WCPartners/wclogo.png" alt="wc partners logo" style={{ maxHeight: `60px`, maxWidth: `60px`, margin: `0`, padding: `15px 10px 0 0` }} />
-          {siteTitle}
+        > <img src="https://res.cloudinary.com/tpage99/image/upload/v1560421417/WCPartners/wclogo.png" alt="wc partners logo" style={{ maxHeight: `60px`, maxWidth: `60px`, margin: `0`, paddingRight: `10px`, verticalAlign: `text-top` }} />
+          WC PARTNERS
         </Link>
       </h1>
       <div>
@@ -79,13 +80,5 @@ const HeroHeader = ({ siteTitle }) => (
     </div>
   </header>
 )
-
-HeroHeader.propTypes = {
-  siteTitle: PropTypes.string,
-}
-
-HeroHeader.defaultProps = {
-  siteTitle: ``,
-}
 
 export default HeroHeader
