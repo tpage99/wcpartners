@@ -624,9 +624,10 @@ pre tt:after {
 }
 
 .nav-link:hover {
-  background-color: #48b04c;
-  color: white;
-  padding: 10px 0;
+  background-image: linear-gradient(120deg, #fff 0%, #48b04c 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 0.2em;
+  background-position: 0 110%;
 }
 
 button {
