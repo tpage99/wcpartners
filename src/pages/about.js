@@ -1,5 +1,4 @@
 import React, { Fragment } from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -12,7 +11,9 @@ const About = () => (
     <HeroHeader />
     <SEO title="About" />
     <Layout>
-      <div style={{ margin: `0 auto` }}>
+      <div
+        style={{ margin: `0 auto`, paddingBottom: `2rem`, maxWidth: `100%` }}
+      >
         <ArtImage />
       </div>
 
@@ -53,20 +54,13 @@ const About = () => (
         with working toward each goal.
       </p>
 
-      <h3>
-        <span role="img" aria-label="nerd face emoji">
-          🤓
-        </span>{" "}
-        Who is eligible for TCM services?
-      </h3>
+      <h3>Who is eligible for TCM services?</h3>
       <p>
         Individuals who have been clinically diagnosed with a developmental
         disability or suspect they have a developmental disability can be
         eligible for TCM services. Contact the Springfield Regional Office to
         confirm eligibility and be referred to WC Partners TCM services.
       </p>
-
-      <Link to="/">Go back to the homepage</Link>
       <Footer />
     </Layout>
   </Fragment>
