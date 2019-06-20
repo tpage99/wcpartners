@@ -25,12 +25,23 @@ const Contact = () => (
             boxShadow: `0 0 10px rgba(0, 0, 0, 0.48)`,
           }}
         >
-          <h1 style={{ textAlign: `center` }}>Contact Us</h1>
-          <p>
+          <h1 style={{ textAlign: `center` }}>CONTACT US</h1>
+          <p style={{ textAlign: `center` }}>
             Administrative office hours are Monday-Friday from 9am to 1pm.
-            <ul style={{ listStyle: `none`, textDecoration: `none` }}>
-              <li>Phone: (417) 630-0782</li>
-              <li>Fax: (417) 630-0783</li>
+            <ul
+              style={{
+                listStyle: `none`,
+                textDecoration: `none`,
+                display: `block`,
+              }}
+            >
+              <li style={{ display: `inline-block`, padding: `0.5rem` }}>
+                <span style={{ fontWeight: `bold` }}>Phone:</span> (417)
+                630-0782
+              </li>
+              <li style={{ display: `inline-block`, padding: `0.5rem` }}>
+                <span style={{ fontWeight: `bold` }}>Fax:</span> (417) 630-0783
+              </li>
             </ul>
           </p>
           <div
@@ -40,18 +51,18 @@ const Contact = () => (
               gridTemplateColumns: `1fr 1fr`,
               margin: `0 auto`,
               maxWidth: `100%`,
-              paddingBottom: `3rem`,
+              paddingBottom: `1rem`,
             }}
           >
             <div style={{ margin: `0 auto` }}>
-              <h2>Mailing address</h2>
+              <h2 style={{ marginBottom: `0.5rem` }}>Mailing address</h2>
               <p>
                 PO Box 9<br />
                 Marshfield, MO 65706
               </p>
             </div>
             <div style={{ margin: `0 auto` }}>
-              <h2>Office address</h2>
+              <h2 style={{ marginBottom: `0.5rem` }}>Office address</h2>
               <p>
                 1329 Spur Drive
                 <br />
@@ -67,13 +78,13 @@ const Contact = () => (
             data-netlify-honeypot="bot-field"
             data-netlify="true"
           >
-            <div>
+            <div className="honey">
               <label>
                 Don’t fill this out if you're human:
                 <input type="hidden" name="form-name" value="contact" />
               </label>
             </div>
-            <div>
+            <div className="form-input">
               <label htmlFor="name">Name</label>
               <input
                 type="text"
@@ -84,7 +95,7 @@ const Contact = () => (
                 required
               />
             </div>
-            <div>
+            <div className="form-input">
               <label htmlFor="email">Email</label>
               <input
                 type="email"
@@ -95,7 +106,7 @@ const Contact = () => (
                 required
               />
             </div>
-            <div>
+            <div className="form-input">
               <label htmlFor="phone">Phone</label>
               <input
                 type="text"
@@ -104,16 +115,16 @@ const Contact = () => (
                 placeholder="(417) 555-5555"
               />
             </div>
-            <div>
+            <div className="form-input">
               <label htmlFor="message">Message</label>
               <textarea
                 name="text-field"
-                rows="3"
+                rows="4"
                 id="message"
                 placeholder="Write your message here..."
               />
             </div>
-            <div>
+            <div className="form-input">
               <button type="submit" aria-describedby="submit-form">
                 Submit
               </button>
