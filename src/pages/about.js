@@ -22,7 +22,7 @@ const About = () => (
       <p>
         WC Partners is the Webster County Senate Bill 40 Board. We provide
         support for Webster County citizens with developmental disabilities and
-        their families. WC Partners also proivdes Targeted Case Management
+        their families. WC Partners also provides Targeted Case Management
         services through a private contract with the Missouri Department of
         Mental Health as well as funding support for Web-Co Custom Industries.
         WC Partners helps individuals with developmental disabilities acquire
