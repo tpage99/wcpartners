@@ -655,7 +655,7 @@ button {
   color: white;
   border: none;
   cursor: pointer;
-  box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.48);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.48);
 }
 .link-box h3 {
   text-align: center;
@@ -664,6 +664,21 @@ button {
 .box-link {
   text-decoration: none;
   color: white;
+}
+.resource-box {
+  background: #fff;
+  height: 200px;
+  width: 250px;
+  padding-top: 50px;
+  margin: 20px auto;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.48);
+}
+.resource-box h3 {
+  text-align: center;
+  align-content: middle;
+  color: black;
 }
 .footer-link {
   display: inline;
@@ -693,13 +708,13 @@ form label {
 form input {
   width: 100%;
   padding: 0.5rem;
-  border: 1px solid #e2e2e6;
+  border: 1px solid #c1c1c4;
 }
 
 form textarea {
   width: 100%;
   padding: 0.5rem;
-  border: 1px solid #e2e2e6;
+  border: 1px solid #c1c1c4;
 }
 
 form button {
