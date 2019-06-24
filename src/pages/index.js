@@ -47,7 +47,13 @@ const IndexPage = () => (
               textShadow: `22px 15px 38px rgba(0, 0, 0, 0.48)`,
             }}
           >
-            GROWING TOWARDS EMPOWERED FUTURES
+            GROWING
+            <br />
+            TOWARDS
+            <br />
+            EMPOWERED
+            <br />
+            FUTURES
           </h1>
         </div>
       </div>
@@ -83,7 +89,7 @@ const IndexPage = () => (
       <div className="flex">
         <div className="link-box">
           <h3 className="box-link">
-            <Link to="/about#TCM">
+            <Link to="/targeted-case-management">
               <button>Targeted Case Management</button>
             </Link>
           </h3>

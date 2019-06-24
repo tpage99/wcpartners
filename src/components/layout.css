@@ -726,6 +726,29 @@ form button {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.48);
 }
 
+.contact-section {
+  padding-bottom: 2rem;
+}
+
+.contact-start {
+  grid-column: span 3;
+  grid-column-start: 1;
+}
+
+.contact-info {
+  grid-column: span 6;
+}
+
+.contact-info h3 {
+  margin: 0;
+  padding-bottom: 0.5rem;
+}
+
+.contact-photo {
+  max-width: 250px;
+  max-height: 250px;
+}
+
 @media (max-width: 799px) {
   .grid {
     display: flex;

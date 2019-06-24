@@ -1,4 +1,5 @@
 import React, { Fragment } from "react"
+import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -59,7 +60,10 @@ const About = () => (
         Individuals who have been clinically diagnosed with a developmental
         disability or suspect they have a developmental disability can be
         eligible for TCM services. Contact the Springfield Regional Office to
-        confirm eligibility and be referred to WC Partners TCM services.
+        confirm eligibility and be referred to WC Partners TCM services. To
+        learn more about TCM services, visit our{" "}
+        <Link to="/targeted-case-management">Targeted Case Management</Link>{" "}
+        page.
       </p>
       <Footer />
     </Layout>
