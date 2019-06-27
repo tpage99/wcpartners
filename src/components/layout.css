@@ -638,9 +638,9 @@ button {
   cursor: pointer;
 }
 
-#simple-link a,
-#simple-link a:link,
-#simple-link a:visited {
+.strong-link a,
+.strong-link a:link,
+.strong-link a:visited {
   color: white;
   background-color: #2d5b2d;
   padding: 0.25rem 0.25rem;
@@ -650,12 +650,13 @@ button {
   background: #2d5b2d;
   height: 200px;
   width: 250px;
-  padding-top: 50px;
+  padding-top: 70px;
   margin: 20px auto;
   color: white;
   border: none;
   cursor: pointer;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.48);
+  border-radius: 250px 0;
 }
 .link-box h3 {
   text-align: center;
@@ -666,19 +667,14 @@ button {
   color: white;
 }
 .resource-box {
-  background: #fff;
-  height: 200px;
-  width: 250px;
-  padding-top: 50px;
-  margin: 20px auto;
-  border: none;
-  cursor: pointer;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.48);
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  padding-bottom: 40px;
+  border-top: 1px solid #e2e2e6;
 }
 .resource-box h3 {
-  text-align: center;
-  align-content: middle;
   color: black;
+  font-size: 2rem;
 }
 .footer-link {
   display: inline;

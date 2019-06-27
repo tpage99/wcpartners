@@ -71,7 +71,7 @@ const IndexPage = () => (
             state paid resources, individuals with developmental disabilities
             can live empowered and fulfilling lives living their idea of a good
             life. To learn more visit our{" "}
-            <span id="simple-link">
+            <span className="strong-link">
               <Link to="/about/">About page</Link>
             </span>
             .

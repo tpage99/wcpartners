@@ -46,7 +46,7 @@ const SCContact = () => (
               <br />
               Email: kdetherow@wc-partners.net
               <br />
-              Phone: (417) 830-5555
+              Phone: (417) 241-3287
             </p>
           </div>
           <div className="line-break"></div>
@@ -64,7 +64,7 @@ const SCContact = () => (
               <br />
               Email: jgiordano@wc-partners.net
               <br />
-              Phone: (417) 830-5555
+              Phone: (417) 241-3158
             </p>
           </div>
           <div className="line-break"></div>
@@ -82,7 +82,7 @@ const SCContact = () => (
               <br />
               Email: pthompson@wc-partners.net
               <br />
-              Phone: (417) 830-5555
+              Phone: (417) 209-1823
             </p>
           </div>
           <div className="line-break"></div>
@@ -100,7 +100,7 @@ const SCContact = () => (
               <br />
               Email: deanna@wc-partners.net
               <br />
-              Phone: (417) 830-5555
+              Phone: (417) 340-0815
             </p>
           </div>
           <div className="line-break"></div>

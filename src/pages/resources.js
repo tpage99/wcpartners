@@ -29,7 +29,7 @@ const Resources = ({ data }) => (
           Click on the links below to find more about available resources and
           information.
         </p>
-        <ul className="flex" style={{ listStyle: `none` }}>
+        <ul style={{ listStyle: `none` }}>
           {data.allMarkdownRemark.edges.map(resource => (
             <li className="resource-box" key={resource.node.id}>
               <Link
@@ -40,6 +40,9 @@ const Resources = ({ data }) => (
                   {resource.node.frontmatter.title}
                 </h3>
               </Link>
+              <p style={{ paddingTop: `1rem` }}>
+                {resource.node.frontmatter.description}
+              </p>
             </li>
           ))}
         </ul>
@@ -50,8 +53,8 @@ const Resources = ({ data }) => (
 )
 
 export const pageQuery = graphql`
-  query IndexQuery {
-    allMarkdownRemark {
+  query ResourceQuery {
+    allMarkdownRemark(sort: { fields: [frontmatter___title], order: ASC }) {
       edges {
         node {
           id

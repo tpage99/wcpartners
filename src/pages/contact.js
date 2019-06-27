@@ -1,4 +1,5 @@
 import React, { Fragment } from "react"
+import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -26,6 +27,13 @@ const Contact = () => (
           }}
         >
           <h1 style={{ textAlign: `center` }}>CONTACT US</h1>
+          <p style={{ paddingBottom: `1rem`, textAlign: `center` }}>
+            You can contact the office or{" "}
+            <span className="strong-link">
+              <Link to="/sc-contact">contact your Support Coordinator</Link>
+            </span>{" "}
+            directly.
+          </p>
           <p style={{ textAlign: `center` }}>
             Administrative office hours are Monday-Friday from 9am to 1pm.
             <ul
