@@ -735,18 +735,33 @@ form button {
   grid-column-start: 1;
 }
 
+.line-break {
+  border-top: 1px solid #e2e2e6;
+  padding: 1rem 0;
+  grid-column: span 12;
+}
+
 .contact-info {
   grid-column: span 6;
 }
 
-.contact-info h3 {
+.contact-info h2 {
   margin: 0;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0;
+  font-weight: bold;
+  font-size: 2.25rem;
 }
 
 .contact-photo {
   max-width: 250px;
   max-height: 250px;
+}
+
+.contact-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #2d5b2d;
+  padding: 0;
 }
 
 @media (max-width: 799px) {

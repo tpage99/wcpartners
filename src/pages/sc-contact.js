@@ -11,23 +11,99 @@ const SCContact = () => (
     <SEO title="SC Contact" />
     <Layout>
       <main>
-        <h1>WC Partners SC Contact</h1>
+        <h1>Staff Contact Information</h1>
         <div className="grid">
+          <div className="line-break"></div>
           <div className="contact-start">
             <img
-              src="https://res.cloudinary.com/tpage99/image/upload/v1561380321/WCPartners/avataaars.png"
+              src="https://res.cloudinary.com/tpage99/image/upload/v1561652838/WCPartners/avataaars_1.png"
               alt="profile image"
               className="contact-photo"
             />
           </div>
           <div className="contact-info">
+            <h2>Clay McGranahan</h2>
             <p>
-              <h3>SC Name, Support Coordinator</h3>
-              Email
+              <span className="contact-title">Executive Director</span>
               <br />
-              Phone
+              Email: clay@wc-partners.net
+              <br />
+              Phone: (417) 830-4026
             </p>
           </div>
+          <div className="line-break"></div>
+          <div className="contact-start">
+            <img
+              src="https://res.cloudinary.com/tpage99/image/upload/v1561653558/WCPartners/avataaars_2.png"
+              alt="profile image"
+              className="contact-photo"
+            />
+          </div>
+          <div className="contact-info">
+            <h2>Katrina Detherow</h2>
+            <p>
+              <span className="contact-title">Support Coordinator</span>
+              <br />
+              Email: kdetherow@wc-partners.net
+              <br />
+              Phone: (417) 830-5555
+            </p>
+          </div>
+          <div className="line-break"></div>
+          <div className="contact-start">
+            <img
+              src="https://res.cloudinary.com/tpage99/image/upload/v1561653561/WCPartners/avataaars_3.png"
+              alt="profile image"
+              className="contact-photo"
+            />
+          </div>
+          <div className="contact-info">
+            <h2>Jennifer Giordano</h2>
+            <p>
+              <span className="contact-title">Support Coordinator</span>
+              <br />
+              Email: jgiordano@wc-partners.net
+              <br />
+              Phone: (417) 830-5555
+            </p>
+          </div>
+          <div className="line-break"></div>
+          <div className="contact-start">
+            <img
+              src="https://res.cloudinary.com/tpage99/image/upload/v1561653577/WCPartners/avataaars_4.png"
+              alt="profile image"
+              className="contact-photo"
+            />
+          </div>
+          <div className="contact-info">
+            <h2>Paula Thompson</h2>
+            <p>
+              <span className="contact-title">Support Coordinator</span>
+              <br />
+              Email: pthompson@wc-partners.net
+              <br />
+              Phone: (417) 830-5555
+            </p>
+          </div>
+          <div className="line-break"></div>
+          <div className="contact-start">
+            <img
+              src="https://res.cloudinary.com/tpage99/image/upload/v1561653784/WCPartners/avataaars_5.png"
+              alt="profile image"
+              className="contact-photo"
+            />
+          </div>
+          <div className="contact-info">
+            <h2>Deanna DeWitt</h2>
+            <p>
+              <span className="contact-title">Support Coordinator</span>
+              <br />
+              Email: deanna@wc-partners.net
+              <br />
+              Phone: (417) 830-5555
+            </p>
+          </div>
+          <div className="line-break"></div>
           <div className="contact-start">
             <img
               src="https://res.cloudinary.com/tpage99/image/upload/v1561380321/WCPartners/avataaars.png"
@@ -36,11 +112,13 @@ const SCContact = () => (
             />
           </div>
           <div className="contact-info">
+            <h2>Taylor Page</h2>
             <p>
-              <h3>SC Name, Support Coordinator</h3>
-              Email
+              <span className="contact-title">Support Coordinator</span>
               <br />
-              Phone
+              Email: tpage@wc-partners.net
+              <br />
+              Phone: (417) 830-0884
             </p>
           </div>
         </div>

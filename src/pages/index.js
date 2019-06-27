@@ -17,7 +17,7 @@ const IndexPage = () => (
         background: `linear-gradient(200deg, #2D5B2D 55.52%, rgba(255, 255, 255, 0) 55.52%), #FFFFFF`,
       }}
     >
-      <div className="grid" style={{ zIndex: `2` }}>
+      <div className="grid" style={{ zIndex: `2`, maxWidth: `1350px` }}>
         <div
           className="img-fluid"
           style={{ gridColumnStart: `1`, gridColumn: `span 7` }}
@@ -25,7 +25,6 @@ const IndexPage = () => (
           <img
             src="https://res.cloudinary.com/tpage99/image/upload/v1560422846/WCPartners/heroGroup.png"
             alt="collage of people smiling"
-            className="feature-img"
           />
         </div>
         <div
@@ -44,16 +43,17 @@ const IndexPage = () => (
               margin: `0 auto`,
               paddingTop: `1.9rem`,
               fontStyle: `bold`,
-              textShadow: `22px 15px 38px rgba(0, 0, 0, 0.48)`,
             }}
           >
-            GROWING
-            <br />
-            TOWARDS
-            <br />
-            EMPOWERED
-            <br />
-            FUTURES
+            <span style={{ backgroundColor: `#2D5B2D` }}>
+              GROWING
+              <br />
+              TOWARDS
+              <br />
+              EMPOWERED
+              <br />
+              FUTURES
+            </span>
           </h1>
         </div>
       </div>
@@ -103,8 +103,8 @@ const IndexPage = () => (
         </div>
         <div className="link-box">
           <h3 className="box-link">
-            <Link to="/about#SB40">
-              <button>SB40 History</button>
+            <Link to="/sc-contact">
+              <button>Staff Contact</button>
             </Link>
           </h3>
         </div>
