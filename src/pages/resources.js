@@ -54,7 +54,10 @@ const Resources = ({ data }) => (
 
 export const pageQuery = graphql`
   query ResourceQuery {
-    allMarkdownRemark(sort: { fields: [frontmatter___title], order: ASC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___title], order: ASC }
+      filter: { frontmatter: { category: { eq: "resource" } } }
+    ) {
       edges {
         node {
           id

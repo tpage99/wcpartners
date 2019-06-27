@@ -41,6 +41,13 @@ module.exports = {
       },
     },
     "gatsby-transformer-remark",
+    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/data`,
+      },
+    },
     // {
     //   resolve: "gatsby-plugin-source-eventbrite",
     //   options: {

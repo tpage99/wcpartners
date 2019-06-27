@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Art Inspired Art Class",
+    "date": "2019-07-02",
+    "time": "Classes are at 11am, 2pm, and 3:30pm",
+    "description": "Join the Art Inspired Class at WC Partners, as they engage in awesome activities",
+    "url": "/resources/art-classes",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669407/WCPartners/acalogo.jpg"
+  },
+  {
+    "title": "Music Therapy",
+    "date": "2019-07-11",
+    "time": "Classes are at 3:00pm, 4:15pm, and 5:30pm",
+    "description": "Music Therapy is for everyone! Come Check it out.",
+    "url": "http://includeozarks.org/item/drury-center-for-music-therapy/",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/10382272_884090745005850_7052147684025092384_o.jpg"
+  }
+]

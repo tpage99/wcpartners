@@ -17,7 +17,7 @@ const SCContact = () => (
           <div className="contact-start">
             <img
               src="https://res.cloudinary.com/tpage99/image/upload/v1561652838/WCPartners/avataaars_1.png"
-              alt="profile image"
+              alt="Clay McGranahan"
               className="contact-photo"
             />
           </div>
@@ -35,7 +35,7 @@ const SCContact = () => (
           <div className="contact-start">
             <img
               src="https://res.cloudinary.com/tpage99/image/upload/v1561653558/WCPartners/avataaars_2.png"
-              alt="profile image"
+              alt="Katrina Detherow"
               className="contact-photo"
             />
           </div>
@@ -53,7 +53,7 @@ const SCContact = () => (
           <div className="contact-start">
             <img
               src="https://res.cloudinary.com/tpage99/image/upload/v1561653561/WCPartners/avataaars_3.png"
-              alt="profile image"
+              alt="Jennifer Giordano"
               className="contact-photo"
             />
           </div>
@@ -71,7 +71,7 @@ const SCContact = () => (
           <div className="contact-start">
             <img
               src="https://res.cloudinary.com/tpage99/image/upload/v1561653577/WCPartners/avataaars_4.png"
-              alt="profile image"
+              alt="Paula Thompson"
               className="contact-photo"
             />
           </div>
@@ -89,7 +89,7 @@ const SCContact = () => (
           <div className="contact-start">
             <img
               src="https://res.cloudinary.com/tpage99/image/upload/v1561653784/WCPartners/avataaars_5.png"
-              alt="profile image"
+              alt="Deanna DeWitt"
               className="contact-photo"
             />
           </div>
@@ -107,7 +107,7 @@ const SCContact = () => (
           <div className="contact-start">
             <img
               src="https://res.cloudinary.com/tpage99/image/upload/v1561380321/WCPartners/avataaars.png"
-              alt="profile image"
+              alt="Taylor Page"
               className="contact-photo"
             />
           </div>

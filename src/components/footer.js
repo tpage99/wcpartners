@@ -11,6 +11,7 @@ export default class footer extends Component {
           paddingTop: `1.5rem`,
           paddingBottom: `40px`,
           borderTop: `1px solid #e2e2e6`,
+          madWidth: `1200`,
         }}
       >
         <p style={{ textAlign: `center` }}>
@@ -40,8 +41,17 @@ export default class footer extends Component {
             <li className="footer-link">
               <Link to="/">Home</Link>
             </li>
-            <li className="footer-link" style={{ paddingRight: `0` }}>
-              <Link to="#">Site Map</Link>
+            <li className="footer-link">
+              <Link to="/about">About</Link>
+            </li>
+            <li className="footer-link">
+              <Link to="/resources">Resources</Link>
+            </li>
+            <li className="footer-link">
+              <Link to="/events">Events</Link>
+            </li>
+            <li className="footer-link">
+              <Link to="/contact">Contact</Link>
             </li>
           </ul>
         </div>
