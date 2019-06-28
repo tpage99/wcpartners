@@ -4,10 +4,29 @@ exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
 
   const resourceTemplate = path.resolve("src/templates/resource-page.js")
+  const eventTemplate = path.resolve("src/templates/event-page.js")
 
   return graphql(`
     {
-      allMarkdownRemark {
+      resources: allMarkdownRemark(
+        filter: { frontmatter: { category: { eq: "resource" } } }
+      ) {
+        edges {
+          node {
+            html
+            id
+            frontmatter {
+              path
+              title
+            }
+          }
+        }
+      }
+    }
+    {
+      events: allMarkdownRemark(
+        filter: { frontmatter: { category: { eq: "event" } } }
+      ) {
         edges {
           node {
             html
@@ -29,6 +48,13 @@ exports.createPages = ({ actions, graphql }) => {
       createPage({
         path: node.frontmatter.path,
         component: resourceTemplate,
+      })
+    })
+
+    res.data.allMarkdownRemark.edges.forEach(({ node }) => {
+      createPage({
+        path: node.frontmatter.path,
+        component: eventTemplate,
       })
     })
   })

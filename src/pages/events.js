@@ -1,11 +1,12 @@
 import React, { Fragment } from "react"
+import { graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/heroHeader"
 import Footer from "../components/footer"
 
-const Events = () => (
+const Events = ({ data }) => (
   <Fragment>
     <HeroHeader />
     <SEO title="Events" />
@@ -51,10 +52,41 @@ const Events = () => (
           <li>Some other external CMS</li>
         </ol>
       </p>
-
+      <ul style={{ listStyle: `none` }}>
+        {data.allMarkdownRemark.edges.map(event => (
+          <li className="resource-box" key={event.node.id}>
+            <Link
+              to={event.node.frontmatter.path}
+              style={{ textDecoration: `none` }}
+            >
+              <h3 className="resource-link">{event.node.frontmatter.title}</h3>
+            </Link>
+            <p style={{ paddingTop: `1rem` }}>
+              {event.node.frontmatter.description}
+            </p>
+          </li>
+        ))}
+      </ul>
       <Footer />
     </Layout>
   </Fragment>
 )
+
+export const pageQuery = graphql`
+  query EventQuery {
+    allMarkdownRemark(filter: { frontmatter: { category: { eq: "event" } } }) {
+      edges {
+        node {
+          id
+          frontmatter {
+            path
+            title
+            description
+          }
+        }
+      }
+    }
+  }
+`
 
 export default Events
