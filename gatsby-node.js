@@ -22,8 +22,6 @@ exports.createPages = ({ actions, graphql }) => {
           }
         }
       }
-    }
-    {
       events: allMarkdownRemark(
         filter: { frontmatter: { category: { eq: "event" } } }
       ) {
@@ -44,14 +42,14 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(res.errors)
     }
 
-    res.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    res.data.resources.edges.forEach(({ node }) => {
       createPage({
         path: node.frontmatter.path,
         component: resourceTemplate,
       })
     })
 
-    res.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    res.data.events.edges.forEach(({ node }) => {
       createPage({
         path: node.frontmatter.path,
         component: eventTemplate,
