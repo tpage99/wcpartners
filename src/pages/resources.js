@@ -6,6 +6,8 @@ import SEO from "../components/seo"
 import HeroHeader from "../components/heroHeader"
 import Footer from "../components/footer"
 
+import pdf from "./resources/Activity-List-June-2019.pdf"
+
 const Resources = ({ data }) => (
   <Fragment>
     <HeroHeader />
@@ -22,7 +24,7 @@ const Resources = ({ data }) => (
               textShadow: `0 0 10px rgba(0, 0, 0, 0.48)`,
             }}
           >
-            Monthly Activity List
+            <a href={pdf}>Download Monthly Activity List</a>
           </span>
         </h2>
         <p>

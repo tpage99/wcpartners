@@ -17,7 +17,10 @@ const IndexPage = () => (
         background: `linear-gradient(200deg, #2D5B2D 55.52%, rgba(255, 255, 255, 0) 55.52%), #FFFFFF`,
       }}
     >
-      <div className="grid" style={{ zIndex: `2`, maxWidth: `1350px` }}>
+      <div
+        className="grid"
+        style={{ zIndex: `2`, maxWidth: `1350px`, margin: `0 auto` }}
+      >
         <div
           className="img-fluid"
           style={{ gridColumnStart: `1`, gridColumn: `span 7` }}
