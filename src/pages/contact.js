@@ -74,6 +74,8 @@ const Contact = () => (
               <p>
                 1329 Spur Drive
                 <br />
+                Suite 160
+                <br />
                 Marshfield, MO 65706
               </p>
             </div>

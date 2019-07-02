@@ -100,7 +100,7 @@ const IndexPage = () => (
         <div className="link-box">
           <h3 className="box-link">
             <Link to="/resources">
-              <button>Community Resources</button>
+              <button>Resources</button>
             </Link>
           </h3>
         </div>
@@ -114,7 +114,7 @@ const IndexPage = () => (
         <div className="link-box">
           <h3 className="box-link">
             <Link to="/events">
-              <button>Social Activity/Events</button>
+              <button>Events</button>
             </Link>
           </h3>
         </div>

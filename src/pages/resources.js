@@ -16,15 +16,8 @@ const Resources = ({ data }) => (
       <main>
         <h1>Resources for Webster County</h1>
         <h2 style={{ color: `#fff`, padding: `2rem 0` }}>
-          <span
-            style={{
-              backgroundColor: `#48b04c`,
-              padding: `1rem`,
-              boxShadow: `0 0 10px rgba(0, 0, 0, 0.48)`,
-              textShadow: `0 0 10px rgba(0, 0, 0, 0.48)`,
-            }}
-          >
-            <a href={pdf}>Download Monthly Activity List</a>
+          <span className="big-btn">
+            <a href={pdf}>Monthly Activity List</a>
           </span>
         </h2>
         <p>

@@ -15,17 +15,38 @@ const Events = ({ data }) => (
       <ul style={{ listStyle: `none` }}>
         {data.allEventsJson.edges.map(event => (
           <li className="resource-box" key={event.node.id}>
-            <h3 className="resource-link">{event.node.title}</h3>
-            <p>Date: {event.node.date}</p>
-            <p>Time: {event.node.time}</p>
-            <p style={{ paddingTop: `1rem` }}>
-              {event.node.description}
-              <br />
-              You can learn more about this event here:{" "}
-              <Link to={event.node.url} style={{ textDecoration: `none` }}>
-                {event.node.title}
-              </Link>
-            </p>
+            <div className="grid">
+              <div
+                style={{
+                  gridColumn: `span 4`,
+                  alignContent: `middle`,
+                  verticalAlign: `sub`,
+                }}
+              >
+                <img
+                  src={event.node.thumbnailImage}
+                  alt={event.node.title}
+                  style={{
+                    maxWidth: `80%`,
+                    maxHeight: `80%`,
+                  }}
+                />
+              </div>
+              <div style={{ gridColumn: `span 8`, gridColumnEnd: `-1` }}>
+                <h3 className="resource-link">{event.node.title}</h3>
+                <p style={{ paddingBottom: `0`, margin: `0` }}>
+                  Date: {event.node.date}
+                </p>
+                <p>Time: {event.node.time}</p>
+                <p style={{ paddingTop: `1rem` }}>{event.node.description}</p>
+                <p>
+                  You can learn more about this event here:{" "}
+                  <Link to={event.node.url} style={{ textDecoration: `none` }}>
+                    {event.node.title}
+                  </Link>
+                </p>
+              </div>
+            </div>
           </li>
         ))}
       </ul>
