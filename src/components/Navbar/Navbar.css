@@ -1,0 +1,129 @@
+.navbar {
+  position: static;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #2d5b2d;
+  height: 56px;
+}
+
+.app-nav {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  background: whitesmoke;
+  background-image: url("https://res.cloudinary.com/tpage99/image/upload/v1536464319/web%20assets/funky-lines.png");
+  height: 56px;
+}
+
+.navbar_navigation {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  padding: 0 4% 0 5%;
+  font-family: Lato, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+.navbar_logo {
+  margin-left: 0;
+  padding-left: 0;
+  display: flex;
+  align-content: flex-start;
+  align-items: center;
+}
+
+.navbar_logo a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+.spacer {
+  flex: 1;
+}
+
+.navbar_navigation-items ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar_navigation-items li {
+  padding: 0.9rem 0.5rem 0 0.5rem;
+}
+
+.navbar a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.app-nav a {
+  display: block;
+  text-align: center;
+  padding: 14px 10px;
+  text-decoration: none;
+}
+
+.navbar_navigation-items a {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+.navbar_navigation-items a:hover,
+.navbar_navigation-items a:active {
+  background-color: whitesmoke;
+  color: rgb(75, 75, 75);
+}
+
+@media all and (max-width: 410px) {
+  .app-nav > li {
+    flex: 1 1 auto;
+  }
+  .navbar {
+    display: none;
+  }
+  .app-nav a {
+    display: block;
+    text-align: center;
+    padding: 14px 0;
+    text-decoration: none;
+    font-size-adjust: inherit;
+    color: rgb(75, 75, 75);
+  }
+  .navbar_navigation-items a:active {
+    background-color: whitesmoke;
+    color: rgb(75, 75, 75);
+  }
+}
+
+@media (max-width: 799px) {
+  .navbar {
+    display: none;
+  }
+  .navbar_navigation-items {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+  }
+  .app-nav a {
+    color: rgb(75, 75, 75);
+  }
+}
+
+@media (min-width: 799px) {
+  .navbar_toggle-button {
+    display: none;
+  }
+  .toolbar_logo {
+    margin: 0;
+  }
+  .app-nav {
+    display: none;
+  }
+}

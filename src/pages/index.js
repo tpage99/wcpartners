@@ -1,7 +1,7 @@
 import React, { Fragment } from "react"
 import { Link } from "gatsby"
 
-import HeroNav from "../components/heroNav"
+import HeroNav from "../components/Navbar/heroNav"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 import Footer from "../components/footer"

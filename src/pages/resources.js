@@ -3,7 +3,7 @@ import { graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import HeroHeader from "../components/heroHeader"
+import HeroHeader from "../components/Navbar/heroHeader"
 import Footer from "../components/footer"
 
 import pdf from "./resources/Activity-List-June-2019.pdf"
