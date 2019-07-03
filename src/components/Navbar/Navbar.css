@@ -7,14 +7,22 @@
   height: 56px;
 }
 
-.app-nav {
+.app-menu {
   position: fixed;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  background: whitesmoke;
-  background-image: url("https://res.cloudinary.com/tpage99/image/upload/v1536464319/web%20assets/funky-lines.png");
-  height: 56px;
+  bottom: 5px;
+  left: 33%;
+  width: 33%;
+  background: #48b04c;
+  height: 50px;
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.48);
+  font-weight: bold;
+  font-family: Lato, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  text-rendering: optimizeLegibility;
+  font-size: 1.75rem;
+  text-shadow: 1px 1px 20px rgba(0, 0, 0, 0.48);
+  z-index: 10;
 }
 
 .navbar_navigation {
@@ -53,7 +61,7 @@
 }
 
 .navbar_navigation-items li {
-  padding: 0.9rem 0.5rem 0 0.5rem;
+  padding: 0.5rem 0.5rem 0.5rem;
 }
 
 .navbar a {
@@ -82,19 +90,8 @@
 }
 
 @media all and (max-width: 410px) {
-  .app-nav > li {
-    flex: 1 1 auto;
-  }
-  .navbar {
+  .navbar_navigation-items ul li {
     display: none;
-  }
-  .app-nav a {
-    display: block;
-    text-align: center;
-    padding: 14px 0;
-    text-decoration: none;
-    font-size-adjust: inherit;
-    color: rgb(75, 75, 75);
   }
   .navbar_navigation-items a:active {
     background-color: whitesmoke;
@@ -103,16 +100,13 @@
 }
 
 @media (max-width: 799px) {
-  .navbar {
+  .navbar_navigation-items ul li {
     display: none;
   }
   .navbar_navigation-items {
     display: flex;
     flex-grow: 1;
     justify-content: space-around;
-  }
-  .app-nav a {
-    color: rgb(75, 75, 75);
   }
 }
 
@@ -123,7 +117,7 @@
   .toolbar_logo {
     margin: 0;
   }
-  .app-nav {
+  .app-menu {
     display: none;
   }
 }

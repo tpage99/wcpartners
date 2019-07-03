@@ -2,9 +2,11 @@ import { Link } from "gatsby"
 import React from "react"
 
 import "./Navbar.css"
+import MenuButton from "./menuButton"
 
 const HeroHeader = props => (
   <header className="navbar">
+    <MenuButton />
     <nav className="navbar_navigation">
       <div className="navbar_logo">
         <img
@@ -19,7 +21,6 @@ const HeroHeader = props => (
         <Link to="/">WC PARTNERS</Link>
       </div>
       <div className="spacer" />
-      <div className="navbar_toggle-button" />
       <div className="navbar_navigation-items">
         <ul>
           <li>
