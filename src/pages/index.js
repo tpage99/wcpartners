@@ -18,7 +18,7 @@ const IndexPage = () => (
       }}
     >
       <div
-        className="grid"
+        className="hero-grid"
         style={{ zIndex: `2`, maxWidth: `1350px`, margin: `0 auto` }}
       >
         <div
@@ -30,32 +30,13 @@ const IndexPage = () => (
             alt="collage of people smiling"
           />
         </div>
-        <div
-          style={{
-            gridColumnEnd: `-1`,
-            gridColumn: `span 5`,
-            margin: `0 auto`,
-            maxWidth: 1200,
-            padding: `1.5rem 1rem 1rem`,
-          }}
-        >
-          <h1
-            style={{
-              fontSize: `4rem`,
-              color: `white`,
-              margin: `0 auto`,
-              paddingTop: `1.9rem`,
-              fontStyle: `bold`,
-            }}
-          >
-            <span style={{ backgroundColor: `#2D5B2D` }}>
-              GROWING
-              <br />
-              TOWARDS
-              <br />
-              EMPOWERED
-              <br />
-              FUTURES
+        <div className="hero-text">
+          <h1 className="hero-header">
+            <span className="highlight">
+              GROWING <br />
+              TOWARDS <br />
+              EMPOWERED <br />
+              FUTURES{" "}
             </span>
           </h1>
         </div>

@@ -34,24 +34,24 @@ const Contact = () => (
             </span>{" "}
             directly.
           </p>
-          <p style={{ textAlign: `center` }}>
+          <div style={{ textAlign: `center` }}>
             Administrative office hours are Monday-Friday from 9am to 1pm.
-            <ul
+            <div
               style={{
                 listStyle: `none`,
                 textDecoration: `none`,
                 display: `block`,
               }}
             >
-              <li style={{ display: `inline-block`, padding: `0.5rem` }}>
+              <div style={{ display: `inline-block`, padding: `0.5rem` }}>
                 <span style={{ fontWeight: `bold` }}>Phone:</span> (417)
                 630-0782
-              </li>
-              <li style={{ display: `inline-block`, padding: `0.5rem` }}>
+              </div>
+              <div style={{ display: `inline-block`, padding: `0.5rem` }}>
                 <span style={{ fontWeight: `bold` }}>Fax:</span> (417) 630-0783
-              </li>
-            </ul>
-          </p>
+              </div>
+            </div>
+          </div>
           <div
             style={{
               listStyle: `none`,
@@ -59,7 +59,7 @@ const Contact = () => (
               gridTemplateColumns: `1fr 1fr`,
               margin: `0 auto`,
               maxWidth: `100%`,
-              paddingBottom: `1rem`,
+              padding: `1.5rem 0`,
             }}
           >
             <div style={{ margin: `0 auto` }}>
