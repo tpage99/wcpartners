@@ -57,7 +57,7 @@ const Events = ({ data }) => (
 
 export const pageQuery = graphql`
   query Events {
-    allEventsJson {
+    allEventsJson(sort: { fields: date, order: ASC }) {
       edges {
         node {
           date(formatString: "MMMM DD, YYYY")

@@ -1,9 +1,9 @@
 [
   {
-    "title": "Art Inspired Art Class",
-    "date": "2019-07-02",
+    "title": "Art Class",
+    "date": "2019-07-09",
     "time": "Classes are at 11am, 2pm, and 3:30pm",
-    "description": "Join the Art Inspired Class at WC Partners, as they engage in awesome activities",
+    "description": "Join Art Inspired Academy at WC Partners, as they engage in awesome activities",
     "url": "/resources/art-classes",
     "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669407/WCPartners/acalogo.jpg"
   },
@@ -14,5 +14,53 @@
     "description": "Music Therapy is for everyone! Come Check it out.",
     "url": "/resources/music-therapy",
     "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/10382272_884090745005850_7052147684025092384_o.jpg"
+  },
+  {
+    "title": "In-Home Care Expectations",
+    "date": "2019-07-31",
+    "time": "4:00pm",
+    "description": "SCIL/Empower:abilities will be hosting an educational class on In-home care expectations.",
+    "url": "/resources/empower-abilities",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1562154524/WCPartners/50770303_2305165732840408_379499144156282880_n.jpg"
+  },
+  {
+    "title": "Technology Life Hacks",
+    "date": "2019-08-29",
+    "time": "4:00pm",
+    "description": "SCIL/Empower:abilities will be hosting an educational class on Technology Life Hacks.",
+    "url": "/resources/empower-abilities",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1562154524/WCPartners/50770303_2305165732840408_379499144156282880_n.jpg"
+  },
+  {
+    "title": "Individual Rights",
+    "date": "2019-09-25",
+    "time": "4:00pm",
+    "description": "SCIL/Empower:abilities will be hosting an educational class on Individual Rights.",
+    "url": "/resources/empower-abilities",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1562154524/WCPartners/50770303_2305165732840408_379499144156282880_n.jpg"
+  },
+  {
+    "title": "Disability Awareness / IL Movement",
+    "date": "2019-10-24",
+    "time": "4:00pm",
+    "description": "SCIL/Empower:abilities will be hosting an educational class on Disability Awareness and the IL Movement.",
+    "url": "/resources/empower-abilities",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1562154524/WCPartners/50770303_2305165732840408_379499144156282880_n.jpg"
+  },
+  {
+    "title": "Internet Safety",
+    "date": "2019-11-20",
+    "time": "4:00pm",
+    "description": "SCIL/Empower:abilities will be hosting an educational class on Internet Safety.",
+    "url": "/resources/empower-abilities",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1562154524/WCPartners/50770303_2305165732840408_379499144156282880_n.jpg"
+  },
+  {
+    "title": "Holiday Craft",
+    "date": "2019-12-19",
+    "time": "4:00pm",
+    "description": "SCIL/Empower:abilities will be hosting an educational class on Holiday Craft.",
+    "url": "/resources/empower-abilities",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1562154524/WCPartners/50770303_2305165732840408_379499144156282880_n.jpg"
   }
 ]
