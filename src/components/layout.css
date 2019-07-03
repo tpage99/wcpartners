@@ -358,6 +358,7 @@ form button {
 
 .contact-info {
   grid-column: span 6;
+  padding-left: 3rem;
 }
 
 .contact-info h2 {
@@ -439,6 +440,9 @@ form button {
   }
   .grid button {
     margin-bottom: 2rem;
+  }
+  .contact-info {
+    padding: 0 0 2rem 0;
   }
 }
 
