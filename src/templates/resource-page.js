@@ -14,7 +14,7 @@ export default function Template({ data }) {
       <SEO title={resource.frontmatter.title} />
       <main>
         <Layout>
-          <h1>{resource.frontmatter.title}</h1>
+          <h1>{resource.frontmatter.title} | Resources</h1>
           <div dangerouslySetInnerHTML={{ __html: resource.html }} />
           <Footer />
         </Layout>

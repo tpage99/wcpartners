@@ -5,4 +5,13 @@ description: 'Information about community activities and/or leisure type resourc
 category: 'resource'
 ---
 
-This is some information about activities. Primarily a test to make sure all is in proper working order.
+## Kids Bowl Free
+Registered Kids Receive 2 FREE GAMES Of Bowling Each Day Of The KBF Program All Summer Long, Valued At Over $500 Per Child!
+
+This Program is being offered at 4 Springfield bowling alleys:
+1. Andy B’s - 1127 E Battlefield Rd.
+2. Enterprise Lane - 1625 S Enterprise Ave.
+3. Lighthouse Lanes - 350 S Glenstone Ave.
+4. Sunshine Lanes - 1500 W Sunshine St.
+
+Register on-line at https://www.kidsbowlfree.com

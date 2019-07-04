@@ -12,6 +12,9 @@ const Events = ({ data }) => (
     <SEO title="Events" />
     <Layout>
       <h1>WC Partners Events</h1>
+      <p>
+        All events are hosted at WC Partners' office, unless otherwise denoted.
+      </p>
       <ul style={{ listStyle: `none` }}>
         {data.allEventsJson.edges.map(event => (
           <li className="resource-box" key={event.node.id}>
