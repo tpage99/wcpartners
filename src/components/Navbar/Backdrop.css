@@ -1,0 +1,29 @@
+.backdrop {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  color: #48b04c;
+  z-index: 100;
+}
+
+.backdrop ul {
+  height: 100%;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.backdrop li {
+  margin: 0.5rem 0;
+}
+
+.backdrop a {
+  color: white;
+  text-decoration: none;
+  font-size: 2rem;
+}
+
+.backdrop a:visited {
+  color: white;
+}

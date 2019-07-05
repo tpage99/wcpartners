@@ -2,6 +2,10 @@ import React from "react"
 
 import "./Navbar.css"
 
-const MenuButton = () => <button className="app-menu">MENU</button>
+const MenuButton = props => (
+  <button className="app-menu" onClick={props.drawerClickHandler}>
+    MENU
+  </button>
+)
 
 export default MenuButton
