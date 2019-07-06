@@ -236,6 +236,17 @@ p {
 /* gatsby boilerplate end - cut out several hundred lines of random*/
 
 /* colors from WC Partners logo are 2D5B2D for dark green and 48b04c for light green */
+.slant-bg {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+      200deg,
+      #2d5b2d 55.52%,
+      rgba(255, 255, 255, 0) 55.52%
+    ),
+    #ffffff;
+}
+
 .hero-text {
   grid-column-end: -1;
   grid-column: span 5;
@@ -466,6 +477,18 @@ form button {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+  }
+}
+
+@media (min-width: 800px) {
+  .slant-bg {
+    padding-bottom: 8rem;
+  }
+  #elevate {
+    margin-top: -8rem;
+  }
+  .hero-header {
+    font-size: 3rem;
   }
 }
 

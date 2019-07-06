@@ -99,7 +99,7 @@
   }
 }
 
-@media (max-width: 799px) {
+@media (max-width: 999px) {
   .navbar_navigation-items ul li {
     display: none;
   }
@@ -110,7 +110,7 @@
   }
 }
 
-@media (min-width: 799px) {
+@media (min-width: 999px) {
   .navbar_toggle-button {
     display: none;
   }

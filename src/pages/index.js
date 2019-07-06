@@ -10,13 +10,7 @@ const IndexPage = () => (
   <Fragment>
     <HeroNav />
     <SEO title="Home" />
-    <div
-      style={{
-        width: `100%`,
-        height: `100%`,
-        background: `linear-gradient(200deg, #2D5B2D 55.52%, rgba(255, 255, 255, 0) 55.52%), #FFFFFF`,
-      }}
-    >
+    <div className="slant-bg">
       <div
         className="hero-grid"
         style={{ zIndex: `2`, maxWidth: `1350px`, margin: `0 auto` }}
@@ -43,7 +37,7 @@ const IndexPage = () => (
       </div>
     </div>
     <Layout>
-      <div className="grid">
+      <div className="grid" id="elevate">
         <div style={{ margin: `0 auto`, gridColumn: `span 7` }}>
           <h1>Welcome to WC Partners!</h1>
           <h2 style={{ fontStyle: `italic` }}>
