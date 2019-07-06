@@ -251,15 +251,7 @@ p {
   grid-column-end: -1;
   grid-column: span 5;
   margin: 0 auto;
-  padding: 1.5rem 1rem 1rem;
-}
-
-.hero-header {
-  font-size: 4rem;
-  color: white;
-  margin: 0 auto;
-  padding-top: 1.9rem;
-  font-style: bold;
+  padding-top: 1.5rem;
 }
 
 button {
@@ -413,6 +405,11 @@ form button {
   padding: 1.5rem 0;
 }
 
+.events-grid {
+  grid-column: span 4;
+  padding: 0.5rem;
+}
+
 @media (max-width: 799px) {
   .hero-header {
     font-size: 3rem;
@@ -478,9 +475,18 @@ form button {
     justify-content: center;
     flex-wrap: wrap;
   }
+  .events-grid {
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .event-img {
+    height: 100%;
+    width: 100%;
+  }
 }
 
-@media (min-width: 800px) {
+@media (max-width: 1366px) {
   .slant-bg {
     padding-bottom: 8rem;
   }
@@ -489,10 +495,33 @@ form button {
   }
   .hero-header {
     font-size: 3rem;
+    color: white;
+    margin: 0 auto;
+    font-style: bold;
+  }
+  .hero-grid {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .hero-grid .img-fluid {
+    width: 550px;
+    max-width: 100%;
+    max-height: 550px;
+    padding-top: 2rem;
+  }
+  .hero-grid .img-fluid img {
+    width: 550px;
+    max-width: 100%;
+    max-height: 550px;
+  }
+  .img-fluid {
+    margin: 0 auto;
   }
 }
 
-@media (min-width: 799px) {
+@media (min-width: 1000px) {
   .hero-grid {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
@@ -504,6 +533,13 @@ form button {
     max-width: 80%;
     max-height: 80%;
     margin: 0 auto;
+  }
+  .hero-header {
+    font-size: 4rem;
+    color: white;
+    margin: 0 auto;
+    padding-top: 1.9rem;
+    font-style: bold;
   }
   .grid {
     display: grid;

@@ -6,12 +6,27 @@ import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
 import Footer from "../components/footer"
 
+import GameNight from "../components/gameImg"
+import ArtClass from "../components/artClassImg"
+import Arcade from "../components/arcadeImg"
+
 const Events = ({ data }) => (
   <Fragment>
     <HeroHeader />
     <SEO title="Events" />
     <Layout>
       <h1>WC Partners Events</h1>
+      <div className="grid">
+        <div className="events-grid event-img">
+          <GameNight />
+        </div>
+        <div className="events-grid event-img">
+          <ArtClass />
+        </div>
+        <div className="events-grid event-img">
+          <Arcade />
+        </div>
+      </div>
       <p>
         All events are hosted at WC Partners' office, unless otherwise denoted.
       </p>
@@ -32,6 +47,8 @@ const Events = ({ data }) => (
                   style={{
                     maxWidth: `80%`,
                     maxHeight: `80%`,
+                    margin: `0 auto`,
+                    display: `flex`,
                   }}
                 />
               </div>

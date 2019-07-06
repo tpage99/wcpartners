@@ -67,7 +67,7 @@
 .navbar a {
   display: block;
   text-align: center;
-  padding: 14px 16px;
+  padding: 15px 16px;
   text-decoration: none;
 }
 
@@ -85,7 +85,7 @@
 
 .navbar_navigation-items a:hover,
 .navbar_navigation-items a:active {
-  background-color: whitesmoke;
+  background-color: white;
   color: rgb(75, 75, 75);
 }
 
