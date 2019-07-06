@@ -393,6 +393,15 @@ form button {
   text-shadow: 1px 1px 20px rgba(0, 0, 0, 0.48);
 }
 
+.address-grid {
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 1.5rem 0;
+}
+
 @media (max-width: 799px) {
   .hero-header {
     font-size: 3rem;
@@ -421,7 +430,6 @@ form button {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    padding-bottom: 3rem;
   }
   .grid .img-fluid {
     width: 550px;
@@ -441,8 +449,23 @@ form button {
   .grid button {
     margin-bottom: 2rem;
   }
+  .grid img {
+    margin: 0 auto;
+    align-content: center;
+    padding-bottom: 1.5rem;
+  }
   .contact-info {
     padding: 0 0 2rem 0;
+  }
+  .form-input {
+    padding: 0.5rem 0;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .address-grid {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
   }
 }
 

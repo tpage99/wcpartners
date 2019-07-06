@@ -52,16 +52,7 @@ const Contact = () => (
               </div>
             </div>
           </div>
-          <div
-            style={{
-              listStyle: `none`,
-              display: `grid`,
-              gridTemplateColumns: `1fr 1fr`,
-              margin: `0 auto`,
-              maxWidth: `100%`,
-              padding: `1.5rem 0`,
-            }}
-          >
+          <div className="address-grid">
             <div style={{ margin: `0 auto` }}>
               <h2 style={{ marginBottom: `0.5rem` }}>Mailing address</h2>
               <p>
