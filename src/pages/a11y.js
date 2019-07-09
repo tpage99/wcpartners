@@ -40,16 +40,6 @@ const Contact = () => (
         </a>
         .
       </p>
-
-      <h2>A11y</h2>
-      <p>
-        Accessibility, often abbreviated to "a11y" to be more precise when
-        searching for terminology specific to web development and design, is an
-        often-overlooked aspect of web development. Most people do not realize
-        that even access to websites must maintain at least some degree of
-        accessibility and this right is protected under the American with
-        Disabilities Act (ADA).
-      </p>
       <Footer />
     </Layout>
   </Fragment>

@@ -1,6 +1,8 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
 
+import FBLogo from "../components/fbImage"
+
 export default class footer extends Component {
   render() {
     return (
@@ -54,6 +56,11 @@ export default class footer extends Component {
               <Link to="/contact">Contact</Link>
             </li>
           </ul>
+          <div style={{ margin: `2rem auto`, maxWidth: `150px` }}>
+            <a href="https://www.facebook.com/wcpartnerswebstercounty/">
+              <FBLogo />
+            </a>
+          </div>
         </div>
       </footer>
     )
