@@ -1,37 +1,5 @@
 [
   {
-    "title": "Art Class",
-    "date": "2019-07-08",
-    "time": "Classes are at 11am, 2pm, and 3:30pm",
-    "description": "Join Art Inspired Academy at WC Partners, as they engage in awesome activities",
-    "url": "/resources/art-classes",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669407/WCPartners/acalogo.jpg"
-  },
-  {
-    "title": "Art Class",
-    "date": "2019-07-15",
-    "time": "Classes are at 11am, 2pm, and 3:30pm",
-    "description": "Join Art Inspired Academy at WC Partners, as they engage in awesome activities",
-    "url": "/resources/art-classes",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669407/WCPartners/acalogo.jpg"
-  },
-  {
-    "title": "Art Class",
-    "date": "2019-07-22",
-    "time": "Classes are at 11am, 2pm, and 3:30pm",
-    "description": "Join Art Inspired Academy at WC Partners, as they engage in awesome activities",
-    "url": "/resources/art-classes",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669407/WCPartners/acalogo.jpg"
-  },
-  {
-    "title": "Art Class",
-    "date": "2019-07-29",
-    "time": "Classes are at 11am, 2pm, and 3:30pm",
-    "description": "Join Art Inspired Academy at WC Partners, as they engage in awesome activities",
-    "url": "/resources/art-classes",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669407/WCPartners/acalogo.jpg"
-  },
-  {
     "title": "Music Therapy",
     "date": "2019-07-11",
     "time": "Classes are at 3:00pm, 4:15pm, and 5:30pm",
