@@ -62,8 +62,12 @@ const About = () => (
         eligible for TCM services. Contact the Springfield Regional Office to
         confirm eligibility and be referred to WC Partners TCM services. To
         learn more about TCM services, visit our{" "}
-        <Link to="/targeted-case-management">Targeted Case Management</Link>{" "}
-        page.
+        <span className="strong-link">
+          <Link to="/targeted-case-management">
+            Targeted Case Management page
+          </Link>
+        </span>
+        .
       </p>
       <Footer />
     </Layout>

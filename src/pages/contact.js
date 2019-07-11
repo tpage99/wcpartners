@@ -28,11 +28,12 @@ const Contact = () => (
         >
           <h1 style={{ textAlign: `center` }}>CONTACT US</h1>
           <p style={{ paddingBottom: `1rem`, textAlign: `center` }}>
-            You can contact the office or{" "}
+            Contact our office or contact your Support Coordinator directly.
+            Support Coordinator contact information is available on our{" "}
             <span className="strong-link">
-              <Link to="/sc-contact">contact your Support Coordinator</Link>
-            </span>{" "}
-            directly.
+              <Link to="/sc-contact">staff contact page</Link>
+            </span>
+            .
           </p>
           <div style={{ textAlign: `center` }}>
             Administrative office hours are Monday-Friday from 9am to 1pm.
