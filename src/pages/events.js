@@ -28,7 +28,8 @@ const Events = ({ data }) => (
         </div>
       </div>
       <p>
-        All events are hosted at WC Partners' office, unless otherwise denoted.
+        All events are hosted at WC Partners' office, unless otherwise noted.
+        Some events may require prior registration.
       </p>
       <ul style={{ listStyle: `none` }}>
         {data.allEventsJson.edges.map(event => (
