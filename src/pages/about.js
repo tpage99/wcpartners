@@ -40,7 +40,7 @@ const About = () => (
 
       <h2 id="SB40">Our History</h2>
       <p>
-        In 2012 the Webster County SB 40 Board began providing targeted case
+        In 2012, the Webster County SB 40 Board began providing targeted case
         management services for eligible individuals in Webster county in
         conjunction with The Next Step. In 2016, the Board made the decision to
         provide TCM services in Webster county and officially began as WC

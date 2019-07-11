@@ -31,13 +31,11 @@ const Resources = ({ data }) => (
                 to={resource.node.frontmatter.path}
                 style={{ textDecoration: `none` }}
               >
-                <h3 className="resource-link">
-                  {resource.node.frontmatter.title}
-                </h3>
+                <h3>{resource.node.frontmatter.title}</h3>
+                <p style={{ paddingTop: `1rem` }}>
+                  {resource.node.frontmatter.description}
+                </p>
               </Link>
-              <p style={{ paddingTop: `1rem` }}>
-                {resource.node.frontmatter.description}
-              </p>
             </li>
           ))}
         </ul>

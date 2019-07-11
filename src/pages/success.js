@@ -21,8 +21,8 @@ const Contact = () => (
           the{" "}
           <span className="strong-link">
             <Link to="/">Home page</Link>
-          </span>
-          . Or visit our{" "}
+          </span>{" "}
+          or visit our{" "}
           <a href="https://www.facebook.com/wcpartnerswebstercounty/">
             Facebook page
           </a>

@@ -295,8 +295,11 @@ button {
   border-top: 1px solid #e2e2e6;
 }
 .resource-box h3 {
-  color: black;
   font-size: 2rem;
+  color: black;
+}
+.resource-box p {
+  color: black;
 }
 .footer-link {
   display: inline-flex;

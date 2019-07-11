@@ -47,8 +47,8 @@ const IndexPage = () => (
             The Webster County SB40 Board exists to help support individuals and
             families with developmental disabilities. By promoting natural and
             state paid resources, individuals with developmental disabilities
-            can live empowered and fulfilling lives living their idea of a good
-            life. To learn more visit our{" "}
+            can live empowered and fulfilling lives by living their idea of a
+            good life. To learn more visit our{" "}
             <span className="strong-link">
               <Link to="/about/">About page</Link>
             </span>
