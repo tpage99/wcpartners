@@ -15,7 +15,12 @@ const gameImage = () => (
         }
       }
     `}
-    render={data => <Img fluid={data.gameNightImage.childImageSharp.fluid} />}
+    render={data => (
+      <Img
+        fluid={data.gameNightImage.childImageSharp.fluid}
+        alt="groups of people participating in game night playing bingo"
+      />
+    )}
   />
 )
 export default gameImage

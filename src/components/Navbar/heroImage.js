@@ -15,7 +15,12 @@ const HeroImage = () => (
         }
       }
     `}
-    render={data => <Img fluid={data.heroImage.childImageSharp.fluid} />}
+    render={data => (
+      <Img
+        fluid={data.heroImage.childImageSharp.fluid}
+        alt="collage of people served by wc partners"
+      />
+    )}
   />
 )
 export default HeroImage

@@ -296,7 +296,8 @@ button {
 }
 .resource-box h3 {
   font-size: 2rem;
-  color: black;
+  color: white;
+  margin-bottom: 0.5em;
 }
 .resource-box p {
   color: black;

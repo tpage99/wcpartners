@@ -15,7 +15,12 @@ const arcadeImage = () => (
         }
       }
     `}
-    render={data => <Img fluid={data.arcadeImage.childImageSharp.fluid} />}
+    render={data => (
+      <Img
+        fluid={data.arcadeImage.childImageSharp.fluid}
+        alt="group of young men playing on pinball machine at arcade event"
+      />
+    )}
   />
 )
 export default arcadeImage

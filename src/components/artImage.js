@@ -15,7 +15,12 @@ const ArtImage = () => (
         }
       }
     `}
-    render={data => <Img fluid={data.artImage.childImageSharp.fluid} />}
+    render={data => (
+      <Img
+        fluid={data.artImage.childImageSharp.fluid}
+        alt="art class showing off their paintings"
+      />
+    )}
   />
 )
 export default ArtImage

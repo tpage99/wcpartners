@@ -15,7 +15,12 @@ const FBImage = () => (
         }
       }
     `}
-    render={data => <Img fluid={data.FBImage.childImageSharp.fluid} />}
+    render={data => (
+      <Img
+        fluid={data.FBImage.childImageSharp.fluid}
+        alt="find us on facebook text with logo"
+      />
+    )}
   />
 )
 export default FBImage

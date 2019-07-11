@@ -21,8 +21,16 @@ const Resources = ({ data }) => (
           </span>
         </h2>
         <p>
-          Click on the links below to find more about available resources and
-          information.
+          Download the monthly activity list by clicking the button above for a
+          PDF version. The monthly activity list is created by Support
+          Coordinators each month that involve community activities that
+          individuals and their families WC Partners works with may enjoy.
+        </p>
+        <p style={{ textAlign: `center` }}>
+          <em>
+            Click on the links below to find more about available resources and
+            information.
+          </em>
         </p>
         <ul style={{ listStyle: `none` }}>
           {data.allMarkdownRemark.edges.map(resource => (
@@ -31,7 +39,19 @@ const Resources = ({ data }) => (
                 to={resource.node.frontmatter.path}
                 style={{ textDecoration: `none` }}
               >
-                <h3>{resource.node.frontmatter.title}</h3>
+                <button
+                  style={{
+                    backgroundColor: `#2d5b2d`,
+                    color: `white`,
+                    marginBottom: `0`,
+                    padding: `0.5em 0.75em 0 0.75em`,
+                    textDecoration: `underline`,
+                    boxShadow: `0 0 10px rgba(0, 0, 0, 0.48)`,
+                    textShadow: `1px 1px 20px rgba(0, 0, 0, 0.48)`,
+                  }}
+                >
+                  <h3>{resource.node.frontmatter.title}</h3>
+                </button>
                 <p style={{ paddingTop: `1rem` }}>
                   {resource.node.frontmatter.description}
                 </p>
