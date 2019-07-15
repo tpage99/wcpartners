@@ -5,6 +5,8 @@ description: 'Information about food pantries, healthy eating information, and o
 category: 'resource'
 ---
 
+***
+
 ## Available Food Pantries (Locations available for residents of Webster County)
 
 ### South County Kings Pantry

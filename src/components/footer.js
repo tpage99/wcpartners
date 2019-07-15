@@ -38,7 +38,7 @@ export default class footer extends Component {
             }}
           >
             <li className="footer-link">
-              <Link to="/a11y/">Accessibility Statement</Link>
+              <Link to="/a11y/">Accessibility</Link>
             </li>
             <li className="footer-link">
               <Link to="/">Home</Link>

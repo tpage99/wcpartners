@@ -5,10 +5,26 @@ description: 'Information on how to apply for Medicaid, including applications, 
 category: 'resource'
 ---
 
-##DENTAL  
+***
+
+## Apply for Medicaid 
+General information about applying for Medicaid and other available programs: https://mydss.mo.gov/healthcare 
+
+> People with Disabilities: https://mydss.mo.gov/healthcare/mo-healthnet-for-people-with-disabilities 
+
+> Children: https://mydss.mo.gov/healthcare/mohealthnet-for-kids 
+
+> Families: https://mydss.mo.gov/healthcare/mohealthnet-for-families 
+
+### Other helpful tips
+Visit mydss.mo.gov and select "Check My Status" in order to review information about active social services programs (such as Medicaid, food stamps, etc.) and also review when/what information is due during recertification. 
+
+Visit the Family Support Division [Offices and Contact Information Page](https://dss.mo.gov/dss_map/?locationString=65706&submit=Submit) for additional contact numbers and to find the nearest FSD Resource Center to you.
+
+## Dental  
 The following is a list of providers that accept Medicaid for dental services. Providers included are located in both Webster and Greene County areas. 
 
-###Fordland Clinic 
+### Fordland Clinic 
 >**Address**   
 >1059 Barton Drive  
 >Fordland, MO 65652
