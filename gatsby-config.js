@@ -8,6 +8,7 @@ module.exports = {
   siteMetadata: {
     title: `WC PARTNERS`,
     description: `Webster County SB40 Board - Growing Towards Empowered Futures.`,
+    siteUrl: `https://www.wc-partners.net`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -94,6 +95,15 @@ module.exports = {
         sampleRate: 5,
         siteSpeedSampleRate: 10,
         cookieDomain: "www.wc-partners.net",
+      },
+    },
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        output: `/sitemap.xml`,
+        // Exclude specific pages or groups of pages using glob parameters
+        // See: https://github.com/isaacs/minimatch
+        createLinkInHead: true,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
