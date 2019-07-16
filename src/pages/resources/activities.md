@@ -7,7 +7,7 @@ category: 'resource'
 
 ***
 
-[A Sporting Chance](#a-sporting-chance) | [Arc of the Ozarks](#arc-of-the-ozarks) | [Art Inspired Academy](#art-inspired-academy) | [Champion Athletes](#champion-athletes) | [Greene County Library](#greene-county-library) | [Greene County Park Board](#greene-county-park-board) | [Kids Bowl Free](#kids-bowl-free) | [Webster County Youth Services](#webster-county-youth-services) 
+[A Sporting Chance](#a-sporting-chance) | [Arc of the Ozarks](#arc-of-the-ozarks) | [Art Inspired Academy](#art-inspired-academy) | [Champion Athletes](#champion-athletes) | [Greene County Library](#greene-county-library) | [Greene County Park Board](#greene-county-park-board) | [Kids Bowl Free](#kids-bowl-free) | [Webster County Youth Services](#webster-county-youth-services) | [YMCA - Seymour](#seymour-ymca)
 
 ***
 
@@ -54,6 +54,16 @@ This Program is being offered at 4 Springfield bowling alleys:
 4. Sunshine Lanes - 1500 W Sunshine St.
 
 Register on-line at https://www.kidsbowlfree.com
+
+## Seymour YMCA
+For individuals with staff, staff can attend for free and even participate in activities to support individual while attending. Individual must have a membership. Contact YMCA for more details
+
+315 E. Center Ave  
+PO Box 640  
+Seymour, MO 65746  
+
+**Phone:**(417) 935-2177  
+**Website:** ozarksfamilyymca.org 
 
 ## Webster County Youth Services
 The Webster County Library serves the citizens of Webster County, Missouri. The main library is the Garst Memorial Library, located at 219 W. Jackson St. in Marshfield. A branch facility in Rogersville is located in the former Post Office building at 104 N. Beatie Street in Rogersville.

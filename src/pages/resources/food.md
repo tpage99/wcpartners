@@ -7,7 +7,15 @@ category: 'resource'
 
 ***
 
-## Available Food Pantries (Locations available for residents of Webster County)
+[Food Stamps](#food-stamps) | [Food Pantries](#food-pantries) | [Marshfield Farmers Marker](#marshfield-farmers-market)
+
+***
+
+## Food Stamps
+The Food Stamps program in Missouri helps low-income individuals buy food. Learn more about eligibility and programs here: https://mydss.mo.gov/food-assistance/food-stamp-program 
+
+## Food Pantries 
+*Locations available for residents of Webster County*
 
 ### South County Kings Pantry
 - 119 Cordie, Seymour
@@ -37,3 +45,15 @@ category: 'resource'
 ### Niangua Food Pantry
 - Enter behind school
 - 3rd Saturday from 10:00 am – 12:00 pm. Niangua citizens living in Webster County
+
+## Marshfield Farmers Market
+Young's Shopping Center  
+900 W Washington Street  
+Marshfield, MO 65706
+
+**Open season:**May-October  
+Friday 3:00pm-7:00pm
+
+Marshfield Farmers' Market hosts a wide variety of home grown and hand made items. Products vary by season and availability. Market accepts debit, credit, and EBT cards.
+
+
