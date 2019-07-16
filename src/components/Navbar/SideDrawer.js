@@ -22,9 +22,11 @@ const SideDrawer = props => (
         <Link to="/contact">CONTACT</Link>
       </li>
     </ul>
-    <button id="closer" onClick={props.click}>
-      X
-    </button>
+    <div>
+      <button id="closer" onClick={props.click}>
+        X
+      </button>
+    </div>
   </div>
 )
 

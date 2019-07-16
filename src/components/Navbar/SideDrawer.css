@@ -54,3 +54,17 @@
   text-shadow: 1px 1px 20px rgba(0, 0, 0, 0.48);
   z-index: 300;
 }
+
+@media only screen and (min-width: 480px) and (max-width: 1000px) and (orientation: landscape) {
+  .side-drawer ul {
+    height: 50%;
+    padding-top: 3rem;
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0 auto;
+  }
+  .side-drawer a {
+    font-size: 1.2rem;
+  }
+}

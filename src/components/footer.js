@@ -27,6 +27,12 @@ export default class footer extends Component {
             info@wc-partners.net
           </a>
         </p>
+        <p>
+          <strong>Office Address:</strong> 1329 Spur Drive, Suite 160,
+          Marshfield, MO 65706
+          <br />
+          <strong>Mailing Address:</strong> PO Box 9, Marshfield, MO 65706
+        </p>
         <div>
           <ul
             style={{
