@@ -47,34 +47,16 @@ export default class footer extends Component {
               <Link to="/a11y/">Accessibility</Link>
             </li>
             <li className="footer-link">
-              <Link to="/">Home</Link>
-            </li>
-            <li className="footer-link">
-              <Link to="/about">About</Link>
-            </li>
-            <li className="footer-link">
-              <Link to="/resources">Resources</Link>
-            </li>
-            <li className="footer-link">
-              <Link to="/events">Events</Link>
-            </li>
-            <li className="footer-link">
-              <Link to="/contact">Contact</Link>
+              <a href="https://abilitiesfirst.sharepoint.com/sites/WCP/SitePages/Home.aspx">
+                Staff Login
+              </a>
             </li>
           </ul>
-          <div style={{ margin: `1.8rem auto`, maxWidth: `150px` }}>
-            <a href="https://www.facebook.com/wcpartnerswebstercounty/">
-              <FBLogo />
-            </a>
-          </div>
-          <p>
-            <a
-              href="https://abilitiesfirst.sharepoint.com/sites/WCP/SitePages/Home.aspx"
-              style={{ color: `black` }}
-            >
-              Staff Login
-            </a>
-          </p>
+        </div>
+        <div style={{ margin: `1.8rem auto`, maxWidth: `150px` }}>
+          <a href="https://www.facebook.com/wcpartnerswebstercounty/">
+            <FBLogo />
+          </a>
         </div>
       </footer>
     )
