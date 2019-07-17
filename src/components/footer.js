@@ -62,11 +62,19 @@ export default class footer extends Component {
               <Link to="/contact">Contact</Link>
             </li>
           </ul>
-          <div style={{ margin: `2rem auto`, maxWidth: `150px` }}>
+          <div style={{ margin: `1.8rem auto`, maxWidth: `150px` }}>
             <a href="https://www.facebook.com/wcpartnerswebstercounty/">
               <FBLogo />
             </a>
           </div>
+          <p>
+            <a
+              href="https://abilitiesfirst.sharepoint.com/sites/WCP/SitePages/Home.aspx"
+              style={{ color: `black` }}
+            >
+              Staff Login
+            </a>
+          </p>
         </div>
       </footer>
     )
