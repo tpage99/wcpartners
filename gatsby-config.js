@@ -9,6 +9,7 @@ module.exports = {
     title: `WC PARTNERS`,
     description: `Webster County SB40 Board - Growing Towards Empowered Futures.`,
     siteUrl: `https://www.wc-partners.net`,
+    imgLogo: `https://res.cloudinary.com/tpage99/image/upload/v1560421417/WCPartners/wclogo.png`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
