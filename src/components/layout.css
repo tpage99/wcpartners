@@ -525,6 +525,15 @@ form button {
   }
 }
 
+@media (max-width: 1160px) {
+  .hero-grid .hero-header {
+    font-size: 3.5rem;
+    color: white;
+    margin: 0 auto;
+    font-style: bold;
+  }
+}
+
 @media (min-width: 1000px) {
   .hero-grid {
     display: grid;

@@ -12,6 +12,8 @@ The Community Foundation of the Ozarks is a public foundation serving the centra
 
 See more information about available grants and scholarships here: https://cfozarks.org/cfo-grantmaking-programs/ 
 
+***
+
 ## Midwest Special Needs Trust
 
 Midwest Special Needs Trust Charitable Trust Program provides small financial assistance grants to impoverished residents of Missouri with a Social Security verifiable disability.

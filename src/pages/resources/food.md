@@ -14,6 +14,8 @@ category: 'resource'
 ## Food Stamps
 The Food Stamps program in Missouri helps low-income individuals buy food. Learn more about eligibility and programs here: https://mydss.mo.gov/food-assistance/food-stamp-program 
 
+***
+
 ## Food Pantries 
 *Locations available for residents of Webster County*
 
@@ -45,6 +47,8 @@ The Food Stamps program in Missouri helps low-income individuals buy food. Learn
 ### Niangua Food Pantry
 - Enter behind school
 - 3rd Saturday from 10:00 am – 12:00 pm. Niangua citizens living in Webster County
+
+***
 
 ## Marshfield Farmers Market
 Young's Shopping Center  

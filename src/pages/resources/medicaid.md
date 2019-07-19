@@ -21,6 +21,8 @@ Visit mydss.mo.gov and select "Check My Status" in order to review information a
 
 Visit the Family Support Division [Offices and Contact Information Page](https://dss.mo.gov/dss_map/?locationString=65706&submit=Submit) for additional contact numbers and to find the nearest FSD Resource Center to you.
 
+***
+
 ## Dental  
 The following is a list of providers that accept Medicaid for dental services. Providers included are located in both Webster and Greene County areas. 
 
