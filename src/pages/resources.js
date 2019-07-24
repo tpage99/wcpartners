@@ -15,18 +15,20 @@ const Resources = ({ data }) => (
     <Layout>
       <main>
         <h1>Resources for Webster County</h1>
-        <h2 style={{ color: `#fff`, padding: `2rem 0` }}>
+        <h2 style={{ color: `#fff`, padding: `2rem 0 0 0` }}>
           <span className="big-btn">
-            <a href={pdf}>Monthly Activity List</a>
+            <a href={pdf}>Download the Activity List</a>
           </span>
         </h2>
-        <p>
-          Download the monthly activity list by clicking the button above for a
-          PDF version. The monthly activity list is created by Support
-          Coordinators each month that involve community activities that
-          individuals and their families WC Partners works with may enjoy.
+        <p style={{ marginTop: `0`, paddingTop: `0`, fontSize: `0.9rem` }}>
+          <em>Last updated June 5, 2019</em>
         </p>
-        <p style={{ textAlign: `center` }}>
+        <p>
+          The activity list is created by Support Coordinators to include
+          various community activities that individuals and their families WC
+          Partners works with may enjoy.
+        </p>
+        <p style={{ textAlign: `center`, paddingTop: `2rem` }}>
           <em>
             Click on the links below to find more about available resources and
             information.
