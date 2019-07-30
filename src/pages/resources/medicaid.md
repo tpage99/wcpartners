@@ -7,6 +7,10 @@ category: 'resource'
 
 ***
 
+[Apply](#apply-for-medicaid) | [Dental](#dental) | [Disability Benefits 101](#disability-benefits-101)
+
+***
+
 ## Apply for Medicaid 
 General information about applying for Medicaid and other available programs: https://mydss.mo.gov/healthcare 
 
@@ -57,3 +61,10 @@ The following is a list of providers that accept Medicaid for dental services. P
 >**Website:** https://www.jordanvalley.org/marshfield
 
 >*Accepts Medicaid for Children (also sliding scale for those without) and various types of private insurance*
+
+***  
+
+## Disability Benefits 101  
+Many people with disabilities fear that if they go to work, they'll lose needed health care and other disability benefits. DB101 helps people with disabilities and service providers understand the connections between work and benefits. DB101 will help you make informed choices and show you how you can make work part of your plan.
+
+Learn more at https://mo.db101.org/

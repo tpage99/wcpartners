@@ -12,5 +12,10 @@ OACAC is a nonprofit agency working to alleviate the causes and conditions of po
 
 The OACAC Housing Assistance Program helps with rental payments so that low-income residents may live in a house, apartment, or mobile home which is decent, safe, sanitary, and affordable. OACAC serves clients across a 10-county region that includes Barry, Christian, Dade, Dallas, Greene (excluding Springfield), Lawrence, Polk, Stone, Taney, and Webster.
 
-Learn more about housing assistance here: https://oac.ac/housing-assistance/
+Learn more about housing assistance here: https://oac.ac/housing-assistance/  
+
+***
+
+## US Department of Housing and Urban Development
+The US Department of Housing and Urban Development (HUD) provides information and resources about affordable housing options for senior and disabled populations. Learn more about available resources by visiting https://www.hud.gov/resources or go to their resource locator for a map-based view by visiting https://resources.hud.gov/.
 
