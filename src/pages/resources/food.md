@@ -7,7 +7,12 @@ category: 'resource'
 
 ***
 
-[Food Stamps](#food-stamps) | [Food Pantries](#food-pantries) | [Marshfield Farmers Marker](#marshfield-farmers-market)
+[Budget Meal Planner](#budget-meal-planner) | [Food Stamps](#food-stamps) | [Food Pantries](#food-pantries) | [Marshfield Farmers Marker](#marshfield-farmers-market)
+
+***
+
+## Budget Meal Planner
+Blog with recipes and meal plans on how to shop and prepare food on a budget of $5/day. Learn more at https://www.budgetmealplanner.com/
 
 ***
 
