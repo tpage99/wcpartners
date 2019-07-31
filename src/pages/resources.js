@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
 import Footer from "../components/footer"
 
-import pdf from "./resources/Activity-List-June-2019.pdf"
+import pdf from "./resources/August2019.pdf"
 
 const Resources = ({ data }) => (
   <Fragment>
@@ -21,7 +21,7 @@ const Resources = ({ data }) => (
           </span>
         </h2>
         <p style={{ marginTop: `0`, paddingTop: `0`, fontSize: `0.9rem` }}>
-          <em>Last updated June 5, 2019</em>
+          <em>Last updated July 31, 2019</em>
         </p>
         <p>
           The activity list is created by Support Coordinators to include
