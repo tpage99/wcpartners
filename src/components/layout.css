@@ -302,6 +302,19 @@ button {
 .resource-box p {
   color: black;
 }
+.event-box {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e2e2e6;
+}
+.event-box h3 {
+  font-size: 2rem;
+  color: black;
+  margin-bottom: 0.5em;
+}
+.event-box p {
+  color: black;
+}
 .footer-link {
   display: inline-flex;
   padding-right: 2rem;

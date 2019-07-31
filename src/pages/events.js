@@ -33,7 +33,7 @@ const Events = ({ data }) => (
       </p>
       <ul style={{ listStyle: `none` }}>
         {data.allEventsJson.edges.map(event => (
-          <li className="resource-box" key={event.node.id}>
+          <li className="event-box" key={event.node.id}>
             <div className="grid">
               <div
                 style={{
@@ -54,7 +54,7 @@ const Events = ({ data }) => (
                 />
               </div>
               <div style={{ gridColumn: `span 8`, gridColumnEnd: `-1` }}>
-                <h3 className="resource-link">{event.node.title}</h3>
+                <h3>{event.node.title}</h3>
                 <p style={{ paddingBottom: `0`, margin: `0` }}>
                   Date: {event.node.date}
                 </p>
