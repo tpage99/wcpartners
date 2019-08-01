@@ -15,11 +15,13 @@ const Resources = ({ data }) => (
     <Layout>
       <main>
         <h1>Resources for Webster County</h1>
-        <h2 style={{ color: `#fff`, padding: `2rem 0 0 0` }}>
-          <span className="big-btn">
-            <a href={pdf}>Activity List</a>
-          </span>
-        </h2>
+        <button>
+          <h2 style={{ color: `#fff`, padding: `2rem 0 0 0` }}>
+            <span className="big-btn">
+              <a href={pdf}>Activity List</a>
+            </span>
+          </h2>
+        </button>
         <p style={{ marginTop: `0`, paddingTop: `0`, fontSize: `0.9rem` }}>
           <em>Click to download. Last updated July 31, 2019</em>
         </p>
