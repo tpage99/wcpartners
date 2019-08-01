@@ -17,11 +17,11 @@ const Resources = ({ data }) => (
         <h1>Resources for Webster County</h1>
         <h2 style={{ color: `#fff`, padding: `2rem 0 0 0` }}>
           <span className="big-btn">
-            <a href={pdf}>Download the Activity List</a>
+            <a href={pdf}>Activity List</a>
           </span>
         </h2>
         <p style={{ marginTop: `0`, paddingTop: `0`, fontSize: `0.9rem` }}>
-          <em>Last updated July 31, 2019</em>
+          <em>Click to download. Last updated July 31, 2019</em>
         </p>
         <p>
           The activity list is created by Support Coordinators to include
