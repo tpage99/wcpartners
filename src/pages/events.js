@@ -28,8 +28,16 @@ const Events = ({ data }) => (
         </div>
       </div>
       <p>
-        All events are hosted at WC Partners' office, unless otherwise noted.
-        Some events may require prior registration.
+        Events listed are hosted at WC Partners' office, unless otherwise noted.
+        Some events may require prior registration. Contact your Support
+        Coordinator for additional information.
+      </p>
+      <p>
+        For more information about other local events see our{" "}
+        <span className="strong-link">
+          <Link to="/resources/community-events/">Community Events</Link>
+        </span>{" "}
+        page.
       </p>
       <ul style={{ listStyle: `none` }}>
         {data.allEventsJson.edges.map(event => (

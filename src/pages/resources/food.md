@@ -96,4 +96,4 @@ Friday 3:00pm-7:00pm
 
 Marshfield Farmers' Market hosts a wide variety of home grown and hand made items. Products vary by season and availability. Market accepts debit, credit, and EBT cards.
 
-
+***

@@ -29,3 +29,5 @@ For more information, visit the MSNT Charitable Grant Overview page on their [we
 A STABLE Account is an investment account available to eligible individuals with disabilities. STABLE Accounts are made possible by the federal Achieving a Better Life Experience (“ABLE”) Act. STABLE Accounts allow individuals with disabilities to save and invest money without losing eligibility for certain public benefits programs, like Medicaid or SSI. Earnings in your STABLE Account are not subject to federal income tax, so long as you spend them on “Qualified Disability Expenses.”
 
 To learn more about STABLE accounts, visit their website: https://www.moable.com/ 
+
+***

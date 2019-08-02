@@ -83,3 +83,5 @@ Seymour, MO 65746
 The Webster County Library serves the citizens of Webster County, Missouri. The main library is the Garst Memorial Library, located at 219 W. Jackson St. in Marshfield. A branch facility in Rogersville is located in the former Post Office building at 104 N. Beatie Street in Rogersville.
 
 Visit information about their activities here: http://webstercounty.lib.mo.us/youth-services/
+
+***

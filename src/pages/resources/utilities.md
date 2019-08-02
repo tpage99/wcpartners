@@ -13,3 +13,5 @@ OACAC is a nonprofit agency working to alleviate the causes and conditions of po
 The mission of the Low Income Home Energy Assistance Program (LIHEAP) is to assist low income households who have an energy crisis. To learn more about the LIHEAP program and how to apply visit here: https://oac.ac/liheap-energy-programs/ 
 
 The Weatherization Program sponsored by OACAC is a free service for qualified homeowners and renters. Insulation and air sealing improves the energy efficiency of your home, to help keep you warm in the winter, cool in the summer and reduce your heating and cooling cost. Weatherization can make your home warmer in the winter and cooler in the summer to save on utility dollars. To learn more about the Weatherization program, visit online here: https://oac.ac/weatherization/ 
+
+***

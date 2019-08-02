@@ -430,7 +430,7 @@ form button {
 .card {
   margin: 2rem auto;
   padding: 1.5rem 1.5rem 0.05rem 1.5rem;
-  max-width: 75%;
+  max-width: 600px;
   background-color: #2d5b2d;
   color: white;
   box-shadow: 2px 5px 8px rgba(0, 0, 0, 0.48);
