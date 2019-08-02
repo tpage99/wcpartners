@@ -427,6 +427,15 @@ form button {
   padding: 0.5rem;
 }
 
+.card {
+  margin: 2rem auto;
+  padding: 1.5rem 1.5rem 0.05rem 1.5rem;
+  max-width: 75%;
+  background-color: #2d5b2d;
+  color: white;
+  box-shadow: 2px 5px 8px rgba(0, 0, 0, 0.48);
+}
+
 @media (max-width: 799px) {
   .hero-header {
     font-size: 3rem;

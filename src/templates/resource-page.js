@@ -3,6 +3,7 @@ import { graphql } from "gatsby"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 import HeroHeader from "../components/Navbar/heroHeader"
+import QuickContact from "../components/quick-contact"
 import Footer from "../components/footer"
 
 export default function Template({ data }) {
@@ -16,6 +17,7 @@ export default function Template({ data }) {
         <Layout>
           <h1>{resource.frontmatter.title} | Resources</h1>
           <div dangerouslySetInnerHTML={{ __html: resource.html }} />
+          <QuickContact />
           <Footer />
         </Layout>
       </main>
