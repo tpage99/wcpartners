@@ -7,7 +7,7 @@ category: 'resource'
 
 ***
 
-[A Sporting Chance](#a-sporting-chance) | [Arc of the Ozarks](#arc-of-the-ozarks) | [Art Inspired Academy](#art-inspired-academy) | [Champion Athletes](#champion-athletes) | [Greene County Library](#greene-county-library) | [Greene County Park Board](#greene-county-park-board) | [Kids Bowl Free](#kids-bowl-free) | [Webster County Youth Services](#webster-county-youth-services) | [YMCA - Seymour](#seymour-ymca)
+[A Sporting Chance](#a-sporting-chance) | [Arc of the Ozarks](#arc-of-the-ozarks) | [Art Inspired Academy](#art-inspired-academy) | [Champion Athletes](#champion-athletes) | [Greene County Library](#greene-county-library) | [Greene County Park Board](#greene-county-park-board) | [Kids Bowl Free](#kids-bowl-free) | | [Miracle League](#miracle-league) | [Seymour-YMCA](#seymour-ymca) | [Webster County Youth Services](#webster-county-youth-services) 
 
 ***
 
@@ -30,6 +30,13 @@ Art Inspired Academy offers the opportunity for individuals with and without dis
 
 Learn more about Art Inspired Academy here: http://www.abilitiesfirst.net/art-inspired-academy/
 Register for online classes here: https://aia.asapconnected.com/default.aspx?org=4718
+
+***
+
+## Camp Barnabas  
+Camp Barnabas is located in Purdy, MO, and is a faith-based organization that works to meet the needs of people with disabilities so they can have an incredible camp experience and learn more about Christ. To make camp possible, they team up with groups and individuals all across the nation to match up each person one-on-one with campers. 
+
+Learn more here: https://www.campbarnabas.org/
 
 ***
 
@@ -66,6 +73,11 @@ This Program is being offered at 4 Springfield bowling alleys:
 Register on-line at https://www.kidsbowlfree.com
 
 ***
+
+## Miracle League  
+The Miracle League serves children and adults with disabilities. We use a "Buddy" system, pairing each player with a volunteer buddy who may assist in hitting, running, catching - or just cheering on! The result is a bond which simply cannot be described. The Miracle League is all about making new friends, building self-esteem and the joy of playing ball. 
+
+Learn more here: https://www.parkboard.org/311/Miracle-League-Ball-Field
 
 ## Seymour YMCA
 For individuals with staff, staff can attend for free and even participate in activities to support individual while attending. Individual must have a membership. Contact YMCA for more details
