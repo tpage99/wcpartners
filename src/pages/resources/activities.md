@@ -75,9 +75,11 @@ Register on-line at https://www.kidsbowlfree.com
 ***
 
 ## Miracle League  
-The Miracle League serves children and adults with disabilities. We use a "Buddy" system, pairing each player with a volunteer buddy who may assist in hitting, running, catching - or just cheering on! The result is a bond which simply cannot be described. The Miracle League is all about making new friends, building self-esteem and the joy of playing ball. 
+The Miracle League serves children and adults with disabilities. They use a "Buddy" system, pairing each player with a volunteer buddy who may assist in hitting, running, catching - or just cheering on! The result is a bond which simply cannot be described. The Miracle League is all about making new friends, building self-esteem and the joy of playing ball. 
 
 Learn more here: https://www.parkboard.org/311/Miracle-League-Ball-Field
+
+***
 
 ## Seymour YMCA
 For individuals with staff, staff can attend for free and even participate in activities to support individual while attending. Individual must have a membership. Contact YMCA for more details
