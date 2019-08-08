@@ -27,7 +27,7 @@ Learn more at: http://www.thearcoftheozarks.org/upcoming-events-hub/2019/8/24/2n
 
 ## September 2019
 
-### Miracle League Baseball Season
+### Miracle League Baseball Fall Season
 
 _Fall season runs from September through October_
 

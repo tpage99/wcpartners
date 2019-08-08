@@ -4,6 +4,7 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
+import QuickContact from "../components/quick-contact"
 import Footer from "../components/footer"
 
 import pdf from "./resources/August2019.pdf"
@@ -36,7 +37,7 @@ const Resources = ({ data }) => (
             information.
           </em>
         </p>
-        <ul style={{ listStyle: `none` }}>
+        <ul style={{ listStyle: `none`, borderBottom: `1px solid #e2e2e6` }}>
           {data.allMarkdownRemark.edges.map(resource => (
             <li className="resource-box" key={resource.node.id}>
               <Link
@@ -63,6 +64,7 @@ const Resources = ({ data }) => (
             </li>
           ))}
         </ul>
+        <QuickContact />
       </main>
       <Footer />
     </Layout>
