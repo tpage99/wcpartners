@@ -52,7 +52,7 @@ const Events = ({ data }) => (
               >
                 <img
                   src={event.node.thumbnailImage}
-                  alt={event.node.title}
+                  alt={event.node.title + " logo"}
                   style={{
                     maxWidth: `80%`,
                     maxHeight: `80%`,
