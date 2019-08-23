@@ -27,7 +27,7 @@ Learn more at: http://www.thearcoftheozarks.org/upcoming-events-hub/2019/8/24/2n
 
 ## September 2019
 
-### Miracle League Baseball Fall Season
+### Miracle League Baseball - Fall Season
 
 _Fall season runs from September through October_
 
@@ -40,7 +40,13 @@ Learn more at: http://www.parkboard.org/miracle
 
 ## October 2019
 
-No event information available.
+### Live, Learn, Work, Play Conference
+
+_Thursday, October 3, 2019 from 4pm-7pm_
+
+The Live, Learn, Work, Play Resource Fair and Conference is free for families supporting children and adults with developmental disabilities. Breakout sessions will include: Legal Questions and Answers, Employment Options, and Social Security, Medicaid, and Benefits. Visit with representatives from early childhood services, educational resources, health and wellness, social and recreational activities, employment services, independent living resources, and more! Childcare is not available.
+
+Learn more at: https://www.facebook.com/events/624229221398018/
 
 ---
 
