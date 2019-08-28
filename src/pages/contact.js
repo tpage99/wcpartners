@@ -127,7 +127,7 @@ const Contact = () => (
               />
             </div>
             <div className="form-input">
-              <button type="submit" aria-describedby="submit-form">
+              <button type="submit" aria-label="submit form">
                 Submit
               </button>
             </div>
