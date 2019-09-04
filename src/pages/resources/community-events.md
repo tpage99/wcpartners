@@ -13,19 +13,9 @@ category: "resource"
 
 ---
 
-## August 2019
-
-### Wings for Autism
-
-_Saturday, August 24, 2019 from 12pm-3:30pm_
-
-Wings for Autism is an airport rehearsal program specifically designed for individuals on the autism spectrum, people with intellectual/developmental disabilities and their families. The program gives families the chance to experience the process of taking flight.
-
-Learn more at: http://www.thearcoftheozarks.org/upcoming-events-hub/2019/8/24/2nd-annual-wings-for-autism
-
----
-
 ## September 2019
+
+### Champion Athletes Bowling League
 
 ### Miracle League Baseball - Fall Season
 
@@ -35,6 +25,14 @@ _Fall season runs from September through October_
 - Adult: Wednesdays at 6pm and 7pm and Thursdays at 6pm and 7pm
 
 Learn more at: http://www.parkboard.org/miracle
+
+### Springfield Park Board TEAM - 1st Fall Session
+
+_First Fall session runs from September 3 through October 15_
+
+Springfield Park Board offers specialized programs for adults 18 years and up with disabilities, for those opting not to participate in Inclusion. Exciting fall programming lineup, including T.E.A.M. (Travel, Entertainment, Art and Music Class) at Northview Center, Ceramics classes and Chair Yoga. Class sizes are limited and registration is required.
+
+Register by August 30, 2019. To learn more, visit: https://www.parkboard.org/335/Adult-Programs
 
 ---
 
@@ -47,6 +45,14 @@ _Thursday, October 3, 2019 from 4pm-7pm_
 The Live, Learn, Work, Play Resource Fair and Conference is free for families supporting children and adults with developmental disabilities. Breakout sessions will include: Legal Questions and Answers, Employment Options, and Social Security, Medicaid, and Benefits. Visit with representatives from early childhood services, educational resources, health and wellness, social and recreational activities, employment services, independent living resources, and more! Childcare is not available.
 
 Learn more at: https://www.facebook.com/events/624229221398018/
+
+### Springfield Park Board TEAM - 2nd Fall Session
+
+_Second Fall session runs from October 29 through December 10_
+
+Springfield Park Board offers specialized programs for adults 18 years and up with disabilities, for those opting not to participate in Inclusion. Exciting fall programming lineup, including T.E.A.M. (Travel, Entertainment, Art and Music Class) at Northview Center, Ceramics classes and Chair Yoga. Class sizes are limited and registration is required.
+
+Register by October 25, 2019. To learn more, visit: https://www.parkboard.org/335/Adult-Programs
 
 ---
 
