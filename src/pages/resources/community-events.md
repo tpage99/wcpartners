@@ -9,7 +9,7 @@ category: "resource"
 
 ## 2019
 
-[August](#august-2019) | [September](#september-2019) | [October](#october-2019) | [November](#november-2019) | [December](#december-2019)
+[September](#september-2019) | [October](#october-2019) | [November](#november-2019) | [December](#december-2019)
 
 ---
 
