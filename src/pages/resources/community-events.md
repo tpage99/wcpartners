@@ -17,6 +17,11 @@ category: "resource"
 
 ### Champion Athletes Bowling League
 
+_Fall season runs from September 8 through November 9_
+Champion Athletes of the Ozarks serves children and adults with disabilities living in the Ozarks area.
+
+Learn more at: https://www.championathletes.org/sports.htm
+
 ### Miracle League Baseball - Fall Season
 
 _Fall season runs from September through October_
@@ -37,6 +42,13 @@ Register by August 30, 2019. To learn more, visit: https://www.parkboard.org/335
 ---
 
 ## October 2019
+
+### Champion Athletes Bowling League
+
+_Fall season runs from September 8 through November 9_
+Champion Athletes of the Ozarks serves children and adults with disabilities living in the Ozarks area.
+
+Learn more at: https://www.championathletes.org/sports.htm
 
 ### Live, Learn, Work, Play Conference
 
