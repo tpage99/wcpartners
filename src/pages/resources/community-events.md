@@ -39,6 +39,32 @@ Springfield Park Board offers specialized programs for adults 18 years and up wi
 
 Register by August 30, 2019. To learn more, visit: https://www.parkboard.org/335/Adult-Programs
 
+### Missouri Department of Conservation Adaptive Shooting
+
+_Saturday, September 14, 2019 from 830am to 1130am_
+
+Join the Missouri Department of Conservation for the 1st Annual Missouri Accessible Outdoors Adaptive Shooting Day at the Range; a special event for people with special needs to come and make their dreams come true by shooting a firearm for the first time or getting reacquainted with the shooting sports after a life changing event. This is a free event and families and caregivers are welcome.
+
+Located at:  
+Andy Dalton Shooting Range  
+4897 N. Farm Road 61  
+Ash Grove, MO 65604
+
+For information please call (417) 742-4361 or visit https://mdc-event-web.s3licensing.com/Event/EventDetails/163643
+
+### Missouri Department of Conservation Adaptive Fishing
+
+_Saturday, September 14, 2019 from 1pm to 4pm_
+
+Join the Missouri Department of Conservation for the 1st Annual Missouri Accessible Outdoors Adaptive Fishing Day at the Aquatic Education Pond; a special event for people with special needs to come and make their dreams come true by catching a fish for the first time or getting reacquainted with fishing after a life changing event. This is a free event and families and caregivers are welcome.
+
+Located at:  
+Andy Dalton Shooting Range  
+4897 N. Farm Road 61  
+Ash Grove, MO 65604
+
+For information please call (417) 742-4361 or visit https://mdc-event-web.s3licensing.com/Event/EventDetails/167720
+
 ---
 
 ## October 2019
