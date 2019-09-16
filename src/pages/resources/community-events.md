@@ -84,6 +84,18 @@ The Live, Learn, Work, Play Resource Fair and Conference is free for families su
 
 Learn more at: https://www.facebook.com/events/624229221398018/
 
+### WC Partners Talent Showcase
+
+_Friday, October 11, 2019 doors open at 6:30pm_
+
+Whether you sing, dance, make people laugh, or you just want to come out to support your friends for a night of fun! We invite you to come out and share your talents October 11th. Doors will open at 6:30pm.
+
+Location at Owens Theatre  
+120 W. Washington  
+Seymour, MO
+
+Please contact your Support Coordinator to sign up by **October 7th**. There will be a time limit per act. Free admission. Concessions will be available at the theatre cost.
+
 ### Springfield Park Board TEAM - 2nd Fall Session
 
 _Second Fall session runs from October 29 through December 10_
