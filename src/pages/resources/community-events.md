@@ -102,7 +102,7 @@ Springfield, MO 65806
 
 Join Include Ozarks for the Fourth Annual Sensory-Safe Trick-or-Treat on Sunday, October 27th at the Shrine Mosque!
 
-Registration is required as families will have time slots for trick-or-treating so that sensory stimulation can be kept at a minimum. Children will have the oportunity to practice their trick-or-treating skills in a safe, calm environment. Our Include Ozarks volunteers, along with some awesome local businesses and other non-profits will be there to pass out some fun treats! Candy and non-candy options will be available for trick-or-treaters. A separate area for snacks and fun games will be set up, also!
+Registration is required as families will have time slots for trick-or-treating so that sensory stimulation can be kept at a minimum. Children will have the oportunity to practice their trick-or-treating skills in a safe, calm environment. The Include Ozarks volunteers, along with some awesome local businesses and other non-profits will be there to pass out some fun treats! Candy and non-candy options will be available for trick-or-treaters. A separate area for snacks and fun games will be set up, also!
 
 **EACH FAMILY must register for a single time slot but admission is free!**
 
