@@ -94,15 +94,13 @@ Location at Owens Theatre
 120 W. Washington  
 Seymour, MO
 
-Please contact your Support Coordinator to sign up by **October 7th**. There will be a time limit per act. Free admission. Concessions will be available at the theatre cost.
+Please [contact your Support Coordinator](/sc-contact/) to sign up by **October 7th**. There will be a time limit per act. Free admission. Concessions will be available at the theatre cost.
 
-### Springfield Park Board TEAM - 2nd Fall Session
+### Halloween Dance
 
-_Second Fall session runs from October 29 through December 10_
+_Friday, October 25, 2019 from 6pm-8pm_
 
-Springfield Park Board offers specialized programs for adults 18 years and up with disabilities, for those opting not to participate in Inclusion. Exciting fall programming lineup, including T.E.A.M. (Travel, Entertainment, Art and Music Class) at Northview Center, Ceramics classes and Chair Yoga. Class sizes are limited and registration is required.
-
-Register by October 25, 2019. To learn more, visit: https://www.parkboard.org/335/Adult-Programs
+Halloween dance and costume contest hosted by The Arc of the Ozarks. Cost is \$2 per person. Located at the Timothy Grant Newport Activity Center, 1501 E. Pythian St., Springfield, MO 65802.
 
 ### Sensory-Safe Trick-or-Treat
 
@@ -119,6 +117,14 @@ Registration is required as families will have time slots for trick-or-treating 
 **EACH FAMILY must register for a single time slot but admission is free!**
 
 Register for the event here: https://www.eventbrite.com/e/sensory-safe-trick-or-treat-2019-tickets-70488690571
+
+### Springfield Park Board TEAM - 2nd Fall Session
+
+_Second Fall session runs from October 29 through December 10_
+
+Springfield Park Board offers specialized programs for adults 18 years and up with disabilities, for those opting not to participate in Inclusion. Exciting fall programming lineup, including T.E.A.M. (Travel, Entertainment, Art and Music Class) at Northview Center, Ceramics classes and Chair Yoga. Class sizes are limited and registration is required.
+
+Register by October 25, 2019. To learn more, visit: https://www.parkboard.org/335/Adult-Programs
 
 ---
 
