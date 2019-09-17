@@ -21,8 +21,8 @@ export default class footer extends Component {
         </p>
         <p>
           <span style={{ fontWeight: `bold` }}>WC Partners </span>
-          {` `}©{new Date().getFullYear()}. Contact WC Partners by phone at
-          (417) 630-0782 or by email at{" "}
+          {` `}©{new Date().getFullYear()}. Contact WC Partners by phone at{" "}
+          <a href="tel:1-417-630-0782">(417) 630-0782</a> or by email at{" "}
           <a href="mailto:info@wc-partners.net" aria-label="Email WC Partners">
             info@wc-partners.net
           </a>

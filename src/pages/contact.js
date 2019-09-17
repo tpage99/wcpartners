@@ -45,8 +45,8 @@ const Contact = () => (
               }}
             >
               <div style={{ display: `inline-block`, padding: `0.5rem` }}>
-                <span style={{ fontWeight: `bold` }}>Phone:</span> (417)
-                630-0782
+                <span style={{ fontWeight: `bold` }}>Phone:</span>{" "}
+                <a href="tel:1-417-630-0782">(417) 630-0782</a>
               </div>
               <div style={{ display: `inline-block`, padding: `0.5rem` }}>
                 <span style={{ fontWeight: `bold` }}>Fax:</span> (417) 630-0783
