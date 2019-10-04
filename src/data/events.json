@@ -17,27 +17,11 @@
   },
   {
     "title": "Art Inspired Academy Painting Classes",
-    "date": "2019-09-30",
-    "time": "11:00am and 3:00pm",
-    "description": "Class registration is full. Contact your Support Coordinator for more information.",
-    "url": "/resources/art-classes",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669407/WCPartners/acalogo.jpg"
-  },
-  {
-    "title": "Art Inspired Academy Painting Classes",
     "date": "2019-10-07",
     "time": "11:00am and 3:00pm",
     "description": "Class registration is full. Contact your Support Coordinator for more information.",
     "url": "/resources/art-classes",
     "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669407/WCPartners/acalogo.jpg"
-  },
-  {
-    "title": "Music Therapy",
-    "date": "2019-10-03",
-    "time": "Classes are at 4:15pm, 5:15pm, and 6:15pm",
-    "description": "Music Therapy is for everyone! Drury University staff and students provide opportunities for individuals to participate in music therapy. Pre-registration is required. Contact your Support Coordinator for more information.",
-    "url": "/resources/music-therapy",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/music-therapy.jpg"
   },
   {
     "title": "Music Therapy",
@@ -54,22 +38,6 @@
     "description": "Music Therapy is for everyone! Drury University staff and students provide opportunities for individuals to participate in music therapy. Pre-registration is required. Contact your Support Coordinator for more information.",
     "url": "/resources/music-therapy",
     "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/music-therapy.jpg"
-  },
-  {
-    "title": "Project STIR",
-    "date": "2019-10-01",
-    "time": "3:00pm",
-    "description": "Project STIR is a advocacy/self-determination course designed and taught by an advocacy specialist with the Springfield Regional Office. Class registration is full for this session. Contact your Support Coordinator for more information.",
-    "url": "/resources/project-stir",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1566921348/WCPartners/DMHLogo.png"
-  },
-  {
-    "title": "Project STIR",
-    "date": "2019-10-08",
-    "time": "3:00pm",
-    "description": "Project STIR is a advocacy/self-determination course designed and taught by an advocacy specialist with the Springfield Regional Office. Class registration is full for this session. Contact your Support Coordinator for more information.",
-    "url": "/resources/project-stir",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1566921348/WCPartners/DMHLogo.png"
   },
   {
     "title": "Project STIR",
@@ -98,6 +66,14 @@
   {
     "title": "Project STIR",
     "date": "2019-11-05",
+    "time": "3:00pm",
+    "description": "Project STIR is a advocacy/self-determination course designed and taught by an advocacy specialist with the Springfield Regional Office. Class registration is full for this session. Contact your Support Coordinator for more information.",
+    "url": "/resources/project-stir",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1566921348/WCPartners/DMHLogo.png"
+  },
+  {
+    "title": "Project STIR",
+    "date": "2019-11-12",
     "time": "3:00pm",
     "description": "Project STIR is a advocacy/self-determination course designed and taught by an advocacy specialist with the Springfield Regional Office. Class registration is full for this session. Contact your Support Coordinator for more information.",
     "url": "/resources/project-stir",
