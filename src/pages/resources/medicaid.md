@@ -83,4 +83,6 @@ Learn more at https://mo.db101.org/
 
 MO HealthNet (Medicaid) provider search allows for MO HealthNet participants to find providers and search based on type of service, county, and specialty. To search for a provider, including printable lists go to https://apps.dss.mo.gov/fmsMedicaidProviderSearch/
 
+Alternatively, you can also use the NPPES NPI Search if you know the name of the provider (individual or agency) to see if they are licensed to bill Medicaid: https://npiregistry.cms.hhs.gov/
+
 ---
