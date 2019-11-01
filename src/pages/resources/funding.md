@@ -7,7 +7,7 @@ category: "resource"
 
 ---
 
-[Chive Charities](#chive-charities) | [Community Foundation of the Ozarks](#community-foundation-of-the-ozarks) | [Hearing Aid Distribution Program](#hearing-aid-distribution-program) | [Midwest Special Needs Trust](#midwest-special-needs-trust) | [STABLE Accounts](#stable-accounts)
+[Chive Charities](#chive-charities) | [Community Foundation of the Ozarks](#community-foundation-of-the-ozarks) | [Hearing Aid Distribution Program](#hearing-aid-distribution-program) | [Midwest Special Needs Trust](#midwest-special-needs-trust) | [Missouri Assistive Technology](#missouri-assistive-technology) | [NeedyMeds](#needymeds) | [STABLE Accounts](#stable-accounts)
 
 ---
 
@@ -56,6 +56,33 @@ Midwest Special Needs Trust Charitable Trust Program provides small financial as
 The maximum grant award is \$1500. Grants may be requested for medical and dental care, rehabilitative services or equipment, educational assistance, specialized transportation and other needs not covered by public benefits or available through other community programs.
 
 For more information, visit the MSNT Charitable Grant Overview page on their [website](https://www.midwestspecialneedstrust.org/charitable-program/about/). Or read more about how to apply [here](https://www.midwestspecialneedstrust.org/charitable-program/apply/).
+
+---
+
+## Missouri Assistive Technology
+
+The mission of Missouri Assistive Technology is to increase access to assistive technology for Missourians with all types of disabilities, of all ages.
+
+Programs and services of Missouri Assistive Technology include:
+
+- Device Loan
+- Show Me Loans
+- Recycle and Reuse
+- Telecommunication Access Program (TAP)
+- AT Reimbursement for Schools
+- Kids Assistive Technology
+- Deaf-Blind Equipment Distrubtion
+- [And more...](https://at.mo.gov/services.html)
+
+To learn more about MoAT, visit their website: https://at.mo.gov/
+
+---
+
+## NeedyMeds
+
+NeedyMeds is an online information resource of programs that provide assistance to people who are unable to afford their medications and health care costs. All the information is free, easy to access and updated regularly. No registration is required and we don't request any personal information.
+
+For more information, visit their website: https://www.needymeds.org/
 
 ---
 
