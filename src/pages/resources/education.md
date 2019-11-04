@@ -5,6 +5,8 @@ description: "Listing of education resources for individuals with developmental 
 category: "resource"
 ---
 
+---
+
 ## Achieve
 
 Achieve of Southwest Missouri provides comprehensive transition services to individuals with disabilities who need additional skills and supports to succeed in life after high school.
