@@ -1,14 +1,6 @@
 [
   {
     "title": "Music Therapy",
-    "date": "2019-11-07",
-    "time": "Classes are at 4:15pm, 5:15pm, and 6:15pm",
-    "description": "Music Therapy is for everyone! Drury University staff and students provide opportunities for individuals to participate in music therapy. Pre-registration is required. Contact your Support Coordinator for more information.",
-    "url": "/resources/music-therapy",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/music-therapy.jpg"
-  },
-  {
-    "title": "Music Therapy",
     "date": "2019-11-14",
     "time": "Classes are at 4:15pm, 5:15pm, and 6:15pm",
     "description": "Music Therapy is for everyone! Drury University staff and students provide opportunities for individuals to participate in music therapy. Pre-registration is required. Contact your Support Coordinator for more information.",
@@ -41,15 +33,15 @@
   },
   {
     "title": "Project STIR",
-    "date": "2019-11-05",
-    "time": "3:00pm",
-    "description": "Project STIR is a advocacy/self-determination course designed and taught by an advocacy specialist with the Springfield Regional Office. Class registration is full for this session. Contact your Support Coordinator for more information.",
+    "date": "2019-11-12",
+    "time": "CANCELED",
+    "description": "Project STIR has been canceled today due to inclement weather. Please contact your Support Coordinator for further details.",
     "url": "/resources/project-stir",
     "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1566921348/WCPartners/DMHLogo.png"
   },
   {
     "title": "Project STIR",
-    "date": "2019-11-12",
+    "date": "2019-11-19",
     "time": "3:00pm",
     "description": "Project STIR is a advocacy/self-determination course designed and taught by an advocacy specialist with the Springfield Regional Office. Class registration is full for this session. Contact your Support Coordinator for more information.",
     "url": "/resources/project-stir",
