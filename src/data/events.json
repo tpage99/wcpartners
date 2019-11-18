@@ -1,11 +1,19 @@
 [
   {
-    "title": "Music Therapy",
-    "date": "2019-11-14",
-    "time": "Classes are at 4:15pm, 5:15pm, and 6:15pm",
-    "description": "Music Therapy is for everyone! Drury University staff and students provide opportunities for individuals to participate in music therapy. Pre-registration is required. Contact your Support Coordinator for more information.",
-    "url": "/resources/music-therapy",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/music-therapy.jpg"
+    "title": "WC Partners Christmas Celebration [children]",
+    "date": "2019-12-07",
+    "time": "10:00am to 12:00pm",
+    "description": "Have some holiday cheer cookie decorating, craft, and best yet meet Santa! This event is for children age 15 years and younger. Please RSVP by November 25 with your Support Coordinator or by calling the office. ",
+    "url": "/about/",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1560421417/WCPartners/wclogo.png"
+  },
+  {
+    "title": "WC Partners Christmas Celebration [adults]",
+    "date": "2019-12-06",
+    "time": "5:30pm to 8:00pm",
+    "description": "Join us at the Marshfield Senior Center for a night of games, crafts, and fun! We will have an ornament exchange, so please bring an ornament if you would like to participate. WC Partners will be hosting food for this event. This event is for adults age 16 years and older. Please RSVP by November 25 with your Support Coordinator or by calling the office.",
+    "url": "/about/",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1560421417/WCPartners/wclogo.png"
   },
   {
     "title": "Music Therapy",
@@ -30,14 +38,6 @@
     "description": "Music Therapy is for everyone! Drury University staff and students provide opportunities for individuals to participate in music therapy. Pre-registration is required. Contact your Support Coordinator for more information.",
     "url": "/resources/music-therapy",
     "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/music-therapy.jpg"
-  },
-  {
-    "title": "Project STIR",
-    "date": "2019-11-12",
-    "time": "CANCELED",
-    "description": "Project STIR has been canceled today due to inclement weather. Please contact your Support Coordinator for further details.",
-    "url": "/resources/project-stir",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1566921348/WCPartners/DMHLogo.png"
   },
   {
     "title": "Project STIR",
