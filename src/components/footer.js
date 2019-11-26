@@ -51,6 +51,9 @@ export default class footer extends Component {
                 Staff Login
               </a>
             </li>
+            <li className="footer-link">
+              <Link to="/resources/apps#wc-partners">Download the App</Link>
+            </li>
           </ul>
         </div>
         <div style={{ margin: `1.8rem auto`, maxWidth: `150px` }}>

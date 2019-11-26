@@ -28,14 +28,22 @@ const Events = ({ data }) => (
         </div>
       </div>
       <p>
-        Events listed are hosted at WC Partners' office, unless otherwise noted.
-        Some events may require prior registration. Contact your Support
+        Events listed below are hosted at WC Partners' office, unless otherwise
+        noted. Some events may require prior registration. Contact your Support
         Coordinator for additional information.
       </p>
       <p>
         For more information about other local events see our{" "}
         <span className="strong-link">
           <Link to="/resources/community-events/">Community Events</Link>
+        </span>{" "}
+        page.{" "}
+      </p>
+      <p>
+        For more information about activities in the community, see our activity
+        list located at the top of the{" "}
+        <span className="strong-link">
+          <Link to="/resources/">Resources</Link>
         </span>{" "}
         page.
       </p>
