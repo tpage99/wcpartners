@@ -1,5 +1,13 @@
 [
   {
+    "title": "WC Partners Board Meeting",
+    "date": "2019-12-2",
+    "time": "7:00pm",
+    "description": "WC Partners, the Senate Bill 40 Board for Webster County, will be holding a board meeting at our office located at 1329 Spur Drive, Suite 160, Marshfield, MO 65706. This meeting is open to the public.",
+    "url": "/about/",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1560421417/WCPartners/wclogo.png"
+  },
+  {
     "title": "WC Partners Christmas Celebration [children]",
     "date": "2019-12-07",
     "time": "10:00am to 12:00pm",
@@ -14,14 +22,6 @@
     "description": "Join us at the Marshfield Senior Center for a night of games, crafts, and fun! We will have an ornament exchange, so please bring an ornament if you would like to participate. WC Partners will be hosting food for this event. This event is for adults age 16 years and older. Please RSVP by November 25 with your Support Coordinator or by calling the office.",
     "url": "/about/",
     "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1560421417/WCPartners/wclogo.png"
-  },
-  {
-    "title": "Music Therapy",
-    "date": "2019-11-21",
-    "time": "Classes are at 4:15pm, 5:15pm, and 6:15pm",
-    "description": "Music Therapy is for everyone! Drury University staff and students provide opportunities for individuals to participate in music therapy. Pre-registration is required. Contact your Support Coordinator for more information.",
-    "url": "/resources/music-therapy",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/music-therapy.jpg"
   },
   {
     "title": "Music Therapy",
@@ -40,20 +40,12 @@
     "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/music-therapy.jpg"
   },
   {
-    "title": "Project STIR",
-    "date": "2019-11-19",
+    "title": "Project STIR Graduation",
+    "date": "2019-11-26",
     "time": "3:00pm",
-    "description": "Project STIR is a advocacy/self-determination course designed and taught by an advocacy specialist with the Springfield Regional Office. Class registration is full for this session. Contact your Support Coordinator for more information.",
+    "description": "Project STIR is a advocacy/self-determination course designed and taught by an advocacy specialist with the Springfield Regional Office. Class registrants will be celebrating their graduation from the course. Contact your Support Coordinator for more information about future Project STIR courses.",
     "url": "/resources/project-stir",
     "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1566921348/WCPartners/DMHLogo.png"
-  },
-  {
-    "title": "Internet Safety",
-    "date": "2019-11-20",
-    "time": "3:00pm",
-    "description": "SCIL/Empower:abilities will be hosting an educational class on Internet Safety.",
-    "url": "/resources/empower-abilities",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1562154524/WCPartners/empower-abilities.jpg"
   },
   {
     "title": "Holiday Craft",
