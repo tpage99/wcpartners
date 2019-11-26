@@ -47,12 +47,12 @@ export default class footer extends Component {
               <Link to="/a11y/">Accessibility</Link>
             </li>
             <li className="footer-link">
+              <Link to="/resources/apps#wc-partners">Download the App</Link>
+            </li>
+            <li className="footer-link">
               <a href="https://abilitiesfirst.sharepoint.com/sites/WCP/SitePages/Home.aspx">
                 Staff Login
               </a>
-            </li>
-            <li className="footer-link">
-              <Link to="/resources/apps#wc-partners">Download the App</Link>
             </li>
           </ul>
         </div>
