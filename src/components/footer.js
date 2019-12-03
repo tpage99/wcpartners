@@ -47,6 +47,9 @@ export default class footer extends Component {
               <Link to="/a11y/">Accessibility</Link>
             </li>
             <li className="footer-link">
+              <Link to="/careers/">Careers</Link>
+            </li>
+            <li className="footer-link">
               <Link to="/resources/apps#wc-partners">Download the App</Link>
             </li>
             <li className="footer-link">
