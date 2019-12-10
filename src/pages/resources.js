@@ -7,7 +7,7 @@ import HeroHeader from "../components/Navbar/heroHeader"
 import QuickContact from "../components/quick-contact"
 import Footer from "../components/footer"
 
-import pdf from "./resources/November2019.pdf"
+import pdf from "./resources/December2019.pdf"
 
 const Resources = ({ data }) => (
   <Fragment>
@@ -19,12 +19,14 @@ const Resources = ({ data }) => (
         <button>
           <h2 style={{ color: `#fff`, padding: `2rem 0 0 0` }}>
             <span className="big-btn">
-              <a href={pdf}>Activity List</a>
+              <a href={pdf} target="_blank" rel="noopener noreferrer">
+                Activity List
+              </a>
             </span>
           </h2>
         </button>
         <p style={{ marginTop: `0`, paddingTop: `0`, fontSize: `0.9rem` }}>
-          <em>Click to download. Last updated November 1, 2019</em>
+          <em>Click to download. Last updated December 10, 2019</em>
         </p>
         <p>
           The activity list is created by Support Coordinators to include
