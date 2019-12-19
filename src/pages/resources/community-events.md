@@ -11,17 +11,11 @@ _Events on this page are for open community events for individuals with developm
 
 ## 2019
 
-[November](#november-2019) | [December](#december-2019)
+[December](#december-2019)
 
 ## 2020
 
 [January](#january-2020) | [February](#february-2020)
-
----
-
-## November 2019
-
-No event information available.
 
 ---
 
