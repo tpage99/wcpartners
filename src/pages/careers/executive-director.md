@@ -1,7 +1,7 @@
 ---
 path: "/careers/executive-director"
 title: "Executive Director"
-description: "WC Partners is seeking an Executive Director to lead all aspects of the organization including administration of current programs and partnerships in service of citizens with developmental disabilities and their families in Webster County, Missouri."
+description: "WC Partners is seeking an Executive Director to lead all aspects of the organization including administration of current programs and partnerships in service of citizens with developmental disabilities and their families in Webster County, Missouri. Applications due by Friday, January 3, 2020 at end of business day."
 category: "careers"
 ---
 
@@ -91,3 +91,5 @@ No representative of WCP shall discriminate against any employee or candidate fo
 ### Application Process
 
 The Executive Director is a fulltime, salaried, professional position located in Marshfield, Missouri. To apply for this position, submit resume and cover letter to Sigel Owen, WCP Chairperson by email at [info@wc-partners.net](mailto:info@wc-partners.net?subject=Executive Director Position). Within your cover letter or resume, please be sure to provide a description of your experience with services to people with I/DD and their families, and any leadership experience in external relations with a community as a whole, "partner" agencies, and government officials.
+
+Applications due by Friday, January 3, 2020 at end of business day.
