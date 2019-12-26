@@ -16,12 +16,10 @@ category: "resource"
 The Department of Mental Health (DMH) Housing Unit coordinates both state and federal funds to provide direct rental assistance to individuals and families with disabilities who are homeless or experiencing housing crisis. The DMH Housing Unit believes that housing is a key to helping Missourians with disabilities and their families attain self-determination and independent living.
 
 Housing Unit Primary Programs include:
--Shelter Plus Care
--Federally funded permanent supportive housing through rental assistance for individuals and families with a disabled head of household who are homeless per HUD’s definition.
--Rental Assistance Program (RAP)
--State-funded housing assistance for individuals and families who are connected with DMH Behavioral Health support services (mental illness or substance use disorders). RAP can provide one-time assistance to prevent eviction, assist with move-in costs, or pay off rent or utilities in arrears.
--Housing Development
--Expert zero-cost technical assistance to agencies seeking to develop affordable and/or supportive housing for people with and without disabilities anywhere within the State of Missouri.
+
+- Shelter Plus Care
+- Rental Assistance Program (RAP)
+- Housing Development
 
 Learn more about available housing programs here: https://dmh.mo.gov/housing
 
