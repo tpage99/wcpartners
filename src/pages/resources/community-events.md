@@ -17,7 +17,27 @@ _Events on this page are for open community events for individuals with developm
 
 ## January 2020
 
-No event information available.
+### Missouri Lay Educational Advocacy Project-Foundational Training-SW MO
+
+*Wednesday, January 8, 2020 at 8:30 AM to Thursday, January 9, 2020 at 4:30 PM (CST)* 
+
+The Arc of the Ozarks  
+1721 West Elfindale  
+Springfield, MO 65807
+
+**Be a game-changer!**  
+This workshop is designed for those who are interested in learning the basics of Special Education law, rights of those receiving services as well as the skills for partnering and advocating for students with disabilities and their families in educational settings.
+
+This foundational, 2-day training will provide an overview of:
+• Basic advocacy skills and how they apply to the
+educational setting
+• The foundational concepts of an IEP and 504
+• Transition Planning
+Accompany handouts, continental breakfast and lunch will be provided at no charge to attendees.
+
+For additional information or questions, please contact Crystal Bell at bellcd@umkc.edu or (816) 235-1761. Learn more by visiting the following event link: https://www.eventbrite.com/e/missouri-lay-educational-advocacy-project-foundational-training-sw-mo-registration-82042851377 
+
+This is a free event but space is limited so please, register early.
 
 ---
 
