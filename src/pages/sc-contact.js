@@ -16,25 +16,6 @@ const SCContact = () => (
           <div className="line-break"></div>
           <div className="contact-start">
             <img
-              src="https://res.cloudinary.com/tpage99/image/upload/v1561652838/WCPartners/avataaars_1.png"
-              alt="Clay McGranahan"
-              className="contact-photo"
-            />
-          </div>
-          <div className="contact-info">
-            <h2>Clay McGranahan</h2>
-            <p>
-              <span className="contact-title">Executive Director</span>
-              <br />
-              Email:{" "}
-              <a href="mailto: clay@wc-partners.net">clay@wc-partners.net</a>
-              <br />
-              Phone: <a href="tel:1-417-830-4026">(417) 830-4026</a>
-            </p>
-          </div>
-          <div className="line-break"></div>
-          <div className="contact-start">
-            <img
               src="https://res.cloudinary.com/tpage99/image/upload/v1561653558/WCPartners/avataaars_2.png"
               alt="Katrina Detherow"
               className="contact-photo"
