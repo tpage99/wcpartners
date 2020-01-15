@@ -13,8 +13,16 @@ category: "resource"
 
 Instructions on how to get started found here: https://www.bemyeyes.com/get-started
 
-[Get it from Google Play for Android](https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes)  
-[Get it from the App Store for iPhone/iPad](https://itunes.apple.com/us/app/be-my-eyes-helping-blind-see/id905177575?mt=8)
+[Download Be My Eyes from Google Play for Android](https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes)  
+[Download Be My Eyes from the App Store for iPhone/iPad](https://itunes.apple.com/us/app/be-my-eyes-helping-blind-see/id905177575?mt=8)
+
+---
+
+## Seeing AI
+
+Seeing AI is a free app that narrates the world around you. Designed for the blind and low vision community, this ongoing research project harnesses the power of AI to open up the visual world and describe nearby people, text and objects. This app is currently only available on iOS devices. To learn more, visit their website: https://www.microsoft.com/en-us/ai/seeing-ai
+
+[Download Seeing AI from the App store for iPhone/iPad](https://apps.apple.com/us/app/seeing-ai-talking-camera-for-the-blind/id999062298)
 
 ---
 
