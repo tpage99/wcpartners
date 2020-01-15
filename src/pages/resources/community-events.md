@@ -49,6 +49,18 @@ This training is hosted by Missouri Parents Act (MPACT), a non-profit that serve
 
 Register for this free event here: https://www.eventbrite.com/e/special-education-mediation-tickets-84830725985
 
+### Tax-a-palooza with the Springfield Dream Center
+
+_Saturday, February 22, 2020 from 9am to 4pm_
+
+Located at the Springfield Dream Center
+829 W. Atlantic
+Springfield, MO 65803
+
+The Springfield Dream Center will be hosting an event where individuals who earned less than \$56,000 in 2019 or are over the age of 60 through the IRS's VITA or TCE program. To learn more about these programs and other tax preparation assistance options visit our [Financial Resources page](/resources/financial#tax-preparation-assistance).
+
+Learn more about this event here: https://417taxes.weebly.com/tax-a-palooza.html
+
 ### Missouri Lay Educational Advocacy Project-Foundational Training-SW MO
 
 _Wednesday, February 26, 2020 at 8:30 AM to Thursday, February 27, 2020 at 4:30 PM (CST)_

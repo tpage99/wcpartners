@@ -7,7 +7,7 @@ category: "resource"
 
 ---
 
-[Chive Charities](#chive-charities) | [Community Foundation of the Ozarks](#community-foundation-of-the-ozarks) | [Hearing Aid Distribution Program](#hearing-aid-distribution-program) | [Midwest Special Needs Trust](#midwest-special-needs-trust) | [Missouri Assistive Technology](#missouri-assistive-technology) | [NeedyMeds](#needymeds) | [STABLE Accounts](#stable-accounts)
+[Chive Charities](#chive-charities) | [Community Foundation of the Ozarks](#community-foundation-of-the-ozarks) | [Hearing Aid Distribution Program](#hearing-aid-distribution-program) | [Midwest Special Needs Trust](#midwest-special-needs-trust) | [Missouri Assistive Technology](#missouri-assistive-technology) | [NeedyMeds](#needymeds) | [STABLE Accounts](#stable-accounts) | [Tax Preparation Assistance](#tax-preparation-assistance)
 
 ---
 
@@ -91,5 +91,17 @@ For more information, visit their website: https://www.needymeds.org/
 A STABLE Account is an investment account available to eligible individuals with disabilities. STABLE Accounts are made possible by the federal Achieving a Better Life Experience (“ABLE”) Act. STABLE Accounts allow individuals with disabilities to save and invest money without losing eligibility for certain public benefits programs, like Medicaid or SSI. Earnings in your STABLE Account are not subject to federal income tax, so long as you spend them on “Qualified Disability Expenses.”
 
 To learn more about STABLE accounts, visit their website: https://www.moable.com/
+
+---
+
+## Tax Preparation Assistance
+
+The Volunteer Income Tax Assistance (VITA) program offers free tax help to people who generally make \$56,000 or less, persons with disabilities and limited English speaking taxpayers who need assistance in preparing their own tax returns. IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals.
+
+In addition to VITA, the Tax Counseling for the Elderly (TCE) program offers free tax help for all taxpayers, particularly those who are 60 years of age and older, specializing in questions about pensions and retirement-related issues unique to seniors. The IRS-certified volunteers who provide tax counseling are often retired individuals associated with non-profit organizations that receive grants from the IRS.
+
+Learn more about these programs or use the locator tool to find a site near you: https://www.irs.gov/individuals/free-tax-return-preparation-for-you-by-volunteers
+
+For information about tax preparation assistance programs in the Springfield area, visit this site: https://417taxes.weebly.com/vita-locations.html
 
 ---
