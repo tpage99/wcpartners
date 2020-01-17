@@ -24,7 +24,7 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
       events: allMarkdownRemark(
-        filter: { frontmatter: { category: { eq: "event" } } }
+        filter: { frontmatter: { category: { eq: "events" } } }
       ) {
         edges {
           node {

@@ -1,8 +1,8 @@
 ---
-path: "/resources/project-stir"
+path: "/events/project-stir"
 title: "Project STIR"
 description: "Project STIR is a advocacy/self-determination course designed and taught by an advocacy specialist with the Springfield Regional Office."
-category: "event"
+category: "events"
 ---
 
 The Missouri Division of Developmental Disabilities regional Advocacy Specialist promotes self-determination and inclusion by coordinating Project STIR trainings in their region. The training is designed to empower people with developmental disabilities. It provides the practical, “how to” tools necessary for anyone who is interested in being a self-advocate and leader in making choices and decisions about how they live their lives.
