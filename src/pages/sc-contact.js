@@ -24,7 +24,7 @@ const SCContact = () => (
           <div className="contact-info">
             <h2>Katrina Detherow</h2>
             <p>
-              <span className="contact-title">Support Coordinator</span>
+              <span className="contact-title">Executive Director</span>
               <br />
               Email:{" "}
               <a href="mailto: kdetherow@wc-partners.net">
