@@ -7,7 +7,7 @@ import HeroHeader from "../components/Navbar/heroHeader"
 import QuickContact from "../components/quick-contact"
 import Footer from "../components/footer"
 
-import pdf from "./resources/December2019.pdf"
+import pdf from "./resources/February2020.pdf"
 
 const Resources = ({ data }) => (
   <Fragment>
@@ -26,7 +26,11 @@ const Resources = ({ data }) => (
           </h2>
         </button>
         <p style={{ marginTop: `0`, paddingTop: `0`, fontSize: `0.9rem` }}>
-          <em>Click to download. Last updated December 10, 2019</em>
+          <em>
+            Click to download. Last updated January 27, 2020. The activity list
+            is made available in a PDF format that opens in another page in your
+            browser. If you require a more accessible format, please contact us.
+          </em>
         </p>
         <p>
           The activity list is created by Support Coordinators to include
