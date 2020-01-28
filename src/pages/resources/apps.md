@@ -3,7 +3,12 @@ path: "/resources/apps"
 title: "Apps"
 description: "Apps available for smartphones or tablets that make the lives of individuals and their families easier."
 category: "resource"
+tags: ["be my eyes", "seeing ai", "wc partners"]
 ---
+
+---
+
+[Be My Eyes](#be-my-eyes) | [Seeing AI](#seeing-ai) | [WC Partners](#wc-partners)
 
 ---
 

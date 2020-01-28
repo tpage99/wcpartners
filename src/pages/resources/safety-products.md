@@ -3,6 +3,16 @@ path: "/resources/safety-products"
 title: "Safety Products"
 description: "Free and paid resources for safety products, including GPS trackers, card identifiers for individuals who do not have verbal skills, and more."
 category: "resource"
+tags:
+  [
+    "autism moms know safety",
+    "autism speak safety resources",
+    "big red safety box",
+    "if I need help",
+    "smart911",
+    "wallet card",
+    "wearable gps devices",
+  ]
 ---
 
 ---

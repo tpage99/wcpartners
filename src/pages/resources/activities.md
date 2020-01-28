@@ -3,6 +3,19 @@ path: "/resources/activities"
 title: "Activities"
 description: "Information about community activities and/or leisure type resources for individuals and families to enjoy."
 category: "resource"
+tags:
+  [
+    "a sporting chance",
+    "arc of the ozarks",
+    "art inspired academy",
+    "champion athletes",
+    "greene county library",
+    "kids bowl free",
+    "miracle league",
+    "seymour ymca",
+    "springfield greene county park board",
+    "webster county youth services",
+  ]
 ---
 
 ---

@@ -3,6 +3,7 @@ path: "/events/sign-up"
 title: "Sign-Up for WC Partners Events"
 description: "Sign-up for events hosted by WC Partners."
 category: "events"
+tags: exempt
 ---
 
 ## Project STIR

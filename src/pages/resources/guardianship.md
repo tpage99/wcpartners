@@ -3,6 +3,7 @@ path: "/resources/guardianship"
 title: "Guardianship"
 description: "Listing of resources for individuals with developmental disabilities and their families related to guardianship."
 category: "resource"
+tags: ["alternatives to guardianship project"]
 ---
 
 ---

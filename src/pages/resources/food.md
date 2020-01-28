@@ -3,11 +3,18 @@ path: "/resources/food"
 title: "Food"
 description: "Information about food pantries, healthy eating information, and other food related resources such as food sensory therapies."
 category: "resource"
+tags:
+  [
+    "budget meal planner",
+    "food stamps",
+    "food pantries",
+    "marshfield farmers market",
+  ]
 ---
 
 ---
 
-[Budget Meal Planner](#budget-meal-planner) | [Food Stamps](#food-stamps) | [Food Pantries](#food-pantries) | [Marshfield Farmers Marker](#marshfield-farmers-market)
+[Budget Meal Planner](#budget-meal-planner) | [Food Stamps](#food-stamps) | [Food Pantries](#food-pantries) | [Marshfield Farmers Market](#marshfield-farmers-market)
 
 ---
 

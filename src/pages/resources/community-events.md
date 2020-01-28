@@ -3,6 +3,7 @@ path: "/resources/community-events"
 title: "Community Events"
 description: "Listing of open community events for individuals with developmental disabilities and their families. Events are located within and around Webster County."
 category: "resource"
+tags: ["events"]
 ---
 
 _Events on this page are for open community events for individuals with developmental disabilities and their families. Events are located within and around Webster County. For information about WC Partners' events, check out the [Events Page](/events/)._

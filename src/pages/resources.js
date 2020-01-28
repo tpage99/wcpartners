@@ -6,6 +6,7 @@ import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
 import QuickContact from "../components/quick-contact"
 import Footer from "../components/footer"
+import Search from "../components/searchBox"
 
 import pdf from "./resources/February2020.pdf"
 
@@ -40,9 +41,18 @@ const Resources = ({ data }) => (
         <p style={{ textAlign: `center`, paddingTop: `2rem` }}>
           <em>
             Click on the links below to find more about available resources and
-            information.
+            information or use the search to find information about resources.
           </em>
         </p>
+        <div
+          style={{
+            background: `#2d5b2d`,
+            margin: `auto`,
+            alignContent: `center`,
+          }}
+        >
+          <Search />
+        </div>
         <ul style={{ listStyle: `none`, borderBottom: `1px solid #e2e2e6` }}>
           {data.allMarkdownRemark.edges.map(resource => (
             <li className="resource-box" key={resource.node.id}>

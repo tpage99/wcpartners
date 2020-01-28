@@ -3,6 +3,13 @@ path: "/resources/medicaid"
 title: "Medicaid"
 description: "Information on how to apply for Medicaid, including applications, resources and links to information about various Medicaid programs and resources. Included are dental providers/services that accept Medicaid."
 category: "resource"
+tags:
+  [
+    "apply for medicaid",
+    "dental",
+    "disability benefits 101",
+    "medicaid provider search",
+  ]
 ---
 
 ---
