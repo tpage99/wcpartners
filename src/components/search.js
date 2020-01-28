@@ -26,7 +26,7 @@ export default class Search extends Component {
           type="text"
           value={this.state.query}
           onChange={this.search}
-          style={{ fontSize: `1.5rem` }}
+          style={{ fontSize: `1.5rem`, maxWidth: `100%` }}
         />
         <ul
           style={{
