@@ -3,6 +3,7 @@ path: "/careers/support-coordinator"
 title: "Support Coordinator"
 description: "WC Partners is seeking a Support Coordinator to provide targeted case management services for individuals and their families whom have a developmental disability living in Webster County, Missouri. Cover letter and resume for those interested in the position should be sent to the Executive Director. Applications due by Friday, January 31, 2020 at end of business day."
 category: "careers"
+tags: exempt
 ---
 
 **Reports to:** Executive Director  

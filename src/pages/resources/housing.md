@@ -3,6 +3,12 @@ path: "/resources/housing"
 title: "Housing"
 description: "Information about funding options for housing, low-cost housing options, various housing programs that help support low-income households, and other housing resources."
 category: "resource"
+tags:
+  [
+    "dmh housing programs",
+    "oacac",
+    "us department of housing and urban development",
+  ]
 ---
 
 ---

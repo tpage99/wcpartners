@@ -3,6 +3,17 @@ path: "/resources/financial"
 title: "Financial"
 description: "Information about possible financial resources, such as funding sources, and also other options that help aid individuals and families."
 category: "resource"
+tags:
+  [
+    "chive charities",
+    "community foundation of the ozarks",
+    "hearing aid distrubtion program",
+    "midwest special needs trust",
+    "missouri assitive technology",
+    "needymeds",
+    "stable accounts",
+    "tax preparation assistance",
+  ]
 ---
 
 ---

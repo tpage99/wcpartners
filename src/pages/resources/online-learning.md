@@ -3,6 +3,16 @@ path: "/resources/online-learning"
 title: "Online Learning"
 description: "Information about free, low-cost, and paid online learning resources for all sorts of learning paths."
 category: "resource"
+tags:
+  [
+    "coursera",
+    "edx",
+    "future learn",
+    "khan academy",
+    "linkedin learning",
+    "udacity",
+    "udemy",
+  ]
 ---
 
 ---

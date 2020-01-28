@@ -3,6 +3,7 @@ path: "/events/art-classes"
 title: "Art Classes"
 description: "Art Inspired Academy classes that go over art classes. Inclusive classes designed to be awesome and catered to various skill levels."
 category: "events"
+tags: exempt
 ---
 
 WC Partners has been able to work with Art Inspired Academy to host art classes at the WC Partners' office. Classes through Art Inspired Academy are inclusive classes designed to be awesome and catered to various skill levels. Students will explore various painting techniques used on canvas.

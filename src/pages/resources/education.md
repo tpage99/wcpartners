@@ -3,7 +3,12 @@ path: "/resources/education"
 title: "Education"
 description: "Listing of education resources for individuals with developmental disabilities and their families."
 category: "resource"
+tags: ["achieve", "bear power", "mpact"]
 ---
+
+---
+
+[Achieve](#achieve) | [Bear Power](#bear-power) | [MPACT](#mpact)
 
 ---
 

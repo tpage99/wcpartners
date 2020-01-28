@@ -3,6 +3,7 @@ path: "/resources/accessibility"
 title: "Accessibility"
 description: "Products and information that can help make life more accessible. Whether that's online or in person, these resources help provide ways to make the world around those with developmental disabilities more accessible."
 category: "resource"
+tags: ["helperbird", "NVDA Screen Reader"]
 ---
 
 ---
