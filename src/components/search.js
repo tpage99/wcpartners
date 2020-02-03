@@ -33,15 +33,28 @@ export default class Search extends Component {
             listStyle: `none`,
             listStylePosition: `inside`,
             background: `#2d5b2d`,
-            padding: `1rem`,
+            padding: `1rem 0`,
           }}
         >
           {this.state.results.map(page => (
-            <li key={page.id} style={{ padding: `1rem 0`, color: `white` }}>
-              <Link to={"/" + page.path} style={{ color: `white` }}>
+            <li
+              key={page.id}
+              style={{
+                margin: `1rem 0`,
+                padding: `0.5rem`,
+                backgroundColor: `white`,
+              }}
+            >
+              <Link
+                to={"/" + page.path}
+                style={{
+                  color: `black`,
+                  textDecoration: `none`,
+                }}
+              >
                 {page.title}
+                {": " + page.tags.join(`, `)}
               </Link>
-              {": " + page.tags.join(`, `)}
             </li>
           ))}
         </ul>

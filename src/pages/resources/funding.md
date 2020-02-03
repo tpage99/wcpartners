@@ -5,8 +5,10 @@ description: "Information about possible financial resources, such as funding so
 category: "resource"
 tags:
   [
+    "challenged athletes foundation",
     "chive charities",
     "community foundation of the ozarks",
+    "free file",
     "hearing aid distrubtion program",
     "midwest special needs trust",
     "missouri assitive technology",
@@ -18,7 +20,15 @@ tags:
 
 ---
 
-[Chive Charities](#chive-charities) | [Community Foundation of the Ozarks](#community-foundation-of-the-ozarks) | [Hearing Aid Distribution Program](#hearing-aid-distribution-program) | [Midwest Special Needs Trust](#midwest-special-needs-trust) | [Missouri Assistive Technology](#missouri-assistive-technology) | [NeedyMeds](#needymeds) | [STABLE Accounts](#stable-accounts) | [Tax Preparation Assistance](#tax-preparation-assistance)
+[Challenged Athletes Foundation](#challenged-athletes-foundation) | [Chive Charities](#chive-charities) | [Community Foundation of the Ozarks](#community-foundation-of-the-ozarks) | [Free File](#free-file) | [Hearing Aid Distribution Program](#hearing-aid-distribution-program) | [Midwest Special Needs Trust](#midwest-special-needs-trust) | [Missouri Assistive Technology](#missouri-assistive-technology) | [NeedyMeds](#needymeds) | [STABLE Accounts](#stable-accounts) | [Tax Preparation Assistance](#tax-preparation-assistance)
+
+---
+
+## Challenged Athletes Foundation
+
+The mission of Challenged Athletes Foundation (CAF) to serve people with physical disabilities through sport and fitness with meaningful grants. Over the last 26 years, they have given over 26,000 grants to individuals with permanent physical disabilities worldwide. The grants they award are for travel and competition expenses, coaching and training expenses, and adaptive sports equipment.
+
+Learn more about available grant programs here: https://www.challengedathletes.org/grants/
 
 ---
 
@@ -43,6 +53,14 @@ Learn more at: https://chivecharities.org/recipient
 The Community Foundation of the Ozarks is a public foundation serving the central and southern Missouri. The CFO is dedicated to working with its donors, nonprofit partners and affiliated community foundations in meaningful and purposeful ways.
 
 See more information about available grants and scholarships here: https://cfozarks.org/cfo-grantmaking-programs/
+
+---
+
+## Free File
+
+File your taxes online for free. If your 2019 adjusted gross income was \$69,000 or less, you may find one or more Free File Online options for you. The IRS offers a lookup tool and the ability to browse offers from different tax preparation companies to see which one benefits you best.
+
+Learn more here: https://apps.irs.gov/app/freeFile/
 
 ---
 

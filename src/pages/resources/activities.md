@@ -8,6 +8,7 @@ tags:
     "a sporting chance",
     "arc of the ozarks",
     "art inspired academy",
+    "challenged athletes foundation",
     "champion athletes",
     "greene county library",
     "kids bowl free",
@@ -20,7 +21,7 @@ tags:
 
 ---
 
-[A Sporting Chance](#a-sporting-chance) | [Arc of the Ozarks](#arc-of-the-ozarks) | [Art Inspired Academy](#art-inspired-academy) | [Champion Athletes](#champion-athletes) | [Greene County Library](#greene-county-library) | [Kids Bowl Free](#kids-bowl-free) | | [Miracle League](#miracle-league) | [Seymour-YMCA](#seymour-ymca) | [Springfield-Greene County Park Board](#springfield-greene-county-park-board) | [Webster County Youth Services](#webster-county-youth-services)
+[A Sporting Chance](#a-sporting-chance) | [Arc of the Ozarks](#arc-of-the-ozarks) | [Art Inspired Academy](#art-inspired-academy) | [Challenged Athletes Foundation](#challenged-athletes-foundation) | [Champion Athletes](#champion-athletes) | [Greene County Library](#greene-county-library) | [Kids Bowl Free](#kids-bowl-free) | | [Miracle League](#miracle-league) | [Seymour-YMCA](#seymour-ymca) | [Springfield-Greene County Park Board](#springfield-greene-county-park-board) | [Webster County Youth Services](#webster-county-youth-services)
 
 ---
 
@@ -54,6 +55,14 @@ Register for online classes here: https://aia.asapconnected.com/default.aspx?org
 Camp Barnabas is located in Purdy, MO, and is a faith-based organization that works to meet the needs of people with disabilities so they can have an incredible camp experience and learn more about Christ. To make camp possible, they team up with groups and individuals all across the nation to match up each person one-on-one with campers.
 
 Learn more here: https://www.campbarnabas.org/
+
+---
+
+## Challenged Athletes Foundation
+
+It is the mission of the Challenged Athletes Foundation (CAF) to provide opportunities and support to people with physical challenges, so they can pursue active lifestyles through physical fitness and competitive athletics. The Challenged Athletes Foundation believes that involvement in sports at any level increases self-esteem, encourages independence and enhances quality of life.
+
+Learn more here: https://www.challengedathletes.org/
 
 ---
 
