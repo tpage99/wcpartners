@@ -3,8 +3,20 @@ path: "/resources/accessibility"
 title: "Accessibility"
 description: "Products and information that can help make life more accessible. Whether that's online or in person, these resources help provide ways to make the world around those with developmental disabilities more accessible."
 category: "resource"
-tags: ["helperbird", "NVDA Screen Reader"]
+tags: ["free white cane program", "helperbird", "NVDA Screen Reader"]
 ---
+
+---
+
+[Free White Cane Program](#free-white-cane-program) | [Helperbird](#helperbird) | [NVDA Screen Reader](#nvda-screen-reader)
+
+---
+
+## Free White Cane Program
+
+The National Federation of the Blind has distributed more than 64,000 free white canes since 2008. The white cane gives blind people the ability to achieve a full and independent life, aiding in the opportunity to travel freely and safely. The organization started their free white cane program because they believe that no blind person should be without a white cane, regardless of his or her ability to pay for it.
+
+Learn more here: https://www.nfb.org/programs-services/free-white-cane-program
 
 ---
 
