@@ -12,15 +12,7 @@ _Events on this page are for open community events for individuals with developm
 
 ## 2020
 
-[January](#january-2020) | [February](#february-2020) | [March](#march-2020)
-
----
-
-## January 2020
-
-### Missouri Lay Educational Advocacy Project-Foundational Training-SW MO
-
-_This even has been rescheduled to February. See below._
+[February](#february-2020) | [March](#march-2020)
 
 ---
 
@@ -83,6 +75,26 @@ Accompany handouts, continental breakfast and lunch will be provided at no charg
 For additional information or questions, please contact Crystal Bell at bellcd@umkc.edu or (816) 235-1761. Learn more by visiting the following event link: https://www.eventbrite.com/e/missouri-lay-educational-advocacy-project-foundational-training-sw-mo-registration-82042851377
 
 This is a free event but space is limited so please, register early.
+
+## MO ABLE Presentation and Information Session
+
+_Monday, February 24, 2020 at 1:30pm-3pm_
+
+The Arc of the Ozarks  
+1721 West Elfindale  
+Springfield, MO 65807
+
+Learn about the benefits, updates, growth and upcoming changes of the MO ABLE savings and investment program for people with disabilities. MO ABLE allows individuals with disabilities and their families to save and invest tax-free without losing federal needs-based benefits like SSI and Medicaid.
+
+SPECIAL GUEST SPEAKER: Missouri State Treasurer - Scott Fitzpatrick
+
+Questions will be taken throughout the presentation.
+
+For more information, and to take an eligibility quiz, please visit www.moable.com.
+
+An RSVP is not required for this event. For additional information or questions, contact Karen Burnell-Ruff at KRuff@TheArcOfTheOzarks.org or (417) 771-3698.
+
+Event information originally posted here: https://www.facebook.com/events/184568512905766/
 
 ---
 
