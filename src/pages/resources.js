@@ -23,20 +23,22 @@ const Resources = ({ data }) => (
             various community activities that individuals and their families WC
             Partners works with may enjoy.{" "}
           </p>
-          <button style={{ margin: `1.5rem 0` }}>
-            <a
-              href={pdf}
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{
-                color: `#fff`,
-                fontSize: `2.5rem`,
-                fontWeight: `bold`,
-              }}
-            >
-              <span className="big-btn">Activity List</span>
-            </a>
-          </button>
+          <div style={{ margin: `1.5rem 0`, padding: `1.5rem 0` }}>
+            <button>
+              <a
+                href={pdf}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  color: `#fff`,
+                  fontSize: `2.5rem`,
+                  fontWeight: `bold`,
+                }}
+              >
+                <span className="big-btn">Activity List</span>
+              </a>
+            </button>
+          </div>
           <p style={{ margin: `1rem 0`, fontSize: `0.9rem` }}>
             <em>Click to download. Last updated January 27, 2020.</em>
           </p>
