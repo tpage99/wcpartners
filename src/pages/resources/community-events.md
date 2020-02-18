@@ -54,6 +54,43 @@ The Springfield Dream Center will be hosting an event where individuals who earn
 
 Learn more about this event here: https://417taxes.weebly.com/tax-a-palooza.html
 
+## MO ABLE Presentation and Information Session
+
+_Monday, February 24, 2020 at 1:30pm-3pm_
+
+The Arc of the Ozarks  
+1721 West Elfindale  
+Springfield, MO 65807
+
+Learn about the benefits, updates, growth and upcoming changes of the MO ABLE savings and investment program for people with disabilities. MO ABLE allows individuals with disabilities and their families to save and invest tax-free without losing federal needs-based benefits like SSI and Medicaid.
+
+SPECIAL GUEST SPEAKER: Missouri State Treasurer - Scott Fitzpatrick
+
+Questions will be taken throughout the presentation.
+
+For more information, and to take an eligibility quiz, please visit www.moable.com.
+
+An RSVP is not required for this event. For additional information or questions, contact Karen Burnell-Ruff at KRuff@TheArcOfTheOzarks.org or (417) 771-3698.
+
+Event information originally posted here: https://www.facebook.com/events/184568512905766/
+
+### Temple Grandin: Educating All Kinds of Minds
+
+_Monday, February 24, 2020 from 7pm-9pm_
+
+THIS EVENT HAS REACHED CAPACITY, but you can view it on a livestream at https://extension2.missouri.edu/public-livestreams on Feb. 24 at 7 p.m.
+
+Learn from the nationally renowned expert on autism. At age two Temple Grandin had no speech and all the signs of severe autism. Following many hours of speech therapy, and intensive teaching enabled Temple to learn speech. As a teenager, life was hard with constant teasing. Mentoring by her high school science teacher and her aunt on her ranch in Arizona motivated Temple to study and pursue a career as a scientist and livestock equipment designer.
+
+Dr. Grandin is a past member of the board of directors of the Autism Society of America. She lectures to parents and teachers throughout the U.S. on her experiences with autism. Articles and interviews have appeared in the New York Times, People, Time, National Public Radio, 20/20, The View, and the BBC. She was also honored in Time Magazines 2010 “The 100 Most Influential People in the World.”
+
+She has a successful career consulting on both livestock handling equipment design and animal welfare. She was inducted into the American Academy of Arts and Sciences in 2016. Today half the cattle in the United States are handled in facilities she has designed. Today she is a professor of Animal Science at Colorado State University and an inspiration for many.
+
+MU Extension 4-H youth development faculty collaborated with partners to bring to you Temple Grandin, the expert on Autism. The goal of this program is to influence people, programs, policies and services that impact the lives of young people with autism and their families.
+
+Original event information found here: https://www.facebook.com/events/618053145626893/  
+Livestream link: https://extension2.missouri.edu/public-livestreams?fbclid=IwAR0WCcIgtjdS5q51bI3Z0ttFueLLzMg2nsmxsXVC8EbixeSDJk6G_02I0Yo
+
 ### Missouri Lay Educational Advocacy Project-Foundational Training-SW MO
 
 _Wednesday, February 26, 2020 at 8:30 AM to Thursday, February 27, 2020 at 4:30 PM (CST)_
@@ -75,26 +112,6 @@ Accompany handouts, continental breakfast and lunch will be provided at no charg
 For additional information or questions, please contact Crystal Bell at bellcd@umkc.edu or (816) 235-1761. Learn more by visiting the following event link: https://www.eventbrite.com/e/missouri-lay-educational-advocacy-project-foundational-training-sw-mo-registration-82042851377
 
 This is a free event but space is limited so please, register early.
-
-## MO ABLE Presentation and Information Session
-
-_Monday, February 24, 2020 at 1:30pm-3pm_
-
-The Arc of the Ozarks  
-1721 West Elfindale  
-Springfield, MO 65807
-
-Learn about the benefits, updates, growth and upcoming changes of the MO ABLE savings and investment program for people with disabilities. MO ABLE allows individuals with disabilities and their families to save and invest tax-free without losing federal needs-based benefits like SSI and Medicaid.
-
-SPECIAL GUEST SPEAKER: Missouri State Treasurer - Scott Fitzpatrick
-
-Questions will be taken throughout the presentation.
-
-For more information, and to take an eligibility quiz, please visit www.moable.com.
-
-An RSVP is not required for this event. For additional information or questions, contact Karen Burnell-Ruff at KRuff@TheArcOfTheOzarks.org or (417) 771-3698.
-
-Event information originally posted here: https://www.facebook.com/events/184568512905766/
 
 ---
 
