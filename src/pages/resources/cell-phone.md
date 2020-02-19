@@ -113,10 +113,6 @@ Learn more at: https://www.lifewireless.com/ or call 888-543-3620
 
 ## QLink
 
-https://qlinkwireless.com/signup/s-6-717/?auto=1&zip=65807&email=
-
-_Rating A with Better Business Bureau (BBB)_
-
 Q Link Wireless will provide you with free phone service that includes free monthly data, minutes, and unlimited texting, through a special government benefit program called "Lifeline." There are no bills, no credit checks, and no fees ever to participate in this free program.
 
 Service Includes:
@@ -132,6 +128,8 @@ Service Includes:
 - 3 Way Calling
 - NO Credit Check
 - Call Forwarding
+
+_Rating A with Better Business Bureau (BBB)_
 
 Learn more at the following link: https://qlinkwireless.com/signup/s-6-717/?auto=1&zip=65807&email=
 
