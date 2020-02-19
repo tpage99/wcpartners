@@ -54,7 +54,23 @@ The Springfield Dream Center will be hosting an event where individuals who earn
 
 Learn more about this event here: https://417taxes.weebly.com/tax-a-palooza.html
 
-## MO ABLE Presentation and Information Session
+### February Parent Workshop - At Home with Assistive Technology
+
+_Saturday, February 22, 2020 from 9:30am-11:30am_
+
+Located at empower:abilities  
+2864 S Nettleton Avenue  
+Springfield, MO 65807
+
+Join Include Ozarks at Empower: Abilities for a guided tour of a universal design apartment, an overview of available assistive technology, and a follow up with TheraCare therapists for accessing and funding assistive technology in your own home.
+
+NOTE: Childcare will NOT be provided at this event. You are welcome to bring your children but you will be responsible for supervising them at all times.
+
+Register here: https://www.eventbrite.com/e/february-parent-workshop-at-home-with-assistive-technology-tickets-93729749203
+
+Or signup on Facebook event here: https://www.facebook.com/events/601025760460055/
+
+### MO ABLE Presentation and Information Session
 
 _Monday, February 24, 2020 at 1:30pm-3pm_
 
@@ -116,6 +132,26 @@ This is a free event but space is limited so please, register early.
 ---
 
 ## March 2020
+
+### Aquabilities 2020 with Jen Keet
+
+Offered through the Springfield Park Board and hosted at the Doling Family Center, participants will socialize while moving and grooving in a fun, music-filled class for 45 minutes, followed by 15 minutes of supervised free swim.
+
+Monday Class:
+
+- 6:30pm-7:30pm
+- March 2-23
+- \$20 for 4-week session
+
+Friday Class:
+
+- 10:30am-11:30am
+- March 6-27
+- \$20 for 4-week session
+
+Participants ages 12 and up with a disability must be comfortable in chest-deep water, or bring a family/staff member with them. Pre-registration is required and class sizes are limited.
+
+For registration information call 417.837.5808 or email shayden@springfieldmo.gov
 
 ### Power Up AT Conference and Expo
 

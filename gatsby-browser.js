@@ -6,7 +6,7 @@
 
 export const onServiceWorkerUpdateReady = () => {
   const answer = window.confirm(
-    `WC Partners has updated this website with more helpful information. ` +
+    `WC Partners has updated this website with more helpful information since your last visit. ` +
       `Reload to display most current information?`
   )
   if (answer === true) {
