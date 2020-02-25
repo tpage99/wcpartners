@@ -8,4 +8,4 @@ tags: exempt
 
 WC Partners has partnered with Drury University to bring music therapy classes to Marshfield. Once a week, students and practitioners from Drury University come and engage with individuals we serve to promote communication and interaction through music therapy.
 
-Classes are on Thursdays and spots are limited, so [contact your Support Coordinator](/sc-contact/) in order to learn more or sign up for this class. If you'd like to learn more about Drury's Music Therapy program, you can visit their [website](https://www.drury.edu/music/drury-university-center-for-music-therapy-and-wellness).
+Classes are on Thursdays and spots are limited, so [contact your Support Coordinator](/sc-contact/) in order to learn more or [click here to sign up for this class](/events/sign-up). If you'd like to learn more about Drury's Music Therapy program, you can visit their [website](https://www.drury.edu/music/drury-university-center-for-music-therapy-and-wellness).
