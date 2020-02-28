@@ -8,7 +8,7 @@ import QuickContact from "../components/quick-contact"
 import Footer from "../components/footer"
 import Search from "../components/searchBox"
 
-import pdf from "./resources/February2020.pdf"
+import pdf from "./resources/March2020.pdf"
 
 const Resources = ({ data }) => (
   <Fragment>
@@ -23,8 +23,8 @@ const Resources = ({ data }) => (
             various community activities that individuals and their families WC
             Partners works with may enjoy.{" "}
           </p>
-          <div style={{ margin: `1.5rem 0`, padding: `1.5rem 0` }}>
-            <button>
+          <div>
+            <button className="big-btn">
               <a
                 href={pdf}
                 target="_blank"
@@ -35,12 +35,12 @@ const Resources = ({ data }) => (
                   fontWeight: `bold`,
                 }}
               >
-                <span className="big-btn">Activity List</span>
+                Activity List
               </a>
             </button>
           </div>
           <p style={{ margin: `1rem 0`, fontSize: `0.9rem` }}>
-            <em>Click to download. Last updated January 27, 2020.</em>
+            <em>Click to download. Last updated February 27, 2020.</em>
           </p>
           <p>
             The activity list is made available in a PDF format that opens in

@@ -27,7 +27,12 @@ const Contact = () => (
           }}
         >
           <h1 style={{ textAlign: `center` }}>CONTACT US</h1>
-          <p style={{ paddingBottom: `1rem`, textAlign: `center` }}>
+          <p
+            style={{
+              paddingBottom: `1rem`,
+              textAlign: `center`,
+            }}
+          >
             Contact our office or contact your Support Coordinator directly.
             Support Coordinator contact information is available on our{" "}
             <span className="strong-link">
