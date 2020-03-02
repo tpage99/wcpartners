@@ -12,122 +12,7 @@ _Events on this page are for open community events for individuals with developm
 
 ## 2020
 
-[February](#february-2020) | [March](#march-2020)
-
----
-
-## February 2020
-
-### Night to Shine
-
-_Friday, February 7, 2020 at 6pm_
-
-Located at High Street Church  
-900 N. Eastgate Avenue  
-Springfield, MO 65802
-
-Night to Shine is an unforgettable prom night experience, centered on God’s love, for people with special needs ages 14 and older. This February 7, 2020, Night to Shine celebrates its sixth anniversary! This past year, on one night, 655 churches from around the world came together to host Night to Shine for approximately 100,000 honored guests through the support of 200,000 volunteers!
-
-### Special Education Mediation with MPACT
-
-_Tuesday, February 11, 2020 from 10am to 12pm_
-
-Located at The Library Station  
-2535 North Kansas Expressway  
-Springfield, MO 65803
-
-This training is designed to provide an overview of what Mediation is as well as what a mediator does and does not do. It will help parents understand when and how to request mediation, what to expect from mediation, and most importantly how to plan and prepare for an upcoming mediation.
-
-This training is hosted by Missouri Parents Act (MPACT), a non-profit that serves children with disabilities, their families, and communities throughout the state.
-
-Register for this free event here: https://www.eventbrite.com/e/special-education-mediation-tickets-84830725985
-
-### Tax-a-palooza with the Springfield Dream Center
-
-_Saturday, February 22, 2020 from 9am to 4pm_
-
-Located at the Springfield Dream Center
-829 W. Atlantic
-Springfield, MO 65803
-
-The Springfield Dream Center will be hosting an event where individuals who earned less than \$56,000 in 2019 or are over the age of 60 through the IRS's VITA or TCE program. To learn more about these programs and other tax preparation assistance options visit our [Financial Resources page](/resources/financial#tax-preparation-assistance).
-
-Learn more about this event here: https://417taxes.weebly.com/tax-a-palooza.html
-
-### February Parent Workshop - At Home with Assistive Technology
-
-_Saturday, February 22, 2020 from 9:30am-11:30am_
-
-Located at empower:abilities  
-2864 S Nettleton Avenue  
-Springfield, MO 65807
-
-Join Include Ozarks at Empower: Abilities for a guided tour of a universal design apartment, an overview of available assistive technology, and a follow up with TheraCare therapists for accessing and funding assistive technology in your own home.
-
-NOTE: Childcare will NOT be provided at this event. You are welcome to bring your children but you will be responsible for supervising them at all times.
-
-Register here: https://www.eventbrite.com/e/february-parent-workshop-at-home-with-assistive-technology-tickets-93729749203
-
-Or signup on Facebook event here: https://www.facebook.com/events/601025760460055/
-
-### MO ABLE Presentation and Information Session
-
-_Monday, February 24, 2020 at 1:30pm-3pm_
-
-The Arc of the Ozarks  
-1721 West Elfindale  
-Springfield, MO 65807
-
-Learn about the benefits, updates, growth and upcoming changes of the MO ABLE savings and investment program for people with disabilities. MO ABLE allows individuals with disabilities and their families to save and invest tax-free without losing federal needs-based benefits like SSI and Medicaid.
-
-SPECIAL GUEST SPEAKER: Missouri State Treasurer - Scott Fitzpatrick
-
-Questions will be taken throughout the presentation.
-
-For more information, and to take an eligibility quiz, please visit www.moable.com.
-
-An RSVP is not required for this event. For additional information or questions, contact Karen Burnell-Ruff at KRuff@TheArcOfTheOzarks.org or (417) 771-3698.
-
-Event information originally posted here: https://www.facebook.com/events/184568512905766/
-
-### Temple Grandin: Educating All Kinds of Minds
-
-_Monday, February 24, 2020 from 7pm-9pm_
-
-THIS EVENT HAS REACHED CAPACITY, but you can view it on a livestream at https://extension2.missouri.edu/public-livestreams on Feb. 24 at 7 p.m.
-
-Learn from the nationally renowned expert on autism. At age two Temple Grandin had no speech and all the signs of severe autism. Following many hours of speech therapy, and intensive teaching enabled Temple to learn speech. As a teenager, life was hard with constant teasing. Mentoring by her high school science teacher and her aunt on her ranch in Arizona motivated Temple to study and pursue a career as a scientist and livestock equipment designer.
-
-Dr. Grandin is a past member of the board of directors of the Autism Society of America. She lectures to parents and teachers throughout the U.S. on her experiences with autism. Articles and interviews have appeared in the New York Times, People, Time, National Public Radio, 20/20, The View, and the BBC. She was also honored in Time Magazines 2010 “The 100 Most Influential People in the World.”
-
-She has a successful career consulting on both livestock handling equipment design and animal welfare. She was inducted into the American Academy of Arts and Sciences in 2016. Today half the cattle in the United States are handled in facilities she has designed. Today she is a professor of Animal Science at Colorado State University and an inspiration for many.
-
-MU Extension 4-H youth development faculty collaborated with partners to bring to you Temple Grandin, the expert on Autism. The goal of this program is to influence people, programs, policies and services that impact the lives of young people with autism and their families.
-
-Original event information found here: https://www.facebook.com/events/618053145626893/  
-Livestream link: https://extension2.missouri.edu/public-livestreams?fbclid=IwAR0WCcIgtjdS5q51bI3Z0ttFueLLzMg2nsmxsXVC8EbixeSDJk6G_02I0Yo
-
-### Missouri Lay Educational Advocacy Project-Foundational Training-SW MO
-
-_Wednesday, February 26, 2020 at 8:30 AM to Thursday, February 27, 2020 at 4:30 PM (CST)_
-
-The Arc of the Ozarks  
-1721 West Elfindale  
-Springfield, MO 65807
-
-**Be a game-changer!**  
-This workshop is designed for those who are interested in learning the basics of Special Education law, rights of those receiving services as well as the skills for partnering and advocating for students with disabilities and their families in educational settings.
-
-This foundational, 2-day training will provide an overview of:
-• Basic advocacy skills and how they apply to the
-educational setting
-• The foundational concepts of an IEP and 504
-• Transition Planning
-Accompany handouts, continental breakfast and lunch will be provided at no charge to attendees.
-
-For additional information or questions, please contact Crystal Bell at bellcd@umkc.edu or (816) 235-1761. Learn more by visiting the following event link: https://www.eventbrite.com/e/missouri-lay-educational-advocacy-project-foundational-training-sw-mo-registration-82042851377
-
-This is a free event but space is limited so please, register early.
+[March](#march-2020) | [April](#april-2019)
 
 ---
 
@@ -162,5 +47,26 @@ The Power Up AT (assistive technology) Conference and Expo is a conference hoste
 The conference will include over 35 vendors and will have multiple presenters over the course of the two-day conference. Scholarships are available to those who would like to attend the conference but require assistance with offsetting the cost.
 
 Visit the conference website in order to learn more about the conference or how to apply for a scholarship: https://at.mo.gov/power-up-conference/powerup-generalinfo.html
+
+---
+
+## April 2020
+
+### Miracle League - Spring 2020 Season
+
+_Starting mid-April through May 2020_
+
+Youth games: Monday nights 5:30pm, 6:30pm, and 7:30pm  
+Adult games: Wednesday and Thursday nights at 6:00pm and 7:00pm
+
+The Miracle League serves children and adults with disabilities. They use a "Buddy" system, pairing each player with a volunteer buddy who may assist in hitting, running, catching - or just cheering on! The result is a bond which simply cannot be described. The Miracle League is all about making new friends, building self-esteem, and the joy of playing ball. [Download their brochure for more information](https://view.publitas.com/p222-16142/miracle-league-rack-card/page/1).
+
+For more information contact Cyrus Taylor, Accessible Recreation Supervisor and Miracle League Commissioner with the Springfield Greene County Park Board at [ctaylor@springfieldmo.gov](mailto:ctaylor@springfieldmo.gov) or call [(417) 837-5905](tel:4178375905).
+
+To learn more about Miracle League through the Springfield Park Board, visit: http://www.parkboard.org/miracle
+
+To register for the Spring 2020 season, access their application here: http://parkboard.org/DocumentCenter/View/6709/MiracleLeagueRegistration-Fall-2019-PDF
+
+**Registration forms due by March 31, 2020**
 
 ---
