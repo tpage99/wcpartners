@@ -48,6 +48,25 @@ The conference will include over 35 vendors and will have multiple presenters ov
 
 Visit the conference website in order to learn more about the conference or how to apply for a scholarship: https://at.mo.gov/power-up-conference/powerup-generalinfo.html
 
+### Urban Air Sensory Friendly Night
+
+_Tuesday, March 31, 2020 from 4pm - 8pm_
+
+Urban Air Adventure Park is transformed into a calmer atmosphere for those with special needs and sensory processing difficulty, their siblings, and caregivers. No flashing lights, no music, and no whistles.
+
+This special session will be March 31st, from 4 pm to 8 pm. Special discounted price for kids. Parents and caregivers admitted free.
+
+$12 for Basic Access
+$16 for Deluxe Access
+Deluxe gives you access to all our trampolines (including Tumble Track, The Apex, DropZone, Dodgeball, ProZone, & Slam Dunk Zone) as well as our Tubes Playground, Battle Beam and Warrior Course.
+
+Guest MUST mention they are there for the sensory friendly night in order to receive promotion. Guest may also purchase a meal package of 2 slices of pizza and a beverage for \$3.00, but also MUST mention that at concession.
+
+You will also have the opportunity to pre-purchase if you would like!
+(More to come super soon!!!!)
+
+Learn more about this event here: https://www.facebook.com/events/201796080971723/
+
 ---
 
 ## April 2020
@@ -68,5 +87,23 @@ To learn more about Miracle League through the Springfield Park Board, visit: ht
 To register for the Spring 2020 season, access their application here: http://parkboard.org/DocumentCenter/View/6709/MiracleLeagueRegistration-Fall-2019-PDF
 
 **Registration forms due by March 31, 2020**
+
+### Service Animals and YOUR Business
+
+_Friday, April 24, 2020_
+
+empower: abilities, ARC of the Ozarks, Abilities First, OIP (Ozark Inclusion Partnership) and the City of Springfield bring you this important program to help educate businesses on their rights and how service animals and the ADA apply to them!
+
+Find out more about this event here: https://www.facebook.com/events/536695003859276/
+
+### Autism Info Blast
+
+_Saturday, April 25, 2020 from 10am - 3pm_
+
+Get ready to learn, be amazed and explore a growing network of local autism service providers and businesses at the Autism Info Blast!🚀
+
+This is a resource fair for families in the autism community to meet face-to-face with businesses, resources and supports. There will be over 40 local vendors that will be represented and so much more!
+
+Learn more about this event here: https://www.facebook.com/events/542101643331115/
 
 ---
