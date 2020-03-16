@@ -8,19 +8,7 @@ tags: ["preparing for disaster", "storm shelter", "reporting form"]
 
 ---
 
-[COVID-19](#covid-19) | [Preparing for Disaster](#preparing-for-disaster-for-people-with-disabilities-and-other-special-needs) | [Ready](#ready) | [Webster County Storm Shelter Reporting Form](#webster-county-storm-shelter-reporting-form)
-
----
-
-## COVID-19
-
-Learn more about the Coronovirus (COVID-19) outbreak. Use these resources in order to have factual information about COVID-19 and how to take necessary precautions.
-
-24-Hour Hotline: [877-435-8411](tel:8774358411)
-
-[Coronovirus Fact Sheet](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/pdf/novel-coronavirus-factsheet.pdf)
-
-Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/
+[Preparing for Disaster](#preparing-for-disaster-for-people-with-disabilities-and-other-special-needs) | [Ready](#ready) | [Webster County Storm Shelter Reporting Form](#webster-county-storm-shelter-reporting-form)
 
 ---
 
