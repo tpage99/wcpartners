@@ -13,7 +13,7 @@ The Center for Disease Control (CDC) is responding to an outbreak of respiratory
 
 Use the resources below for factual information and supports on how to handle this outbreak.
 
-[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes)
+[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes)
 
 ---
 
@@ -42,6 +42,14 @@ Learn more about the Coronovirus (COVID-19) outbreak. Use these resources in ord
 Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/
 
 COVID-19 Information by and for people with disabilities: https://selfadvocacyinfo.org/wp-content/uploads/2020/03/Plain-Language-Information-on-Coronavirus.pdf
+
+---
+
+## Educational Resources for All Students
+
+Missouri Disability Empowerment Foundation (MoDE Foundation) has put together a list of excellent online education resources for all students that can be used at this time, including simple social stories to tell students why school is out and routines are being disrupted.
+
+See this great list of online resources here: https://www.moempowerfoundation.com/educational-resources
 
 ---
 
