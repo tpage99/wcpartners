@@ -4,7 +4,18 @@ title: "COVID-19"
 description: "Information and resources regarding the coronavirus (COVID-19) epidemic."
 category: "resource"
 tags:
-  ["covid-19", "coronavirus", "resources", "epidemic", "pharmacy", "medication"]
+  [
+    "covid-19",
+    "coronavirus",
+    "resources",
+    "epidemic",
+    "pharmacy",
+    "medication",
+    "internet",
+    "education",
+    "stress",
+    "anxiety",
+  ]
 ---
 
 ---
@@ -13,7 +24,7 @@ The Center for Disease Control (CDC) is responding to an outbreak of respiratory
 
 Use the resources below for factual information and supports on how to handle this outbreak.
 
-[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes)
+[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes)
 
 ---
 
@@ -50,6 +61,16 @@ COVID-19 Information by and for people with disabilities: https://selfadvocacyin
 Missouri Disability Empowerment Foundation (MoDE Foundation) has put together a list of excellent online education resources for all students that can be used at this time, including simple social stories to tell students why school is out and routines are being disrupted.
 
 See this great list of online resources here: https://www.moempowerfoundation.com/educational-resources
+
+---
+
+## Low Cost Internet
+
+Low-cost internet, advertised at \$9.95 per month plus taxes, for those that qualify. As of March 2020 there is a promotion for the first two months free as well when signing up and there is no contract.
+
+Potential eligibility qualifiers include "public assistance programs such as the National School Lunch Program, Housing Assistance, Medicaid, SNAP, SSI, and others." They also give you the option to purchase a computer at a low-cost (\$150).
+
+Learn more here: https://internetessentials.com/
 
 ---
 

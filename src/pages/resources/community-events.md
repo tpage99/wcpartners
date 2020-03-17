@@ -95,7 +95,9 @@ Find out more about this event here: https://www.facebook.com/events/53669500385
 
 ### Autism Info Blast
 
-_Saturday, April 25, 2020 from 10am - 3pm_
+_Canceled due to COVID-19_
+
+This event was previously scheduled for Saturday, April 25, 2020 but has been canceled.
 
 Get ready to learn, be amazed and explore a growing network of local autism service providers and businesses at the Autism Info Blast!🚀
 
