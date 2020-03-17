@@ -73,10 +73,7 @@ Learn more about this event here: https://www.facebook.com/events/20179608097172
 
 ### Miracle League - Spring 2020 Season
 
-_Starting mid-April through May 2020_
-
-Youth games: Monday nights 5:30pm, 6:30pm, and 7:30pm  
-Adult games: Wednesday and Thursday nights at 6:00pm and 7:00pm
+_Canceled due to COVID-19_
 
 The Miracle League serves children and adults with disabilities. They use a "Buddy" system, pairing each player with a volunteer buddy who may assist in hitting, running, catching - or just cheering on! The result is a bond which simply cannot be described. The Miracle League is all about making new friends, building self-esteem, and the joy of playing ball. [Download their brochure for more information](https://view.publitas.com/p222-16142/miracle-league-rack-card/page/1).
 
