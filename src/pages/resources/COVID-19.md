@@ -15,6 +15,9 @@ tags:
     "education",
     "stress",
     "anxiety",
+    "virtual",
+    "doctor",
+    "visits",
   ]
 ---
 
@@ -24,7 +27,7 @@ The Center for Disease Control (CDC) is responding to an outbreak of respiratory
 
 Use the resources below for factual information and supports on how to handle this outbreak.
 
-[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes)
+[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Virtual Doctor Visits](#virtual-doctor-visits)
 
 ---
 
@@ -100,5 +103,17 @@ Effective starting March 13, 2020 in order to help individuals and families bett
 "...prescriptions filled for a 31-day supply may be refilled no sooner than 16 days, a 30-day supply no sooner than 15 days. This will allow participants to have over 15 days of medication on hand should they need to be quarantined or be practicing self-quarantine..."
 
 Official provider bulletin notice: https://dss.mo.gov/mhd/providers/pdf/bulletin42-30.pdf
+
+---
+
+## Virtual Doctor Visits
+
+CoxHealth will begin offering free Virtual Visits to people in southwest Missouri experiencing symptoms of COVID-19 on Monday, March 16.
+
+To be evaluated, individuals should simply use code COVID when beginning a Virtual Visit. This service is available to anyone experiencing symptoms of COVID-19, which include a fever, cough and respiratory distress. Patients at risk may also have traveled to areas with widespread disease. If a provider feels a patient should be tested, he or she will make a referral so that may be conducted.
+
+The availability of Virtual Visits by anyone, regardless of insurance or ability to pay, aligns with public health goals of keeping the disease from spreading throughout the community. This approach also prevents the spread of illness in medical facilities, and protects the local health care workforce so they can be ready to help those who need assistance.
+
+Learn more here: https://www.coxhealth.com/newsroom/coxhealth-offer-free-virtual-evaluations-covid-19/
 
 ---
