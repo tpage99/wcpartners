@@ -20,7 +20,7 @@ tags:
 
 ---
 
-[Challenged Athletes Foundation](#challenged-athletes-foundation) | [Chive Charities](#chive-charities) | [Community Foundation of the Ozarks](#community-foundation-of-the-ozarks) | [Free File](#free-file) | [Hearing Aid Distribution Program](#hearing-aid-distribution-program) | [Midwest Special Needs Trust](#midwest-special-needs-trust) | [Missouri Assistive Technology](#missouri-assistive-technology) | [NeedyMeds](#needymeds) | [STABLE Accounts](#stable-accounts) | [Tax Preparation Assistance](#tax-preparation-assistance)
+[Challenged Athletes Foundation](#challenged-athletes-foundation) | [Chive Charities](#chive-charities) | [Community Foundation of the Ozarks](#community-foundation-of-the-ozarks) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Free File](#free-file) | [Hearing Aid Distribution Program](#hearing-aid-distribution-program) | [Midwest Special Needs Trust](#midwest-special-needs-trust) | [Missouri Assistive Technology](#missouri-assistive-technology) | [NeedyMeds](#needymeds) | [STABLE Accounts](#stable-accounts) | [Tax Preparation Assistance](#tax-preparation-assistance)
 
 ---
 
@@ -53,6 +53,16 @@ Learn more at: https://chivecharities.org/recipient
 The Community Foundation of the Ozarks is a public foundation serving the central and southern Missouri. The CFO is dedicated to working with its donors, nonprofit partners and affiliated community foundations in meaningful and purposeful ways.
 
 See more information about available grants and scholarships here: https://cfozarks.org/cfo-grantmaking-programs/
+
+---
+
+## Community Response and Recovery Fund
+
+To support the rapidly escalating need, United Way Worldwide has created the COVID-19 Community Response and Recovery Fund. The Fund supports communities struggling in the wake of the new virus, by supporting local United Ways and 211, the go-to information resource in times of crisis. Every year, 211 specialists answer 12 million requests by phone, text, chat and email to connect people with disaster, food, housing, utility, health care resources and more. There is no other network in the country with a similar pulse on America’s needs. So far, some 20 statewide 211 operations have been activated, and 211 is working closely with health officials all over the country to provide accurate updates to the public.
+
+To get help, dial [211](tel:211). The 1-866-211-9966 number being circulated is only for Indianapolis residents and is not available to Missourians. Learn more about this program visit the [United Way Website](https://www.unitedway.org/recovery/covid19?utm_source=homepage&utm_medium=web&utm_campaign=covid19&utm_content=learnmore).
+
+_Please be aware that financial assistance related to COVID-19 is not available for individuals everywhere._
 
 ---
 

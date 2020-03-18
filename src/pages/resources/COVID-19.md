@@ -19,6 +19,9 @@ tags:
     "doctor",
     "visits",
     "virtual tours",
+    "funding",
+    "united way",
+    "community response and recovery fund",
   ]
 ---
 
@@ -28,7 +31,7 @@ The Center for Disease Control (CDC) is responding to an outbreak of respiratory
 
 Use the resources below for factual information and supports on how to handle this outbreak.
 
-[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
+[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
 
 ---
 
@@ -57,6 +60,16 @@ Learn more about the Coronovirus (COVID-19) outbreak. Use these resources in ord
 Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/
 
 COVID-19 Information by and for people with disabilities: https://selfadvocacyinfo.org/wp-content/uploads/2020/03/Plain-Language-Information-on-Coronavirus.pdf
+
+---
+
+## Community Response and Recovery Fund
+
+To support the rapidly escalating need, United Way Worldwide has created the COVID-19 Community Response and Recovery Fund. The Fund supports communities struggling in the wake of the new virus, by supporting local United Ways and 211, the go-to information resource in times of crisis. Every year, 211 specialists answer 12 million requests by phone, text, chat and email to connect people with disaster, food, housing, utility, health care resources and more. There is no other network in the country with a similar pulse on America’s needs. So far, some 20 statewide 211 operations have been activated, and 211 is working closely with health officials all over the country to provide accurate updates to the public.
+
+To get help, dial [211](tel:211). The 1-866-211-9966 number being circulated is only for Indianapolis residents and is not available to Missourians. Learn more about this program visit the [United Way Website](https://www.unitedway.org/recovery/covid19?utm_source=homepage&utm_medium=web&utm_campaign=covid19&utm_content=learnmore).
+
+_Please be aware that financial assistance related to COVID-19 is not available for individuals everywhere._
 
 ---
 
@@ -158,7 +171,10 @@ Google Arts and Culture partnered with over 2,500 museums and galleries around t
 
 ### Other Articles and Resources
 
-In addition to the links listed above, here are additional links and resources to review:
+In addition to the links listed above, here are additional blog articles for ideas and resources to review:
 
 - [20 Virtual Field Trips to Take with Your Kids](https://adventuresinfamilyhood.com/20-virtual-field-trips-to-take-with-your-kids.html)
 - [Here's 33 National Park Tours You Can Take Virtually From the Comfort of Your Home](https://totallythebomb.com/heres-33-national-park-tours-you-can-take-virtually-from-the-comfort-of-your-home)
+- [101 Fun Things to Do in COVID-19 Isolation](https://www.123homeschool4me.com/101-fun-things-to-do-in-covid-19-isolation/)
+
+---
