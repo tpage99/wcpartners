@@ -18,6 +18,7 @@ tags:
     "virtual",
     "doctor",
     "visits",
+    "virtual tours",
   ]
 ---
 
@@ -27,7 +28,7 @@ The Center for Disease Control (CDC) is responding to an outbreak of respiratory
 
 Use the resources below for factual information and supports on how to handle this outbreak.
 
-[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Virtual Doctor Visits](#virtual-doctor-visits)
+[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
 
 ---
 
@@ -117,3 +118,47 @@ The availability of Virtual Visits by anyone, regardless of insurance or ability
 Learn more here: https://www.coxhealth.com/newsroom/coxhealth-offer-free-virtual-evaluations-covid-19/
 
 ---
+
+## Virtual Tours
+
+For individuals and families that are having to practice social distancing or even self-quarantine practices, there are various organizations that can provide virtual tours of museums, parks, even to space as an activity. Review available virtual tours and take a field trip from home!
+
+### Arts and Culture
+
+Google Arts and Culture partnered with over 2,500 museums and galleries around the world to offer virtual tours of their spaces. Some of the options include New York’s Museum of Modern Art and Amsterdam’s Van Gogh Museum. The Louvre, based in Paris, is also offering its own virtual tour online for free. [View Arts and Culture Collection](https://artsandculture.google.com/partner?hl=en)
+
+### Farm
+
+[American Dairy Association - Virtual Farm Tour](https://www.youtube.com/watch?v=y-FQsNH0fXI)  
+[American Dairy Association - Virtual Farm Tour - 4th-6th Grade](https://www.youtube.com/watch?v=ZZ6CwxMzrQs)  
+[American Dairy Association - Virtual Farm Tour - High School](https://www.youtube.com/watch?v=tU3zmLNZxHI)
+
+### International Travel
+
+[Great Wall of China](https://www.thechinaguide.com/destination/great-wall-of-china)
+
+### National Parks
+
+[Yellowstone Virtual Tours](https://www.nps.gov/yell/learn/photosmultimedia/virtualtours.htm)  
+[Yosemite Virtual Tours](https://www.virtualyosemite.org/)
+
+### Space Travel
+
+[The Surface of Mars as recorded by NASA's Curiosity Rover](https://accessmars.withgoogle.com/#)
+
+### Trains
+
+[Live Train Feed - Railway YouTube Channel](https://www.youtube.com/channel/UCP8wWzfUcral_E6iNMdIdKg)
+
+### Zoos
+
+[San Diego Zoo](https://zoo.sandiegozoo.org/live-cams)  
+[Georgia Aquarium](https://www.georgiaaquarium.org/webcam/beluga-whale-webcam/)  
+[Monterey Bay Aquarium](https://www.montereybayaquarium.org/animals/live-cams)
+
+### Other Articles and Resources
+
+In addition to the links listed above, here are additional links and resources to review:
+
+- [20 Virtual Field Trips to Take with Your Kids](https://adventuresinfamilyhood.com/20-virtual-field-trips-to-take-with-your-kids.html)
+- [Here's 33 National Park Tours You Can Take Virtually From the Comfort of Your Home](https://totallythebomb.com/heres-33-national-park-tours-you-can-take-virtually-from-the-comfort-of-your-home)
