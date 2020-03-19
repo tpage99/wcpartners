@@ -22,6 +22,9 @@ tags:
     "funding",
     "united way",
     "community response and recovery fund",
+    "unemployment",
+    "low vision",
+    "curriculum",
   ]
 ---
 
@@ -31,7 +34,7 @@ The Center for Disease Control (CDC) is responding to an outbreak of respiratory
 
 Use the resources below for factual information and supports on how to handle this outbreak.
 
-[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
+[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Paths to Literacy](#paths-to-literacy) | [Unemployment Benefits and Information](#unemployment-benefits-and-information) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
 
 ---
 
@@ -110,6 +113,14 @@ Developmental Disabilities (DD) Division: https://dmh.mo.gov/dev-disabilities/in
 
 ---
 
+## Paths to Literacy
+
+Paths to Literacy is offering support to students with visual impairments and their families because there are students with visual impairments who do not have full access to online curriculum, supplemental activities, or resources during the COVID-19 pandemic. The idea of this project is to connect students and their families to volunteers who want to provide support during this unprecedented time of need.
+
+Learn more about how you can help or access this program here: https://www.pathstoliteracy.org/blog/working-together-support-students-visual-impairments-access-curriculum
+
+---
+
 ## Pharmacy Early Refill Changes
 
 Effective starting March 13, 2020 in order to help individuals and families better prepare with medications during this time, the early refill policy for medications has changed.
@@ -117,6 +128,14 @@ Effective starting March 13, 2020 in order to help individuals and families bett
 "...prescriptions filled for a 31-day supply may be refilled no sooner than 16 days, a 30-day supply no sooner than 15 days. This will allow participants to have over 15 days of medication on hand should they need to be quarantined or be practicing self-quarantine..."
 
 Official provider bulletin notice: https://dss.mo.gov/mhd/providers/pdf/bulletin42-30.pdf
+
+---
+
+## Unemployment Benefits and Information
+
+Information for employers and businesses impacted by COVID-19 from the Missouri Department of Labor.
+
+Learn more here: https://labor.mo.gov/coronavirus
 
 ---
 
