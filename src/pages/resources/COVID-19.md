@@ -56,7 +56,8 @@ Katrina Detherow, WC Partners Executive Director
 
 Learn more about the Coronovirus (COVID-19) outbreak. Use these resources in order to have factual information about COVID-19 and how to take necessary precautions.
 
-24-Hour Hotline: [877-435-8411](tel:8774358411)
+24-Hour Hotline: [877-435-8411](tel:8774358411)  
+COVID-19 Chat Bot: https://info.mo.gov/covid/
 
 [Coronovirus Fact Sheet](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/pdf/novel-coronavirus-factsheet.pdf)
 
