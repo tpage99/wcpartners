@@ -34,7 +34,7 @@ The Center for Disease Control (CDC) is responding to an outbreak of respiratory
 
 Use the resources below for factual information and supports on how to handle this outbreak.
 
-[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Paths to Literacy](#paths-to-literacy) | [Unemployment Benefits and Information](#unemployment-benefits-and-information) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
+[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Benefits and Resources](#benefits-and-resources) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Paths to Literacy](#paths-to-literacy) | [Speech Therapy](#speech-therapy) | [Unemployment Benefits and Information](#unemployment-benefits-and-information) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
 
 ---
 
@@ -65,6 +65,15 @@ Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/nov
 DMH Developmental Disabilities Division Resource Page: https://dmh.mo.gov/dev-disabilities/covid-19-information
 
 **COVID-19 Information by and for people with disabilities:** https://selfadvocacyinfo.org/wp-content/uploads/2020/03/Plain-Language-Information-on-Coronavirus.pdf
+
+---
+
+## Benefits and Resources
+
+For updates and information regarding Medicaid (MO HealthNet) and other Department of Social Services (DSS) programs in response to COVID-19, please visit this link: https://dss.mo.gov/covid-19/
+
+**Important Updates**  
+Consistent with the federal Families First Coronavirus Response Act, effective immediately, the Department of Social Services will not terminate eligibility for any Medicaid participant unless the individual requests a voluntary termination of eligibility or the individual ceases to be a resident of the state through the end the federal emergency COVID-19 declaration. Public notice and order: https://dss.mo.gov/covid-19/pdf/13CSR65-2.020PublicNoticeandOrder.pdf
 
 ---
 
@@ -130,6 +139,14 @@ Effective starting March 13, 2020 in order to help individuals and families bett
 "...prescriptions filled for a 31-day supply may be refilled no sooner than 16 days, a 30-day supply no sooner than 15 days. This will allow participants to have over 15 days of medication on hand should they need to be quarantined or be practicing self-quarantine..."
 
 Official provider bulletin notice: https://dss.mo.gov/mhd/providers/pdf/bulletin42-30.pdf
+
+---
+
+## Speech Therapy
+
+Telehealth is an available option at this time, with some private insurance carriers also allowing this that previously did not in response to COVID-19. Contact your Support Coordinator for local resources, but see below for some online resources for speech therapy at home options.
+
+[6 Free Online Speech Therapy Resources for Kids](https://www.speechbuddy.com/blog/games-and-activities/6-free-online-speech-therapy-resources/)
 
 ---
 
