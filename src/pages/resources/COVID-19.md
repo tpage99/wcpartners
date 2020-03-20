@@ -66,6 +66,8 @@ DMH Developmental Disabilities Division Resource Page: https://dmh.mo.gov/dev-di
 
 **COVID-19 Information by and for people with disabilities:** https://selfadvocacyinfo.org/wp-content/uploads/2020/03/Plain-Language-Information-on-Coronavirus.pdf
 
+**Supporting Individuals with Autism Through Uncertain Times:** https://afirm.fpg.unc.edu/supporting-individuals-autism-through-uncertain-times
+
 ---
 
 ## Benefits and Resources
