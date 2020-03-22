@@ -25,6 +25,9 @@ tags:
     "unemployment",
     "low vision",
     "curriculum",
+    "reading",
+    "health",
+    "fitness",
   ]
 ---
 
@@ -34,7 +37,7 @@ The Center for Disease Control (CDC) is responding to an outbreak of respiratory
 
 Use the resources below for factual information and supports on how to handle this outbreak.
 
-[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Benefits and Resources](#benefits-and-resources) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Paths to Literacy](#paths-to-literacy) | [Speech Therapy](#speech-therapy) | [Unemployment Benefits and Information](#unemployment-benefits-and-information) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
+[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Benefits and Resources](#benefits-and-resources) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Health and Fitness](#health-and-fitness) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Paths to Literacy](#paths-to-literacy) | [Speech Therapy](#speech-therapy) | [Stories and Activities](#stories-and-activities) | [Unemployment Benefits and Information](#unemployment-benefits-and-information) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
 
 ---
 
@@ -98,6 +101,12 @@ See this great list of online resources here: https://www.moempowerfoundation.co
 
 ---
 
+## Health and Fitness
+
+The YMCA offers over 50 on-demand videos online for exercises and activities that can be done from home: Learn more at: https://ymca360.org/on-demand#/
+
+---
+
 ## Low Cost Internet
 
 Low-cost internet, advertised at \$9.95 per month plus taxes, for those that qualify. As of March 2020 there is a promotion for the first two months free as well when signing up and there is no contract.
@@ -114,7 +123,9 @@ The outbreak of coronavirus disease 2019 (COVID-19) may be stressful for people.
 
 Everyone reacts differently to stressful situations. How you respond to the outbreak can depend on your background, the things that make you different from other people, and the community you live in.
 
-[Read more about guidelines on how to handle anxiety and stress](https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Fcoping.html)
+[Read more about guidelines from the CDC on how to handle anxiety and stress](https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Fcoping.html)
+
+[Helpful Expert Tips and Resources from the Anxiety and Depression Association of America](https://adaa.org/finding-help/coronavirus-anxiety-helpful-resources)
 
 ---
 
@@ -150,6 +161,32 @@ Official provider bulletin notice: https://dss.mo.gov/mhd/providers/pdf/bulletin
 Telehealth is an available option at this time, with some private insurance carriers also allowing this that previously did not in response to COVID-19. Contact your Support Coordinator for local resources, but see below for some online resources for speech therapy at home options.
 
 [6 Free Online Speech Therapy Resources for Kids](https://www.speechbuddy.com/blog/games-and-activities/6-free-online-speech-therapy-resources/)
+
+[Twenty 5-Minute Speech Therapy Activities You Can Do at Home](https://www.home-speech-home.com/twenty-5-minute-speech-therapy-activities-you-can-do-at-home.html)
+
+---
+
+## Stories and Activities
+
+### Audible
+
+For as long as schools are closed, we're open. Starting today, kids everywhere can instantly stream an incredible collection of stories, including titles across six different languages, that will help them continue dreaming, learning, and just being kids. All stories are free to stream on your desktop, laptop, phone or tablet. Explore the collection, select a title and start listening. It's that easy. Learn more here: https://stories.audible.com/start-listen
+
+### Scholastic Learn at Home
+
+Day-by-day projects to keep kids reading, thinking, and growing. Learn more at: https://classroommagazines.scholastic.com/support/learnathome.html
+
+### Storyline Online
+
+Reading aloud to children has been shown to improve reading, writing and communication skills, logical thinking and concentration, and general academic aptitude, as well as inspire a lifelong love of reading. Teachers use Storyline Online in their classrooms, and doctors and nurses play Storyline Online in children’s hospitals.
+
+Storyline Online is available 24 hours a day for children, parents, caregivers and educators worldwide. Each book includes supplemental curriculum developed by a credentialed elementary educator, aiming to strengthen comprehension and verbal and written skills for English-language learners. Learn more at: https://www.storylineonline.net/
+
+### Other Resources
+
+Other blog posts, articles, and activities that may be helpful.
+
+[Here's the Entire List of Education Companies Offering Free Subscriptions Due to School Closings](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)
 
 ---
 
@@ -217,5 +254,7 @@ In addition to the links listed above, here are additional blog articles for ide
 - [20 Virtual Field Trips to Take with Your Kids](https://adventuresinfamilyhood.com/20-virtual-field-trips-to-take-with-your-kids.html)
 - [Here's 33 National Park Tours You Can Take Virtually From the Comfort of Your Home](https://totallythebomb.com/heres-33-national-park-tours-you-can-take-virtually-from-the-comfort-of-your-home)
 - [101 Fun Things to Do in COVID-19 Isolation](https://www.123homeschool4me.com/101-fun-things-to-do-in-covid-19-isolation/)
+- [Virtual Activities list from Missouri State University's Student Activities Council](https://organizations.missouristate.edu/sac/virtualactivities.htm)
+- [NPR Article on List of Free Things that Weren't Free Before Coronavirus](https://www.npr.org/2020/03/20/818670715/getting-bored-heres-a-list-of-free-things-that-werent-free-before-coronavirus)
 
 ---
