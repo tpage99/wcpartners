@@ -168,6 +168,10 @@ Telehealth is an available option at this time, with some private insurance carr
 
 ## Stories and Activities
 
+### The Arc of the Ozarks - Arc at Home
+
+The Arc of the Ozarks' Ed/Rec department has been working hard on creating "Arc at Home", a resource and library of activities for individuals to do while at home. Activities and resources updated weekly! Check out their website for resources: http://www.thearcoftheozarks.org/arc-at-home
+
 ### Audible
 
 For as long as schools are closed, Audible Stories will be available. Starting today, kids everywhere can instantly stream an incredible collection of stories, including titles across six different languages, that will help them continue dreaming, learning, and just being kids. All stories are free to stream on your desktop, laptop, phone or tablet. Explore the collection, select a title and start listening. It's that easy. Learn more here: https://stories.audible.com/start-listen
