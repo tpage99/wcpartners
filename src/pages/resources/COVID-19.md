@@ -111,11 +111,13 @@ The YMCA offers over 50 on-demand videos online for exercises and activities tha
 
 ## Low Cost Internet
 
-Low-cost internet, advertised at \$9.95 per month plus taxes, for those that qualify. As of March 2020 there is a promotion for the first two months free as well when signing up and there is no contract.
+Low-cost internet, advertised at \$9.95 per month plus taxes, for those that qualify. As of March 2020 there is a promotion for the first two months free (Comcast provider) as well when signing up and there is no contract.
 
 Potential eligibility qualifiers include "public assistance programs such as the National School Lunch Program, Housing Assistance, Medicaid, SNAP, SSI, and others." They also give you the option to purchase a computer at a low-cost (\$150).
 
 Learn more here: https://internetessentials.com/
+
+Mediacom also has a low cost internet program called Connect 2 Compete. Learn more here: https://mediacomc2c.com/
 
 ---
 
@@ -177,7 +179,7 @@ The Arc of the Ozarks' Ed/Rec department has been working hard on creating "Arc 
 ### Amazon Prime Video
 
 Amazon is opening up free streaming access to more than 40 children’s shows — including its original series — to all customers worldwide. To access the free kids’ titles, users must sign in with a valid Amazon account, which is free. The shows are available to the company’s customers worldwide, with availability of titles varying depending on location. Amazon set up a landing page for the free children’s programming at this link: https://www.amazon.com/gp/video/storefront/  
-[Original article source](https://www.msn.com/en-us/tv/news/amazon-unlocks-batch-of-kids-shows-free-to-stream-for-all-customers/ar-BB11Ajqz?ocid=spartandhp)
+[[Original article source]](https://www.msn.com/en-us/tv/news/amazon-unlocks-batch-of-kids-shows-free-to-stream-for-all-customers/ar-BB11Ajqz?ocid=spartandhp)
 
 ### Audible
 
@@ -185,13 +187,13 @@ For as long as schools are closed, Audible Stories will be available. Starting t
 
 ### Disney - Imagineering in a Box
 
-Stuck at Home? Kids Can Become Mini Imagineers with Disney’s “Imagineering in a Box." The Imagineering in a Box videos cover everything from an overview of engineering software to interactive, hands-on projects that can be done without leaving the house. The program was specifically developed to help kids relate the Disney stories they already love to the skills they’re introduced to in each module. Learn more about the program here: https://insidethemagic.net/2020/03/imagineering-for-kids-rwb1/ or go directly to the video content available via Khan Academy here: https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box
-[Original article source](https://www.fox13news.com/news/disney-kennedy-space-center-offering-free-online-activities-for-kids-during-school-closures)
+Stuck at Home? Kids Can Become Mini Imagineers with Disney’s “Imagineering in a Box." The Imagineering in a Box videos cover everything from an overview of engineering software to interactive, hands-on projects that can be done without leaving the house. The program was specifically developed to help kids relate the Disney stories they already love to the skills they’re introduced to in each module. Learn more about the program here: https://insidethemagic.net/2020/03/imagineering-for-kids-rwb1/ or go directly to the video content available via Khan Academy here: https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box  
+[[Original article source]](https://www.fox13news.com/news/disney-kennedy-space-center-offering-free-online-activities-for-kids-during-school-closures)
 
 ### Kennedy Space Center
 
 Kennedy Space Center has launched science lessons on Facebook Live. Parents also have online access to activity sheets and experiments, making spare time educational but fun. The sessions will take place Monday, Wednesday and Friday at 9:30 a.m. ET for young kids. For older children, including those in high school, there will be programming starting at 1 p.m. Learn more by visiting the Kennedy Space Center Facebook page: https://www.facebook.com/KennedySpaceCenterVisitorComplex/  
-[Original article source](https://www.fox13news.com/news/disney-kennedy-space-center-offering-free-online-activities-for-kids-during-school-closures)
+[[Original article source]](https://www.fox13news.com/news/disney-kennedy-space-center-offering-free-online-activities-for-kids-during-school-closures)
 
 ### PBS
 
