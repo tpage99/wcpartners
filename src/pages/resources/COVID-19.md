@@ -99,6 +99,8 @@ Missouri Disability Empowerment Foundation (MoDE Foundation) has put together a 
 
 See this great list of online resources here: https://www.moempowerfoundation.com/educational-resources
 
+Additionally, we have a list of other [online learning resources](/resources/online-learning).
+
 ---
 
 ## Health and Fitness
@@ -172,9 +174,30 @@ Telehealth is an available option at this time, with some private insurance carr
 
 The Arc of the Ozarks' Ed/Rec department has been working hard on creating "Arc at Home", a resource and library of activities for individuals to do while at home. Activities and resources updated weekly! Check out their website for resources: http://www.thearcoftheozarks.org/arc-at-home
 
+### Amazon Prime Video
+
+Amazon is opening up free streaming access to more than 40 children’s shows — including its original series — to all customers worldwide. To access the free kids’ titles, users must sign in with a valid Amazon account, which is free. The shows are available to the company’s customers worldwide, with availability of titles varying depending on location. Amazon set up a landing page for the free children’s programming at this link: https://www.amazon.com/gp/video/storefront/  
+[Original article source](https://www.msn.com/en-us/tv/news/amazon-unlocks-batch-of-kids-shows-free-to-stream-for-all-customers/ar-BB11Ajqz?ocid=spartandhp)
+
 ### Audible
 
 For as long as schools are closed, Audible Stories will be available. Starting today, kids everywhere can instantly stream an incredible collection of stories, including titles across six different languages, that will help them continue dreaming, learning, and just being kids. All stories are free to stream on your desktop, laptop, phone or tablet. Explore the collection, select a title and start listening. It's that easy. Learn more here: https://stories.audible.com/start-listen
+
+### Disney - Imagineering in a Box
+
+Stuck at Home? Kids Can Become Mini Imagineers with Disney’s “Imagineering in a Box." The Imagineering in a Box videos cover everything from an overview of engineering software to interactive, hands-on projects that can be done without leaving the house. The program was specifically developed to help kids relate the Disney stories they already love to the skills they’re introduced to in each module. Learn more about the program here: https://insidethemagic.net/2020/03/imagineering-for-kids-rwb1/ or go directly to the video content available via Khan Academy here: https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box
+[Original article source](https://www.fox13news.com/news/disney-kennedy-space-center-offering-free-online-activities-for-kids-during-school-closures)
+
+### Kennedy Space Center
+
+Kennedy Space Center has launched science lessons on Facebook Live. Parents also have online access to activity sheets and experiments, making spare time educational but fun. The sessions will take place Monday, Wednesday and Friday at 9:30 a.m. ET for young kids. For older children, including those in high school, there will be programming starting at 1 p.m. Learn more by visiting the Kennedy Space Center Facebook page: https://www.facebook.com/KennedySpaceCenterVisitorComplex/  
+[Original article source](https://www.fox13news.com/news/disney-kennedy-space-center-offering-free-online-activities-for-kids-during-school-closures)
+
+### PBS
+
+PBS Kids offers a variety of games, activities, apps, and videos for children and adults who enjoy their programming. Learn more here: https://pbskids.org/
+
+Parents can also sign up for PBS Kids Daily, a weekday newsletter offering activities and tips you can use to help kids play and learn at home. Learn more here: https://www.pbs.org/parents/pbskidsdaily
 
 ### Scholastic Learn at Home
 
