@@ -195,6 +195,10 @@ Stuck at Home? Kids Can Become Mini Imagineers with Disney’s “Imagineering i
 Kennedy Space Center has launched science lessons on Facebook Live. Parents also have online access to activity sheets and experiments, making spare time educational but fun. The sessions will take place Monday, Wednesday and Friday at 9:30 a.m. ET for young kids. For older children, including those in high school, there will be programming starting at 1 p.m. Learn more by visiting the Kennedy Space Center Facebook page: https://www.facebook.com/KennedySpaceCenterVisitorComplex/  
 [[Original article source]](https://www.fox13news.com/news/disney-kennedy-space-center-offering-free-online-activities-for-kids-during-school-closures)
 
+### Learn@Home
+
+As schools around the world close their buildings and families find themselves at home, YouTube wants to ensure that learning together continues. So partnered with Khan Academy and other learning creators to bring parents and families resources and activities to make the coming days as educational and fun as possible. Of course, these resources won’t replace any homework assigned by teachers — but they can complement that work. Learn more at: https://learnathome.withyoutube.com/
+
 ### PBS
 
 PBS Kids offers a variety of games, activities, apps, and videos for children and adults who enjoy their programming. Learn more here: https://pbskids.org/
