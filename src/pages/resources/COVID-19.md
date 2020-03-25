@@ -69,11 +69,23 @@ COVID-19 Chat Bot: https://info.mo.gov/covid/
 
 Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/
 
+### Developmental Disability Resources for COVID-19
+
 DMH Developmental Disabilities Division Resource Page: https://dmh.mo.gov/dev-disabilities/covid-19-information
 
 **COVID-19 Information by and for people with disabilities:** https://selfadvocacyinfo.org/wp-content/uploads/2020/03/Plain-Language-Information-on-Coronavirus.pdf
 
 **Supporting Individuals with Autism Through Uncertain Times:** https://afirm.fpg.unc.edu/supporting-individuals-autism-through-uncertain-times
+
+### Children and COVID-19
+
+- [Talking to Kids About the Coronavirus from the Child Mind Institute](https://childmind.org/article/talking-to-kids-about-the-coronavirus/) - Article
+- [Children's Message on COVID-19 from State of Missouri](https://youtu.be/Ogu0vjv-E44) - Video
+- [Resources for families and COVID-19 from Missouri DHSS](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/families.php) - Web Page
+
+### FEMA COVID-19 Rumor Control
+
+FEMA has put together a resource page to help the public distinguish between rumors and facts regarding the response to coronavirus (COVID-19) pandemic. Rumors can easily circulate within communities during a crisis. Do your part to the stop the spread of disinformation by doing 3 easy things; don’t believe the rumors, don’t pass them along and go to trusted sources of information to get the facts about the federal (COVID-19) response. Learn more here: https://www.fema.gov/coronavirus-rumor-control
 
 ---
 
