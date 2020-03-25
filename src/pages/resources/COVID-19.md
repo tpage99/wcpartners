@@ -251,34 +251,14 @@ Learn more here: https://labor.mo.gov/coronavirus
 
 Tools that help people stay connected by video, including friends, family, and staff, can help others with not feeling so socially isolated or provide opportunities to continue working on social skills while social distancing. Here are some tools and resources for video chat and conferencing.
 
-### Duo
-
-https://duo.google.com/about/
-
-### Facebook Messenger
-
-https://www.messenger.com/
-
-### Instagram
-
-https://www.instagram.com/
-
-### Microsoft Teams
-
-https://products.office.com/en-us/microsoft-teams/group-chat-software
-
-### Skype
-
-https://www.skype.com/en/
-
-### Whatsapp
-
-https://www.whatsapp.com/
-
-### Zoom
-
-https://zoom.us/  
-[How to set up Zoom for parents and students](https://youtu.be/d7xXZxRDFUU)
+- Duo: https://duo.google.com/about/
+- Facebook Messenger: https://www.messenger.com/
+- Instagram: https://www.instagram.com/
+- Microsoft Teams: https://products.office.com/en-us/microsoft-teams/group-chat-software
+- Skype: https://www.skype.com/en/
+- Whatsapp: https://www.whatsapp.com/
+- Zoom: https://zoom.us/
+- [How to set up Zoom for parents and students](https://youtu.be/d7xXZxRDFUU)
 
 ## Virtual Doctor Visits
 
