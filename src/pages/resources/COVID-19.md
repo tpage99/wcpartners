@@ -257,8 +257,9 @@ Tools that help people stay connected by video, including friends, family, and s
 - Microsoft Teams: https://products.office.com/en-us/microsoft-teams/group-chat-software
 - Skype: https://www.skype.com/en/
 - Whatsapp: https://www.whatsapp.com/
-- Zoom: https://zoom.us/
-- [How to set up Zoom for parents and students](https://youtu.be/d7xXZxRDFUU)
+- Zoom: https://zoom.us/ [[How to set up Zoom for parents and students]](https://youtu.be/d7xXZxRDFUU)
+
+---
 
 ## Virtual Doctor Visits
 
