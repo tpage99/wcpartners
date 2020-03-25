@@ -28,6 +28,9 @@ tags:
     "reading",
     "health",
     "fitness",
+    "video chat",
+    "video conferencing",
+    "video",
   ]
 ---
 
@@ -37,7 +40,7 @@ The Center for Disease Control (CDC) is responding to an outbreak of respiratory
 
 Use the resources below for factual information and supports on how to handle this outbreak.
 
-[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Benefits and Resources](#benefits-and-resources) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Health and Fitness](#health-and-fitness) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Paths to Literacy](#paths-to-literacy) | [Speech Therapy](#speech-therapy) | [Stories and Activities](#stories-and-activities) | [Unemployment Benefits and Information](#unemployment-benefits-and-information) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
+[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Benefits and Resources](#benefits-and-resources) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Health and Fitness](#health-and-fitness) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Paths to Literacy](#paths-to-literacy) | [Speech Therapy](#speech-therapy) | [Stories and Activities](#stories-and-activities) | [Unemployment Benefits and Information](#unemployment-benefits-and-information) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Video Chat and Conferencing](#video-chat-and-conferencing) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
 
 ---
 
@@ -219,7 +222,8 @@ Storyline Online is available 24 hours a day for children, parents, caregivers a
 
 Other blog posts, articles, and activities that may be helpful.
 
-[Here's the Entire List of Education Companies Offering Free Subscriptions Due to School Closings](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)
+- [Here's the Entire List of Education Companies Offering Free Subscriptions Due to School Closings](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)
+- [MAINTAINING LEARNING: Free educational resources for kids stuck at home during COVID-19](https://abc7news.com/6011211/)
 
 ---
 
@@ -230,6 +234,39 @@ Information for employers and businesses impacted by COVID-19 from the Missouri 
 Learn more here: https://labor.mo.gov/coronavirus
 
 ---
+
+## Video Chat and Conferencing
+
+Tools that help people stay connected by video, including friends, family, and staff, can help others with not feeling so socially isolated or provide opportunities to continue working on social skills while social distancing. Here are some tools and resources for video chat and conferencing.
+
+### Duo
+
+https://duo.google.com/about/
+
+### Facebook Messenger
+
+https://www.messenger.com/
+
+### Instagram
+
+https://www.instagram.com/
+
+### Microsoft Teams
+
+https://products.office.com/en-us/microsoft-teams/group-chat-software
+
+### Skype
+
+https://www.skype.com/en/
+
+### Whatsapp
+
+https://www.whatsapp.com/
+
+### Zoom
+
+https://zoom.us/  
+[How to set up Zoom for parents and students](https://youtu.be/d7xXZxRDFUU)
 
 ## Virtual Doctor Visits
 
