@@ -8,22 +8,12 @@ tags: exempt
 
 ---
 
-## Music Therapy
+## Live Events on Hold Due to COVID-19
 
-_Thursdays starting March 5th, 2020 at 4:15pm and 5:15pm_
+At this time, our in-person events have been put on hold while following social distancing and best-practice orders from state and federal officials. Please know that we are working to get more information on how we can host virtual events or work with providers to link individuals and families to telehealth services.
 
-Music therapy is a progressive technique to use more than words for communication and interaction with others. Through the use of music, individuals are able to communicate with those around them in a new way. Classes are offered through Drury University at WC Partners' office. [Learn more about Music Therapy.](/events/music-therapy)
+Please [contact your Support Coordinator](/sc-contact) or [the office](/contact) with further questions.
 
-[Sign-up for Music Therapy starting Thursday, March 5, 2020](https://forms.office.com/Pages/ResponsePage.aspx?id=cq9efqWKMkaKW3CNotmIfBBiwM7TbDlDkZ4MVch3Jz1URVRIQTNITlVZNTVMRjhPOVRQNzc5RzRSSC4u)
-
----
-
-## Project STIR
-
-_Wednesdays starting April 1st, 2020 at 3:30pm_
-
-Project STIR is an eight-week program that promotes self-advocacy and rights for individuals with developmental disabilities. The final class is a graduation for those that have completed the program where they will be presented with a certificate. [Learn more about Project STIR.](/events/project-stir)
-
-[Sign-up for Project STIR starting Wednesday, April 1, 2020](https://forms.office.com/Pages/ResponsePage.aspx?id=cq9efqWKMkaKW3CNotmIfBBiwM7TbDlDkZ4MVch3Jz1URFFLVUdOMk8yRTFEUU04Q0EzS1ZEQzI2Ri4u)
+For information and resources on COVID-19, please visit our dedicated [resources page](/resources/covid-19).
 
 ---

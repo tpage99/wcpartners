@@ -31,6 +31,10 @@ tags:
     "video chat",
     "video conferencing",
     "video",
+    "library",
+    "books",
+    "ebooks",
+    "audio books",
   ]
 ---
 
@@ -119,6 +123,15 @@ Additionally, we have a list of other [online learning resources](/resources/onl
 ---
 
 ## Health and Fitness
+
+### Special Olympics
+
+- [School of Strength - featuring WWE Superstar Becky Lynch](https://www.specialolympics.org/school-of-strength)
+- [Healthy-at-Home Programs](https://somo.org/healthyathome)
+- [Lead-at-Home Programs](https://somo.org/LeadAtHome)
+- [Calendar of all scheduled virtual lessons](https://teamup.com/ksoid51suvr9hmufmh)
+
+### YMCA
 
 The YMCA offers over 50 on-demand videos online for exercises and activities that can be done from home: Learn more at: https://ymca360.org/on-demand#/
 
@@ -229,6 +242,12 @@ Day-by-day projects to keep kids reading, thinking, and growing. Learn more at: 
 Reading aloud to children has been shown to improve reading, writing and communication skills, logical thinking and concentration, and general academic aptitude, as well as inspire a lifelong love of reading. Teachers use Storyline Online in their classrooms, and doctors and nurses play Storyline Online in children’s hospitals.
 
 Storyline Online is available 24 hours a day for children, parents, caregivers and educators worldwide. Each book includes supplemental curriculum developed by a credentialed elementary educator, aiming to strengthen comprehension and verbal and written skills for English-language learners. Learn more at: https://www.storylineonline.net/
+
+### Webster County Library
+
+With your Webster County Library card you have access to thousands of eBooks and eAudiobooks. If you do not have a library card, MoLib2Go has now opened up access to their selections with just your mobile number. Learn more here: http://webstercounty.lib.mo.us/download-items/
+
+For more information about MoLib2Go, visit: https://molib2go.overdrive.com/
 
 ### Other Resources
 
