@@ -12,7 +12,7 @@ The mission of WC Partners is to _advocate, enhance services, and positively imp
 
 ### Events
 
-Events on events page are in json located in the _events_ folder ( src > pages > events) - go figure 😂 - in markdown format. Just a quick landing page or link back to a full page like the About page for board meeting events that get posted. List iterates over the following:
+Events on events page are in json located in the data folder ( src > data > events.json). Specific events are broken down in markdown files located in the _events_ folder ( src > pages > events) - go figure 😂. This is the URL reference for a "Learn more" link. Just a quick landing page or link back to a full page like the About page for board meeting events that get posted. List iterates over the following:
 
 ```{
     "title": "Title of Event",

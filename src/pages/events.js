@@ -10,11 +10,13 @@ import GameNight from "../components/gameImg"
 import ArtClass from "../components/artClassImg"
 import Arcade from "../components/arcadeImg"
 import Signup from "../components/signup"
+import Headline from "../components/headline"
 
 import EventsPaused from "../components/eventsPaused"
 
 const Events = ({ data }) => (
   <Fragment>
+    <Headline />
     <HeroHeader />
     <SEO title="Events" />
     <Layout>

@@ -7,11 +7,13 @@ import HeroHeader from "../components/Navbar/heroHeader"
 import QuickContact from "../components/quick-contact"
 import Footer from "../components/footer"
 import Search from "../components/searchBox"
+import Headline from "../components/headline"
 
 import pdf from "./resources/March2020.pdf"
 
 const Resources = ({ data }) => (
   <Fragment>
+    <Headline />
     <HeroHeader />
     <SEO title="Resources" />
     <Layout>
@@ -22,6 +24,39 @@ const Resources = ({ data }) => (
             The activity list is created by Support Coordinators to include
             various community activities that individuals and their families WC
             Partners works with may enjoy.{" "}
+          </p>
+          <p>
+            Most events and activities on the activity list have been canceled
+            due to COVID-19. In order to help serve the individuals and families
+            we work with, we've compiled a list of resources and activities that
+            can be done online to help create some normalcy in this difficult
+            time.
+            <br />
+            <br />
+            <ul>
+              <li>
+                For information on available online activities{" "}
+                <Link to="/resources/covid-19#stories-and-activities">
+                  click here
+                </Link>
+              </li>
+              <li>
+                For online tours and/or field trip-type activities{" "}
+                <Link to="/resources/covid-19#virtual-tours">click here</Link>
+              </li>
+              <li>
+                For online health and fitness activities{" "}
+                <Link to="/resources/covid-19#health-and-fitness">
+                  click here
+                </Link>
+              </li>
+              <li>
+                For online educational activities{" "}
+                <Link to="/resources/covid-19#educational-resources-for-all-students">
+                  click here
+                </Link>
+              </li>
+            </ul>
           </p>
           <div>
             <button className="big-btn">
