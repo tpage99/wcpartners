@@ -75,11 +75,10 @@ Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/nov
 
 ### Developmental Disability Resources for COVID-19
 
-DMH Developmental Disabilities Division Resource Page: https://dmh.mo.gov/dev-disabilities/covid-19-information
-
-**COVID-19 Information by and for people with disabilities:** https://selfadvocacyinfo.org/wp-content/uploads/2020/03/Plain-Language-Information-on-Coronavirus.pdf
-
-**Supporting Individuals with Autism Through Uncertain Times:** https://afirm.fpg.unc.edu/supporting-individuals-autism-through-uncertain-times
+- [DMH Developmental Disabilities Division Resource Page](https://dmh.mo.gov/dev-disabilities/covid-19-information)
+- [COVID-19 Information by and for people with disabilities](https://selfadvocacyinfo.org/wp-content/uploads/2020/03/Plain-Language-Information-on-Coronavirus.pdf)
+- [Supporting Individuals with Autism Through Uncertain Times](https://afirm.fpg.unc.edu/supporting-individuals-autism-through-uncertain-times)
+- [Communication Service for the Deaf and Connect Direct Launch American Sign Language Coronavirus Hotline and Resource Center](https://www.csd.org/coronavirus)
 
 ### Children and COVID-19
 
@@ -245,9 +244,9 @@ Storyline Online is available 24 hours a day for children, parents, caregivers a
 
 ### Webster County Library
 
-With your Webster County Library card you have access to thousands of eBooks and eAudiobooks. If you do not have a library card, MoLib2Go has now opened up access to their selections with just your mobile number. Learn more here: http://webstercounty.lib.mo.us/download-items/
+With your Webster County Library card you have access to thousands of eBooks and eAudiobooks. If you do not have a library card, MoLib2Go has now opened up access to their selections with just your mobile number. Learn more here: http://webstercounty.lib.mo.us/download-items/. For more information about MoLib2Go, visit: https://molib2go.overdrive.com/
 
-For more information about MoLib2Go, visit: https://molib2go.overdrive.com/
+Educational resources for teens. Learning Express is an interactive learning platform featuring over 1000 practice tests, tutorials, and eBooks relating to important career skills, certifications, and exam prep. And it is FREE through the Webster County Library. Learn more here: http://webstercounty.lib.mo.us/learning-express/
 
 ### Other Resources
 
