@@ -79,6 +79,7 @@ Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/nov
 - [COVID-19 Information by and for people with disabilities](https://selfadvocacyinfo.org/wp-content/uploads/2020/03/Plain-Language-Information-on-Coronavirus.pdf)
 - [Supporting Individuals with Autism Through Uncertain Times](https://afirm.fpg.unc.edu/supporting-individuals-autism-through-uncertain-times)
 - [Communication Service for the Deaf and Connect Direct Launch American Sign Language Coronavirus Hotline and Resource Center](https://www.csd.org/coronavirus)
+- [Preparing for Coronavirus (COVID-19) and Influenza: Free Online Training & Resources](https://www.relias.com/topic/coronavirus?utm_source=marketo-em&utm_medium=email&utm_campaign=pac_em_2020-03-18_coronavirus-resources-march&mkt_tok=eyJpIjoiTkdFd01EWTFNelU1TlRFNCIsInQiOiJlS1haOGR0bUFTY3dkbHN5UGpQSXVRaFdrUmpycEp1K25VUm1LQThNMmZudnZKU2VHXC9YWWdBQUh0bmJNa3VRNGZOTFVGbndHYTk4U3ltWTdyWDArZU96WWxjWG9GRnE3dGRWdlRWUW9VUkRFNE5JcEV2cU9wZ2c5d2tpYlg5eUUifQ==)
 
 ### Children and COVID-19
 
@@ -157,6 +158,10 @@ Everyone reacts differently to stressful situations. How you respond to the outb
 [Read more about guidelines from the CDC on how to handle anxiety and stress](https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Fcoping.html)
 
 [Helpful Expert Tips and Resources from the Anxiety and Depression Association of America](https://adaa.org/finding-help/coronavirus-anxiety-helpful-resources)
+
+### NAMI Support Groups
+
+The National Alliance on Mental Illness (NAMI) of Southwest Missouri is continuing to host support groups for panic, anxiety, OCD, depression, suicide survivors, and more. Please visit their Facebook for more information about participating in groups: https://www.facebook.com/NamiSwmo/
 
 ---
 
