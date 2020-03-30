@@ -29,33 +29,42 @@ const Contact = () => (
           }}
         >
           <h1 style={{ textAlign: `center` }}>CONTACT US</h1>
-          <p
-            style={{
-              paddingBottom: `1rem`,
-              textAlign: `center`,
-            }}
-          >
-            Contact our office or contact your Support Coordinator directly.
-            Support Coordinator contact information is available on our{" "}
-            <span className="strong-link">
-              <Link to="/sc-contact">staff contact page</Link>
-            </span>
-            .
-          </p>
+
           <div style={{ textAlign: `center` }}>
-            Administrative office hours are Monday-Friday from 9am to 1pm.
+            <p>
+              <strong>
+                Due to the COVID-19 state of emergency, the office is closed to
+                the public.
+              </strong>{" "}
+              Support Coordinators are still working and available to assist
+              individuals and families by phone or virtual meetings.
+            </p>
+            <p
+              style={{
+                textAlign: `center`,
+              }}
+            >
+              Contact our office or contact your Support Coordinator directly.
+              Support Coordinator contact information is available on our{" "}
+              <span className="strong-link">
+                <Link to="/sc-contact">staff contact page</Link>
+              </span>
+              .
+            </p>
             <div
               style={{
                 listStyle: `none`,
                 textDecoration: `none`,
                 display: `block`,
+                marginTop: `0`,
+                padding: `0`,
               }}
             >
-              <div style={{ display: `inline-block`, padding: `0.5rem` }}>
+              <div style={{ display: `inline-block`, padding: `0 0.5rem` }}>
                 <span style={{ fontWeight: `bold` }}>Phone:</span>{" "}
                 <a href="tel:1-417-630-0782">(417) 630-0782</a>
               </div>
-              <div style={{ display: `inline-block`, padding: `0.5rem` }}>
+              <div style={{ display: `inline-block`, padding: `0 0.5rem` }}>
                 <span style={{ fontWeight: `bold` }}>Fax:</span> (417) 630-0783
               </div>
             </div>

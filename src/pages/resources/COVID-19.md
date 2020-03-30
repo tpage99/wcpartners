@@ -76,6 +76,7 @@ Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/nov
 ### Developmental Disability Resources for COVID-19
 
 - [DMH Developmental Disabilities Division Resource Page](https://dmh.mo.gov/dev-disabilities/covid-19-information)
+- [State of Missouri Disability Portal COVID-19 Resources](https://disability.mo.gov/covid-19.htm)
 - [COVID-19 Information by and for people with disabilities](https://selfadvocacyinfo.org/wp-content/uploads/2020/03/Plain-Language-Information-on-Coronavirus.pdf)
 - [Supporting Individuals with Autism Through Uncertain Times](https://afirm.fpg.unc.edu/supporting-individuals-autism-through-uncertain-times)
 - [Communication Service for the Deaf and Connect Direct Launch American Sign Language Coronavirus Hotline and Resource Center](https://www.csd.org/coronavirus)
@@ -267,6 +268,10 @@ Other blog posts, articles, and activities that may be helpful.
 Information for employers and businesses impacted by COVID-19 from the Missouri Department of Labor.
 
 Learn more here: https://labor.mo.gov/coronavirus
+
+### Missouri Job Center
+
+If you are looking for a job check out Missouri Job Center's Facebook Works virtual hiring events. Log on every Monday, Wednesday and Friday for a list of companies who are hiring along with live links to their online applications. Learn more here: https://www.facebook.com/SGFJobCenter/
 
 ---
 
