@@ -303,7 +303,7 @@ Tools that help people stay connected by video, including friends, family, and s
 - [[How to set up Zoom for parents and students]](https://youtu.be/d7xXZxRDFUU)
 - [[Written Zoom Directions for Students]](https://thinkcollege.net/sites/default/files/files/resources/Zoom%20Directions%20for%20Students.pdf)
 
-_\*as of April 2, 2020 WC Partners became aware of various potential vulnerabilities within Zoom. While it can be a helpful and free tool to use, there are certain precautions that should be taken in order to prevent concerns related to "Zoombombing" and other known security issues within Zoom. You can read [this article](https://protonmail.com/blog/zoom-privacy-issues/) regarding steps you should take to make if using Zoom_.
+_\*On April 2, 2020 WC Partners became aware of various potential security vulnerabilities within Zoom. While it can be a helpful and free tool to use, there are certain precautions that should be taken in order to prevent concerns related to "Zoombombing" and other known security issues. You can read [this article](https://protonmail.com/blog/zoom-privacy-issues/) regarding steps you should take if using Zoom_.
 
 ---
 
