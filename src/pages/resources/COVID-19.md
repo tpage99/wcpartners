@@ -232,6 +232,11 @@ Kennedy Space Center has launched science lessons on Facebook Live. Parents also
 
 As schools around the world close their buildings and families find themselves at home, YouTube wants to ensure that learning together continues. So partnered with Khan Academy and other learning creators to bring parents and families resources and activities to make the coming days as educational and fun as possible. Of course, these resources won’t replace any homework assigned by teachers — but they can complement that work. Learn more at: https://learnathome.withyoutube.com/
 
+### National Theatre Plays
+
+The National Theatre is going to stream a free play every Thursday night. Plays are streamed and available on their [YouTube Channel](https://www.youtube.com/channel/UCUDq1XzCY0NIOYVJvEMQjqw). You can learn more by going to their website: https://www.nationaltheatre.org.uk/
+[[Original article source]](https://www.timeout.com/london/news/the-national-theatre-is-going-to-stream-a-free-play-every-thursday-night-032620)
+
 ### PBS
 
 PBS Kids offers a variety of games, activities, apps, and videos for children and adults who enjoy their programming. Learn more here: https://pbskids.org/
@@ -279,13 +284,26 @@ If you are looking for a job check out Missouri Job Center's Facebook Works virt
 
 Tools that help people stay connected by video, including friends, family, and staff, can help others with not feeling so socially isolated or provide opportunities to continue working on social skills while social distancing. Here are some tools and resources for video chat and conferencing.
 
-- Duo: https://duo.google.com/about/
-- Facebook Messenger: https://www.messenger.com/
-- Instagram: https://www.instagram.com/
-- Microsoft Teams: https://products.office.com/en-us/microsoft-teams/group-chat-software
-- Skype: https://www.skype.com/en/
-- Whatsapp: https://www.whatsapp.com/
-- Zoom: https://zoom.us/ [[How to set up Zoom for parents and students]](https://youtu.be/d7xXZxRDFUU)
+**Duo:** https://duo.google.com/about/
+
+**Facebook Messenger:** https://www.messenger.com/
+
+**Instagram:** https://www.instagram.com/
+
+**Microsoft Teams:** https://products.office.com/en-us/microsoft-teams/group-chat-software
+
+**Skype:** https://www.skype.com/en/
+
+**Whatsapp:** https://www.whatsapp.com/
+
+**Whereby:** https://whereby.com/
+
+**Zoom\*:** https://zoom.us/
+
+- [[How to set up Zoom for parents and students]](https://youtu.be/d7xXZxRDFUU)
+- [[Written Zoom Directions for Students]](https://thinkcollege.net/sites/default/files/files/resources/Zoom%20Directions%20for%20Students.pdf)
+
+_\*as of April 2, 2020 WC Partners became aware of various potential vulnerabilities within Zoom. While it can be a helpful and free tool to use, there are certain precautions that should be taken in order to prevent concerns related to "Zoombombing" and other known security issues within Zoom. You can read [this article](https://protonmail.com/blog/zoom-privacy-issues/) regarding steps you should take to make if using Zoom_.
 
 ---
 

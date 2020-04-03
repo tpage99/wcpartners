@@ -16,28 +16,32 @@ For more information about virtual tours, activities, and resources see our [COV
 
 ## 2020
 
-[March](#march-2020) | [April](#april-2019)
-
----
-
-## March 2020
-
-### Webinar for Parents of Students Receiving Special Education
-
-_Tuesday, March 31, 2020 at 7pm-8pm_
-
-Join a webinar dedicated to parents working with special education students at home. Hear best practices from and ask questions of our panel of online special education experts for continuing the learning journey this school year. Learn how to set up your home for success, ways to support students with special needs, resources to supplement learning and more. The panel will be followed by a Q & A session for attendees.
-
-The webinar will be hosted through Zoom. To join the webinar, visit https://zoom.us/j/283997502.
-
-It is suggested signing on 10 minutes prior to the event. Learn more here: https://www.facebook.com/events/2464537380543272/
+[April](#april-2020) | [May](#may-2020)
 
 ---
 
 ## April 2020
 
-All live events and social gatherings previously listed have been canceled due to the COVID-19 epidemic. We will continue to research online options and resources that can be helpful.
+### Live Q&A with Crip Camp Star Judy Heumann
 
-For more information about virtual tours, activities, and resources see our [COVID-19 page](/resources/covid-19)
+_Saturday, April 4 at 6pm_
+
+Judy was a counselor at “Crip Camp,” which turned out to be the launchpad for her groundbreaking career and a lifetime pioneering Disability Rights. Judy tells her story in her newly released memoir, _Being Heumann: An Unrepentant Memoir of a Disability Rights Activist_.
+
+Please join us for a virtual discussion with Judy about the film and her time at the summer camp where many young people galvanized to build a movement for their own equality and independence.
+
+How to get involved:
+
+1.  Register for the Q+A with Judy Heumann at the button below. You will be sent instructions for joining the live stream and a reminder for the event
+2.  Make some popcorn, fire up your Netflix, and watch _Crip Camp: A Disability Revolution_
+3.  Join the live stream Q&A with Judy on Saturday, April 4 at 6 p.m. CST!
+
+Learn more and register here: https://starkloff.org/cripcamp/
+
+---
+
+## May 2020
+
+No known online events/webinars available at this time.
 
 ---
