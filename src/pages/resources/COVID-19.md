@@ -259,6 +259,10 @@ With your Webster County Library card you have access to thousands of eBooks and
 
 Educational resources for teens. Learning Express is an interactive learning platform featuring over 1000 practice tests, tutorials, and eBooks relating to important career skills, certifications, and exam prep. And it is FREE through the Webster County Library. Learn more here: http://webstercounty.lib.mo.us/learning-express/
 
+### Wide Open School
+
+With resources for parents and educators, Wide Open School is a free collection of the best online learning experiences for kids curated by the editors at Common Sense. A group of more than 25 organizations came together and raised their hands to help, and many more are joining on a daily basis. Watch for new features and content partners frequently. Learn more here: https://wideopenschool.org/
+
 ### Other Resources
 
 Other blog posts, articles, and activities that may be helpful.
