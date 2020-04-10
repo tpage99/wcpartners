@@ -14,13 +14,7 @@ tags:
 
 ---
 
-[Budget Meal Planner](#budget-meal-planner) | [Food Stamps](#food-stamps) | [Food Pantries](#food-pantries) | [Marshfield Farmers Market](#marshfield-farmers-market)
-
----
-
-## Budget Meal Planner
-
-Blog with recipes and meal plans on how to shop and prepare food on a budget of \$5/day. Learn more at https://www.budgetmealplanner.com/
+[Food Stamps](#food-stamps) | [Food Pantries](#food-pantries) | [Marshfield Farmers Market](#marshfield-farmers-market)
 
 ---
 

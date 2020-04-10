@@ -90,7 +90,9 @@ Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/nov
 
 ### FEMA COVID-19 Rumor Control
 
-FEMA has put together a resource page to help the public distinguish between rumors and facts regarding the response to coronavirus (COVID-19) pandemic. Rumors can easily circulate within communities during a crisis. Do your part to the stop the spread of disinformation by doing 3 easy things; don’t believe the rumors, don’t pass them along and go to trusted sources of information to get the facts about the federal (COVID-19) response. Learn more here: https://www.fema.gov/coronavirus-rumor-control
+FEMA has put together a resource page to help the public distinguish between rumors and facts regarding the response to coronavirus (COVID-19) pandemic. Rumors can easily circulate within communities during a crisis. Do your part to the stop the spread of disinformation by doing 3 easy things; don’t believe the rumors, don’t pass them along and go to trusted sources of information to get the facts about the federal (COVID-19) response.
+
+Learn more here: https://www.fema.gov/coronavirus-rumor-control
 
 ---
 
@@ -288,9 +290,13 @@ If you are looking for a job check out Missouri Job Center's Facebook Works virt
 
 Tools that help people stay connected by video, including friends, family, and staff, can help others with not feeling so socially isolated or provide opportunities to continue working on social skills while social distancing. Here are some tools and resources for video chat and conferencing.
 
+**Amazon Chime:** https://aws.amazon.com/chime/
+
 **Duo:** https://duo.google.com/about/
 
 **Facebook Messenger:** https://www.messenger.com/
+
+**Jitsi:** https://meet.jit.si/
 
 **Instagram:** https://www.instagram.com/
 

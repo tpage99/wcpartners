@@ -9,7 +9,7 @@ import Footer from "../components/footer"
 import Search from "../components/searchBox"
 import Headline from "../components/headline"
 
-import pdf from "./resources/March2020.pdf"
+import pdf from "./resources/EasterActivities.pdf"
 
 const Resources = ({ data }) => (
   <Fragment>
@@ -70,12 +70,23 @@ const Resources = ({ data }) => (
                   fontWeight: `bold`,
                 }}
               >
-                Activity List
+                Easter Activities
               </a>
             </button>
           </div>
           <p style={{ margin: `1rem 0`, fontSize: `0.9rem` }}>
-            <em>Click to download. Last updated February 27, 2020.</em>
+            <em>
+              Click to download. Updated April 10, 2020. Easter activities
+              information provided by{" "}
+              <a
+                href="http://www.thearcoftheozarks.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                The Arc of the Ozarks
+              </a>
+              .
+            </em>
           </p>
           <p>
             The activity list is made available in a PDF format that opens in
