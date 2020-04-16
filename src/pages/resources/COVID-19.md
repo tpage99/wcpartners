@@ -103,6 +103,19 @@ For updates and information regarding Medicaid (MO HealthNet) and other Departme
 **Important Updates**  
 Consistent with the federal Families First Coronavirus Response Act, effective immediately, the Department of Social Services will not terminate eligibility for any Medicaid participant unless the individual requests a voluntary termination of eligibility or the individual ceases to be a resident of the state through the end the federal emergency COVID-19 declaration. Public notice and order: https://dss.mo.gov/covid-19/pdf/13CSR65-2.020PublicNoticeandOrder.pdf
 
+### Economic Impact Payments (Stimulus Checks)
+
+The IRS has compiled information for those who do not file taxes but are still eligible for Economic Impact Payments (stimulus checks).
+
+**Who should use Non-Filers?**
+
+Eligible U.S. citizens or permanent residents who:
+
+- Had gross income that did not exceed $12,200 ($24,400 for married couples) for 2019
+- Were not otherwise required to file a federal income tax return for 2019, and didn't plan to
+
+You can provide the necessary information to the IRS easily and quickly for no fee through Non-Filers. Learn more here: https://www.irs.gov/coronavirus/non-filers-enter-payment-info-here
+
 ---
 
 ## Community Response and Recovery Fund
@@ -166,6 +179,10 @@ Everyone reacts differently to stressful situations. How you respond to the outb
 
 Burrell Behavioral Health is offering a variety of resources to help manage the emotional and physical health of our communities. Learn more about group therapy opportunities and other resources: https://www.burrellcenter.com/covid19response/
 
+### Missouri Family to Family
+
+In this time of uncertainty, it can be easy to feel nervous, scared and full of anxiety. Combat those feelings with good information and great peer support. Missouri Family to Family is here to help. They can work with you to find a solution to those tough problems you may be facing right now as well as connect you with peer supports when what you really need is a listening ear and sympathetic connection. Learn more here: http://mofamilytofamily.org/
+
 ### NAMI Support Groups
 
 The National Alliance on Mental Illness (NAMI) of Southwest Missouri is continuing to host support groups for panic, anxiety, OCD, depression, suicide survivors, and more. Please visit their Facebook for more information about participating in groups: https://www.facebook.com/NamiSwmo/
@@ -178,6 +195,10 @@ Website: https://dmh.mo.gov/
 Facebook: https://www.facebook.com/MentalHealthMO/
 
 Developmental Disabilities (DD) Division: https://dmh.mo.gov/dev-disabilities/individual-family-guardian-info
+
+### StationMD
+
+Medicaid Waiver Recipients through the Missouri Department of Mental Health – Division of Developmental Disabilities are eligible and preregistered to begin using StationMD for any medical concerns. You can reach StationMD when you have a medical concern by calling 1-877-STATMDS (782-8637). A StationMD physician will then do an assessment via the telephone or through the StationMD App if a smart phone or tablet is available. If you do have a smart phone or tablet, we recommend you download the StationMD App now so it’s available when needed. Learn more about this resource for DMH DD Medicaid Waiver participants here: https://www.stationmd.com/modmh/
 
 ---
 
@@ -268,6 +289,14 @@ Educational resources for teens. Learning Express is an interactive learning pla
 ### Wide Open School
 
 With resources for parents and educators, Wide Open School is a free collection of the best online learning experiences for kids curated by the editors at Common Sense. A group of more than 25 organizations came together and raised their hands to help, and many more are joining on a daily basis. Watch for new features and content partners frequently. Learn more here: https://wideopenschool.org/
+
+### Wonders of Wildlife
+
+Wonders of Wildlife is collaborating with Agents of Discovery and several leading conservation organizations to launch a campaign called Mission Conservation. This will provide parents and educators with access to Image Recognition (IR) Missions that young learners can play and share with their community.
+
+New Missions will launch every Monday (events we are calling “Mission Monday”). Our educational mobile gaming platform uses augmented reality to engage youth through active learning. Let us help you turn your home and backyard into a fun and safe educational environment.
+
+Anybody and everybody is encouraged to participate in Mission Mondays – It’s totally FREE on the Agents of Discovery app available on the App Store and Google Play. Learn more here: https://wondersofwildlife.org/missions/
 
 ### Other Resources
 
