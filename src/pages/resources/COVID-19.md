@@ -44,7 +44,7 @@ The Center for Disease Control (CDC) is responding to an outbreak of respiratory
 
 Use the resources below for factual information and supports on how to handle this outbreak.
 
-[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Benefits and Resources](#benefits-and-resources) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Health and Fitness](#health-and-fitness) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Paths to Literacy](#paths-to-literacy) | [Speech Therapy](#speech-therapy) | [Stories and Activities](#stories-and-activities) | [Unemployment Benefits and Information](#unemployment-benefits-and-information) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Video Chat and Conferencing](#video-chat-and-conferencing) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
+[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Benefits and Resources](#benefits-and-resources) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Health and Fitness](#health-and-fitness) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Parent Trainings](#parent-trainings) | [Paths to Literacy](#paths-to-literacy) | [Speech Therapy](#speech-therapy) | [Stories and Activities](#stories-and-activities) | [Unemployment Benefits and Information](#unemployment-benefits-and-information) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Video Chat and Conferencing](#video-chat-and-conferencing) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
 
 ---
 
@@ -116,6 +116,10 @@ Eligible U.S. citizens or permanent residents who:
 
 You can provide the necessary information to the IRS easily and quickly for no fee through Non-Filers. Learn more here: https://www.irs.gov/coronavirus/non-filers-enter-payment-info-here
 
+### FAQs from Social Security Administration on Coronavirus
+
+Use this page to find most up-to-date information on SSA, SSDI, and SSI benefits and the impact of COVID-19. Information includes specific questions about stimulus checks and resources. Learn more here: https://www.ssa.gov/coronavirus/
+
 ---
 
 ## Community Response and Recovery Fund
@@ -175,6 +179,8 @@ Everyone reacts differently to stressful situations. How you respond to the outb
 
 [Helpful Expert Tips and Resources from the Anxiety and Depression Association of America](https://adaa.org/finding-help/coronavirus-anxiety-helpful-resources)
 
+[Self-Care Resources from the Missouri Department of Mental Health](https://dmh.mo.gov/disaster-services/self-care)
+
 ### Burrell Behavioral Health
 
 Burrell Behavioral Health is offering a variety of resources to help manage the emotional and physical health of our communities. Learn more about group therapy opportunities and other resources: https://www.burrellcenter.com/covid19response/
@@ -199,6 +205,23 @@ Developmental Disabilities (DD) Division: https://dmh.mo.gov/dev-disabilities/in
 ### StationMD
 
 Medicaid Waiver Recipients through the Missouri Department of Mental Health – Division of Developmental Disabilities are eligible and preregistered to begin using StationMD for any medical concerns. You can reach StationMD when you have a medical concern by calling 1-877-STATMDS (782-8637). A StationMD physician will then do an assessment via the telephone or through the StationMD App if a smart phone or tablet is available. If you do have a smart phone or tablet, we recommend you download the StationMD App now so it’s available when needed. Learn more about this resource for DMH DD Medicaid Waiver participants here: https://www.stationmd.com/modmh/
+
+---
+
+## Parent Trainings
+
+### ABA Parent Training Plan - Providing Applied Behavior Analysis for Your Child At Home
+
+Relias has developed a new free ABA Parent Training Plan - Providing Applied Behavior Analysis for Your Child At Home. This plan has been designed to help parents feel more confident in their ability to support their children, and provide schools and ABA providers with a resource to share with the families they serve.
+
+The training plan includes:
+
+- Introduction to Applied Behavior Analysis
+- Imitation and Joint Attention
+- Increasing Behavior
+- Naturalistic Teaching Strategies
+
+Use this link to receive these trainings for free: https://reliasacademy.com/rls/store/browse/productDetailSingleSku.jsp?productId=p329898
 
 ---
 
@@ -263,6 +286,12 @@ As schools around the world close their buildings and families find themselves a
 
 The National Theatre is going to stream a free play every Thursday night. Plays are streamed and available on their [YouTube Channel](https://www.youtube.com/channel/UCUDq1XzCY0NIOYVJvEMQjqw). You can learn more by going to their website: https://www.nationaltheatre.org.uk/
 [[Original article source]](https://www.timeout.com/london/news/the-national-theatre-is-going-to-stream-a-free-play-every-thursday-night-032620)
+
+### Netflix Documentaries
+
+Netflix has made a selection of documentary features and series available on the Netflix US YouTube channel. Each title also has educational resources available, which can be used by both students and teachers - and Netflix will be doing Q&As with some of the creators behind these projects so that students can hear from them firsthand. Read original announcement here: https://media.netflix.com/en/company-blog/free-educational-documentaries
+
+To view documentaries visit the Netflix YouTube channel playlist here: https://www.youtube.com/playlist?list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA
 
 ### PBS
 
