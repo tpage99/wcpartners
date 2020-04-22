@@ -44,7 +44,7 @@ The Center for Disease Control (CDC) is responding to an outbreak of respiratory
 
 Use the resources below for factual information and supports on how to handle this outbreak.
 
-[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Benefits and Resources](#benefits-and-resources) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources for All Students](#educational-resources-for-all-students) | [Health and Fitness](#health-and-fitness) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Parent Trainings](#parent-trainings) | [Paths to Literacy](#paths-to-literacy) | [Speech Therapy](#speech-therapy) | [Stories and Activities](#stories-and-activities) | [Unemployment Benefits and Information](#unemployment-benefits-and-information) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Video Chat and Conferencing](#video-chat-and-conferencing) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
+[Letter from Executive Director](#letter-from-wc-partners-executive-director) | [COVID-19](#covid-19) | [Benefits and Resources](#benefits-and-resources) | [Community Response and Recovery Fund](#community-response-and-recovery-fund) | [Educational Resources](#educational-resources) | [Health and Fitness](#health-and-fitness) | [Low Cost Internet](#low-cost-internet) | [Managing Anxiety and Stress](#managing-anxiety-and-stress) | [Missouri Department of Mental Health](#missouri-department-of-mental-health) | [Parent Trainings](#parent-trainings) | [Paths to Literacy](#paths-to-literacy) | [Speech Therapy](#speech-therapy) | [Stories and Activities](#stories-and-activities) | [Unemployment Benefits and Information](#unemployment-benefits-and-information) | [Pharmacy Early Refill Changes](#pharmacy-early-refill-changes) | [Video Chat and Conferencing](#video-chat-and-conferencing) | [Virtual Doctor Visits](#virtual-doctor-visits) | [Virtual Tours](#virtual-tours)
 
 ---
 
@@ -132,13 +132,38 @@ _Please be aware that financial assistance related to COVID-19 is not available 
 
 ---
 
-## Educational Resources for All Students
+## Educational Resources
+
+### Educating All Learners Alliance
+
+Educating All Learners Alliance is a hub of curated tools, strategies, tips and best practices for supporting students with disabilities online. Their goal is to both curate and creates special education resources for educators to serve students who learn differently during this time of challenge. They have educational webinars, resources, and more available on their website. Learn more at: https://www.educatingalllearners.org/
+
+### Learn@Home
+
+As schools around the world close their buildings and families find themselves at home, YouTube wants to ensure that learning together continues. So partnered with Khan Academy and other learning creators to bring parents and families resources and activities to make the coming days as educational and fun as possible. Of course, these resources won’t replace any homework assigned by teachers — but they can complement that work. Learn more at: https://learnathome.withyoutube.com/
+
+### Missouri Disability Empowerment
 
 Missouri Disability Empowerment Foundation (MoDE Foundation) has put together a list of excellent online education resources for all students that can be used at this time, including simple social stories to tell students why school is out and routines are being disrupted.
 
 See this great list of online resources here: https://www.moempowerfoundation.com/educational-resources
 
-Additionally, we have a list of other [online learning resources](/resources/online-learning).
+### Scholastic Learn at Home
+
+Day-by-day projects to keep kids reading, thinking, and growing. Learn more at: https://classroommagazines.scholastic.com/support/learnathome.html
+
+### Wide Open School
+
+With resources for parents and educators, Wide Open School is a free collection of the best online learning experiences for kids curated by the editors at Common Sense. A group of more than 25 organizations came together and raised their hands to help, and many more are joining on a daily basis. Watch for new features and content partners frequently. Learn more here: https://wideopenschool.org/
+
+### WC Partners Online Learning Resources
+
+In addition to the above mentioned learning resources, we have a list of other [online learning resources](/resources/online-learning).
+
+Other blog posts, articles, and activities that may be helpful.
+
+- [Here's the Entire List of Education Companies Offering Free Subscriptions Due to School Closings](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)
+- [MAINTAINING LEARNING: Free educational resources for kids stuck at home during COVID-19](https://abc7news.com/6011211/)
 
 ---
 
@@ -278,10 +303,6 @@ Stuck at Home? Kids Can Become Mini Imagineers with Disney’s “Imagineering i
 Kennedy Space Center has launched science lessons on Facebook Live. Parents also have online access to activity sheets and experiments, making spare time educational but fun. The sessions will take place Monday, Wednesday and Friday at 9:30 a.m. ET for young kids. For older children, including those in high school, there will be programming starting at 1 p.m. Learn more by visiting the Kennedy Space Center Facebook page: https://www.facebook.com/KennedySpaceCenterVisitorComplex/  
 [[Original article source]](https://www.fox13news.com/news/disney-kennedy-space-center-offering-free-online-activities-for-kids-during-school-closures)
 
-### Learn@Home
-
-As schools around the world close their buildings and families find themselves at home, YouTube wants to ensure that learning together continues. So partnered with Khan Academy and other learning creators to bring parents and families resources and activities to make the coming days as educational and fun as possible. Of course, these resources won’t replace any homework assigned by teachers — but they can complement that work. Learn more at: https://learnathome.withyoutube.com/
-
 ### National Theatre Plays
 
 The National Theatre is going to stream a free play every Thursday night. Plays are streamed and available on their [YouTube Channel](https://www.youtube.com/channel/UCUDq1XzCY0NIOYVJvEMQjqw). You can learn more by going to their website: https://www.nationaltheatre.org.uk/
@@ -299,10 +320,6 @@ PBS Kids offers a variety of games, activities, apps, and videos for children an
 
 Parents can also sign up for PBS Kids Daily, a weekday newsletter offering activities and tips you can use to help kids play and learn at home. Learn more here: https://www.pbs.org/parents/pbskidsdaily
 
-### Scholastic Learn at Home
-
-Day-by-day projects to keep kids reading, thinking, and growing. Learn more at: https://classroommagazines.scholastic.com/support/learnathome.html
-
 ### Storyline Online
 
 Reading aloud to children has been shown to improve reading, writing and communication skills, logical thinking and concentration, and general academic aptitude, as well as inspire a lifelong love of reading. Teachers use Storyline Online in their classrooms, and doctors and nurses play Storyline Online in children’s hospitals.
@@ -315,10 +332,6 @@ With your Webster County Library card you have access to thousands of eBooks and
 
 Educational resources for teens. Learning Express is an interactive learning platform featuring over 1000 practice tests, tutorials, and eBooks relating to important career skills, certifications, and exam prep. And it is FREE through the Webster County Library. Learn more here: http://webstercounty.lib.mo.us/learning-express/
 
-### Wide Open School
-
-With resources for parents and educators, Wide Open School is a free collection of the best online learning experiences for kids curated by the editors at Common Sense. A group of more than 25 organizations came together and raised their hands to help, and many more are joining on a daily basis. Watch for new features and content partners frequently. Learn more here: https://wideopenschool.org/
-
 ### Wonders of Wildlife
 
 Wonders of Wildlife is collaborating with Agents of Discovery and several leading conservation organizations to launch a campaign called Mission Conservation. This will provide parents and educators with access to Image Recognition (IR) Missions that young learners can play and share with their community.
@@ -326,13 +339,6 @@ Wonders of Wildlife is collaborating with Agents of Discovery and several leadin
 New Missions will launch every Monday (events we are calling “Mission Monday”). Our educational mobile gaming platform uses augmented reality to engage youth through active learning. Let us help you turn your home and backyard into a fun and safe educational environment.
 
 Anybody and everybody is encouraged to participate in Mission Mondays – It’s totally FREE on the Agents of Discovery app available on the App Store and Google Play. Learn more here: https://wondersofwildlife.org/missions/
-
-### Other Resources
-
-Other blog posts, articles, and activities that may be helpful.
-
-- [Here's the Entire List of Education Companies Offering Free Subscriptions Due to School Closings](https://kidsactivitiesblog.com/135609/list-of-education-companies-offering-free-subscriptions/)
-- [MAINTAINING LEARNING: Free educational resources for kids stuck at home during COVID-19](https://abc7news.com/6011211/)
 
 ---
 
