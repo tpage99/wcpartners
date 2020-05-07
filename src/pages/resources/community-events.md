@@ -16,27 +16,13 @@ For more information about virtual tours, activities, and resources see our [COV
 
 ## 2020
 
-[April](#april-2020) | [May](#may-2020)
+[May](#may-2020) | [June](#june-2020) | [July](#july-2020) | [August](#august-2020) | [September](#september-2020) | [October](#october-2020) | [November](#november-2020) | [December](#december-2020) | [2021](#2021)
 
 ---
 
-## April 2020
+---
 
-### Live Q&A with Crip Camp Star Judy Heumann
-
-_Saturday, April 4 at 6pm_
-
-Judy was a counselor at “Crip Camp,” which turned out to be the launchpad for her groundbreaking career and a lifetime pioneering Disability Rights. Judy tells her story in her newly released memoir, _Being Heumann: An Unrepentant Memoir of a Disability Rights Activist_.
-
-Please join us for a virtual discussion with Judy about the film and her time at the summer camp where many young people galvanized to build a movement for their own equality and independence.
-
-How to get involved:
-
-1.  Register for the Q+A with Judy Heumann at the button below. You will be sent instructions for joining the live stream and a reminder for the event
-2.  Make some popcorn, fire up your Netflix, and watch _Crip Camp: A Disability Revolution_
-3.  Join the live stream Q&A with Judy on Saturday, April 4 at 6 p.m. CST!
-
-Learn more and register here: https://starkloff.org/cripcamp/
+## May 2020
 
 ### Educating All Learners Alliance
 
@@ -44,8 +30,50 @@ Calendar of events and webinars for Educating All Learners Alliance available he
 
 ---
 
-## May 2020
+## June 2020
 
-No known online events/webinars available at this time.
+No known events at this time. Please contact us for informatoin about events and/or webinars to be posted.
+
+---
+
+## July 2020
+
+No known events at this time. Please contact us for informatoin about events and/or webinars to be posted.
+
+---
+
+## August 2020
+
+No known events at this time. Please contact us for informatoin about events and/or webinars to be posted.
+
+---
+
+## September 2020
+
+No known events at this time. Please contact us for informatoin about events and/or webinars to be posted.
+
+---
+
+## October 2020
+
+No known events at this time. Please contact us for informatoin about events and/or webinars to be posted.
+
+---
+
+## November 2020
+
+No known events at this time. Please contact us for informatoin about events and/or webinars to be posted.
+
+---
+
+## December 2020
+
+No known events at this time. Please contact us for informatoin about events and/or webinars to be posted.
+
+---
+
+## 2021
+
+No known events at this time. Please contact us for informatoin about events and/or webinars to be posted.
 
 ---

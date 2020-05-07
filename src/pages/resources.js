@@ -9,7 +9,7 @@ import Footer from "../components/footer"
 import Search from "../components/searchBox"
 import Headline from "../components/headline"
 
-import pdf from "./resources/EasterActivities.pdf"
+// import pdf from "./resources/EasterActivities.pdf"
 
 const Resources = ({ data }) => (
   <Fragment>
@@ -58,41 +58,19 @@ const Resources = ({ data }) => (
               </li>
             </ul>
           </p>
-          <div>
-            <button className="big-btn">
-              <a
-                href={pdf}
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{
-                  color: `#fff`,
-                  fontSize: `2.5rem`,
-                  fontWeight: `bold`,
-                }}
-              >
-                Easter Activities
-              </a>
-            </button>
+          <div style={{ margin: `2rem 0` }}>
+            <Link
+              to="/resources/covid-19"
+              style={{
+                color: `#fff`,
+                fontSize: `2.5rem`,
+                fontWeight: `bold`,
+                lineHeight: `2.5rem`,
+              }}
+            >
+              <button className="big-btn">All COVID-19 Resources</button>
+            </Link>
           </div>
-          <p style={{ margin: `1rem 0`, fontSize: `0.9rem` }}>
-            <em>
-              Click to download. Updated April 10, 2020. Easter activities
-              information provided by{" "}
-              <a
-                href="http://www.thearcoftheozarks.org/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                The Arc of the Ozarks
-              </a>
-              .
-            </em>
-          </p>
-          <p>
-            The activity list is made available in a PDF format that opens in
-            another page in your browser. If you require a more accessible
-            format, please contact us.
-          </p>
         </section>
         <section>
           <div

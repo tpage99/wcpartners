@@ -81,6 +81,7 @@ Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/nov
 - [Supporting Individuals with Autism Through Uncertain Times](https://afirm.fpg.unc.edu/supporting-individuals-autism-through-uncertain-times)
 - [Communication Service for the Deaf and Connect Direct Launch American Sign Language Coronavirus Hotline and Resource Center](https://www.csd.org/coronavirus)
 - [Preparing for Coronavirus (COVID-19) and Influenza: Free Online Training & Resources](https://www.relias.com/topic/coronavirus?utm_source=marketo-em&utm_medium=email&utm_campaign=pac_em_2020-03-18_coronavirus-resources-march&mkt_tok=eyJpIjoiTkdFd01EWTFNelU1TlRFNCIsInQiOiJlS1haOGR0bUFTY3dkbHN5UGpQSXVRaFdrUmpycEp1K25VUm1LQThNMmZudnZKU2VHXC9YWWdBQUh0bmJNa3VRNGZOTFVGbndHYTk4U3ltWTdyWDArZU96WWxjWG9GRnE3dGRWdlRWUW9VUkRFNE5JcEV2cU9wZ2c5d2tpYlg5eUUifQ==)
+- [Plain Language Resources from UMKC's Institute for Human Development](https://ihd.umkc.edu/plain-language-covid-19-resources/)
 
 ### Children and COVID-19
 
