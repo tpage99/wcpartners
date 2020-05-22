@@ -82,6 +82,7 @@ Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/nov
 - [Communication Service for the Deaf and Connect Direct Launch American Sign Language Coronavirus Hotline and Resource Center](https://www.csd.org/coronavirus)
 - [Preparing for Coronavirus (COVID-19) and Influenza: Free Online Training & Resources](https://www.relias.com/topic/coronavirus?utm_source=marketo-em&utm_medium=email&utm_campaign=pac_em_2020-03-18_coronavirus-resources-march&mkt_tok=eyJpIjoiTkdFd01EWTFNelU1TlRFNCIsInQiOiJlS1haOGR0bUFTY3dkbHN5UGpQSXVRaFdrUmpycEp1K25VUm1LQThNMmZudnZKU2VHXC9YWWdBQUh0bmJNa3VRNGZOTFVGbndHYTk4U3ltWTdyWDArZU96WWxjWG9GRnE3dGRWdlRWUW9VUkRFNE5JcEV2cU9wZ2c5d2tpYlg5eUUifQ==)
 - [Plain Language Resources from UMKC's Institute for Human Development](https://ihd.umkc.edu/plain-language-covid-19-resources/)
+- [COVID-19 Coronavirus and Autism Resources from Autism Parenting Magazine](https://www.autismparentingmagazine.com/coronavirus-and-autism/)
 
 ### Children and COVID-19
 
@@ -134,6 +135,13 @@ _Please be aware that financial assistance related to COVID-19 is not available 
 ---
 
 ## Educational Resources
+
+### DESE Model Alternative Curriculum
+
+DESE Model Alternative Curriculum includes activities aligned to the Missouri Learning Standards to serve as models for creating lesson plans aimed at students with significant disabilities. Over 1,000 new instructional activities for students with severe disabilities are now released. The curriculum is publicly available on the Build Your Own Curriculum (BYOC) website or through DESE's website by going to Missouri Schools for the Severely Disabled (MSSD) Curriculum.
+
+BYOC website: http://mssd.buildyourowncurriculum.com/Public/Landing_Grades.aspx  
+MSSD Curriculum website: https://dese.mo.gov/special-education/missouri-schools-severely-disabled/curriculum
 
 ### Educating All Learners Alliance
 
