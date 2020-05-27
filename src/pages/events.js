@@ -53,8 +53,7 @@ const Events = ({ data }) => (
         page.
       </p>
       <Signup />
-      <EventsPaused />
-      {/* <ul style={{ listStyle: `none` }}>
+      <ul style={{ listStyle: `none` }}>
         {data.allEventsJson.edges.map(event => (
           <li className="event-box" key={event.node.id}>
             <div className="grid">
@@ -93,7 +92,8 @@ const Events = ({ data }) => (
             </div>
           </li>
         ))}
-      </ul> */}
+      </ul>
+      <EventsPaused />
       <Footer />
     </Layout>
   </Fragment>

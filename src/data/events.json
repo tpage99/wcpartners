@@ -1,82 +1,10 @@
 [
   {
-    "title": "Music Therapy",
-    "date": "2020-03-26",
-    "time": "4:15pm and 5:15pm",
-    "description": "Music Therapy is for everyone! Drury University staff and students provide opportunities for individuals to participate in music therapy. Pre-registration is required. Contact your Support Coordinator for more information.",
-    "url": "/events/music-therapy",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/music-therapy.jpg"
-  },
-  {
-    "title": "Music Therapy",
-    "date": "2020-04-02",
-    "time": "4:15pm and 5:15pm",
-    "description": "Music Therapy is for everyone! Drury University staff and students provide opportunities for individuals to participate in music therapy. Pre-registration is required. Contact your Support Coordinator for more information.",
-    "url": "/events/music-therapy",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/music-therapy.jpg"
-  },
-  {
-    "title": "Music Therapy",
-    "date": "2020-04-09",
-    "time": "4:15pm and 5:15pm",
-    "description": "Music Therapy is for everyone! Drury University staff and students provide opportunities for individuals to participate in music therapy. Pre-registration is required. Contact your Support Coordinator for more information.",
-    "url": "/events/music-therapy",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/music-therapy.jpg"
-  },
-  {
-    "title": "Music Therapy",
-    "date": "2020-04-16",
-    "time": "4:15pm and 5:15pm",
-    "description": "Music Therapy is for everyone! Drury University staff and students provide opportunities for individuals to participate in music therapy. Pre-registration is required. Contact your Support Coordinator for more information.",
-    "url": "/events/music-therapy",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1561669686/WCPartners/music-therapy.jpg"
-  },
-  {
-    "title": "Project STIR",
-    "date": "2020-04-01",
-    "time": "3:30pm",
-    "description": "The Missouri Division of Developmental Disabilities regional Advocacy Specialist comes to WC Partners to provide training designed to empower people with developmental disabilities. It provides the practical tools necessary for anyone who is interested in being a self-advocate and leader in making choices and decisions about how they live their lives. This is a six-week program and pre-registration is required.",
-    "url": "/events/project-stir",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1566921348/WCPartners/DMHLogo.png"
-  },
-  {
-    "title": "Project STIR",
-    "date": "2020-04-08",
-    "time": "3:30pm",
-    "description": "The Missouri Division of Developmental Disabilities regional Advocacy Specialist comes to WC Partners to provide training designed to empower people with developmental disabilities. It provides the practical tools necessary for anyone who is interested in being a self-advocate and leader in making choices and decisions about how they live their lives. This is a six-week program and pre-registration is required.",
-    "url": "/events/project-stir",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1566921348/WCPartners/DMHLogo.png"
-  },
-  {
-    "title": "Project STIR",
-    "date": "2020-04-15",
-    "time": "3:30pm",
-    "description": "The Missouri Division of Developmental Disabilities regional Advocacy Specialist comes to WC Partners to provide training designed to empower people with developmental disabilities. It provides the practical tools necessary for anyone who is interested in being a self-advocate and leader in making choices and decisions about how they live their lives. This is a six-week program and pre-registration is required.",
-    "url": "/events/project-stir",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1566921348/WCPartners/DMHLogo.png"
-  },
-  {
-    "title": "Project STIR",
-    "date": "2020-04-22",
-    "time": "3:30pm",
-    "description": "The Missouri Division of Developmental Disabilities regional Advocacy Specialist comes to WC Partners to provide training designed to empower people with developmental disabilities. It provides the practical tools necessary for anyone who is interested in being a self-advocate and leader in making choices and decisions about how they live their lives. This is a six-week program and pre-registration is required.",
-    "url": "/events/project-stir",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1566921348/WCPartners/DMHLogo.png"
-  },
-  {
-    "title": "Project STIR",
-    "date": "2020-04-29",
-    "time": "3:30pm",
-    "description": "The Missouri Division of Developmental Disabilities regional Advocacy Specialist comes to WC Partners to provide training designed to empower people with developmental disabilities. It provides the practical tools necessary for anyone who is interested in being a self-advocate and leader in making choices and decisions about how they live their lives. This is a six-week program and pre-registration is required.",
-    "url": "/events/project-stir",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1566921348/WCPartners/DMHLogo.png"
-  },
-  {
-    "title": "Project STIR",
-    "date": "2020-05-06",
-    "time": "3:30pm",
-    "description": "The Missouri Division of Developmental Disabilities regional Advocacy Specialist comes to WC Partners to provide training designed to empower people with developmental disabilities. It provides the practical tools necessary for anyone who is interested in being a self-advocate and leader in making choices and decisions about how they live their lives. This is a six-week program and pre-registration is required.",
-    "url": "/events/project-stir",
-    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1566921348/WCPartners/DMHLogo.png"
+    "title": "WC Partners Board Meeting",
+    "date": "2020-06-09",
+    "time": "7:00pm",
+    "description": "WC Partners is the Webster County Senate Bill 40 Board. The WC Partners Board meets in order to determine priorities, initiatives, and funding to support individuals and families with developmental disabilities in the Webster County area served. Meetings are open to the public.",
+    "url": "/about",
+    "thumbnailImage": "https://res.cloudinary.com/tpage99/image/upload/v1560421417/WCPartners/wclogo.png"
   }
 ]
