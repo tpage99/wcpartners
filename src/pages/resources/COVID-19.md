@@ -96,6 +96,16 @@ FEMA has put together a resource page to help the public distinguish between rum
 
 Learn more here: https://www.fema.gov/coronavirus-rumor-control
 
+### Testing
+
+Any Missouri residents who wish to be tested with a nasal swab to see if they have an active COVID-19 infection can do so at the specified sites in each region at no cost to the individual. Missouri residency is the only requirement; individuals do not have to live in the county in which they are tested, and they do not have to be experiencing symptoms.
+
+Greene County location: Ozark Empire Fairgrounds in Springfield on June 4th and 5th from 7am-7pm
+
+To pre-register go online: https://health.mo.gov/communitytest or call 877.435.8411.
+
+See DMH announcement here: https://dmh.mo.gov/media/pdf/community-covid-19-sampling-events-be-conducted-throughout-missouri
+
 ---
 
 ## Benefits and Resources

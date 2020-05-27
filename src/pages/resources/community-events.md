@@ -41,6 +41,21 @@ List of webinars for Exceltional Lives here: https://www.exceptionallives.org/we
 
 ## June 2020
 
+### Community COVID-19 Sampling Events
+
+June 4th and June 5th from 7:00am to 7:00pm
+
+**Location:**  
+Ozark Empire Fairgrounds  
+3001 N Grant Ave  
+Springfield, MO 65803
+
+Any Missouri residents who wish to be tested with a nasal swab to see if they have an active COVID-19 infection can do so at the specified sites in each region at no cost to the individual. Missouri residency is the only requirement; individuals do not have to live in the county in which they are tested, and they do not have to be experiencing symptoms.
+
+To pre-register go online: https://health.mo.gov/communitytest or call [(877) 435-8411](tel:8774358411).
+
+See DMH announcement here: https://dmh.mo.gov/media/pdf/community-covid-19-sampling-events-be-conducted-throughout-missouri
+
 ### Educating All Learners Alliance
 
 Calendar of events and webinars for Educating All Learners Alliance available here: https://www.educatingalllearners.org/events-and-webinars
