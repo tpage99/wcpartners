@@ -16,26 +16,9 @@ For more information about virtual tours, activities, and resources see our [COV
 
 ## 2020
 
-[May](#may-2020) | [June](#june-2020) | [July](#july-2020) | [August](#august-2020) | [September](#september-2020) | [October](#october-2020) | [November](#november-2020) | [December](#december-2020) | [2021](#2021)
+[June](#june-2020) | [July](#july-2020) | [August](#august-2020) | [September](#september-2020) | [October](#october-2020) | [November](#november-2020) | [December](#december-2020) | [2021](#2021)
 
 ---
-
----
-
-## May 2020
-
-### Educating All Learners Alliance
-
-Calendar of events and webinars for Educating All Learners Alliance available here: https://www.educatingalllearners.org/events-and-webinars
-
-### Kitchen Conversation: Occupational Therapy at Home [webinar]
-
-May 27 from 1:00-1:30pm with Carrie Alvarado, Ph.D., OTR, Chief Operating Officer, Autism Community Network (San Antonio, TX)
-
-Carrie Alvarado is the creator and director of the Earliest Connections Clinic and the DIRFloortime/PACT (Pediatric Autism Communication Therapy) Hands-on Family Empowerment program at Autism Community Network (ACN), a non-profit focused on provision of both interdisciplinary diagnosis and innovative intervention for young children with autism spectrum disorder.
-
-Register here: https://us02web.zoom.us/webinar/register/WN_rnieQcKaRYaqtu4Fo-FOeQ  
-List of webinars for Exceltional Lives here: https://www.exceptionallives.org/webinars
 
 ---
 

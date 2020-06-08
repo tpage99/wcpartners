@@ -35,8 +35,8 @@ const Contact = () => (
         Even with standards in place, it is true that we're not perfect. If you
         have information or sugestions on how we can provide a more accessible
         experience for our users please feel free to reach out to{" "}
-        <a href="mailto:info@wc-partners.net" aria-label="Email WC Partners">
-          info@wc-partners.net
+        <a href="mailto:contact@wcpartners.net" aria-label="Email WC Partners">
+          contact@wcpartners.net
         </a>
         .
       </p>

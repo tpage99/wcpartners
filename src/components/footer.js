@@ -23,8 +23,11 @@ export default class footer extends Component {
           <span style={{ fontWeight: `bold` }}>WC Partners </span>
           {` `}©2019-{new Date().getFullYear()}. Contact WC Partners by phone at{" "}
           <a href="tel:1-417-630-0782">(417) 630-0782</a> or by email at{" "}
-          <a href="mailto:info@wc-partners.net" aria-label="Email WC Partners">
-            info@wc-partners.net
+          <a
+            href="mailto:contact@wcpartners.net"
+            aria-label="Email WC Partners"
+          >
+            contact@wcpartners.net
           </a>
         </p>
         <p>
@@ -53,7 +56,7 @@ export default class footer extends Component {
               <Link to="/resources/apps#wc-partners">Download the App</Link>
             </li>
             <li className="footer-link">
-              <a href="https://abilitiesfirst.sharepoint.com/sites/WCP/SitePages/Home.aspx">
+              <a href="https://wcpartnerstest.sharepoint.com/sites/WCPartnersTCM">
                 Staff Login
               </a>
             </li>

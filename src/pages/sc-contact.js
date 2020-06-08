@@ -27,9 +27,7 @@ const SCContact = () => (
               <span className="contact-title">Executive Director</span>
               <br />
               Email:{" "}
-              <a href="mailto: kdetherow@wc-partners.net">
-                kdetherow@wc-partners.net
-              </a>
+              <a href="mailto:katrina@wcpartners.net">katrina@wcpartners.net</a>
               <br />
               Phone: <a href="tel:1-417-241-3287">(417) 241-3287</a>
             </p>
@@ -48,8 +46,8 @@ const SCContact = () => (
               <span className="contact-title">Support Coordinator</span>
               <br />
               Email:{" "}
-              <a href="mailto: jgiordano@wc-partners.net">
-                jgiordano@wc-partners.net
+              <a href="mailto:jennifer@wcpartners.net">
+                jennifer@wcpartners.net
               </a>
               <br />
               Phone: <a href="tel:1-417-241-3158">(417) 241-3158</a>
@@ -69,9 +67,7 @@ const SCContact = () => (
               <span className="contact-title">Support Coordinator</span>
               <br />
               Email:{" "}
-              <a href="mailto: pthompson@wc-partners.net">
-                pthompson@wc-partners.net
-              </a>
+              <a href="mailto:paula@wcpartners.net">paula@wcpartners.net</a>
               <br />
               Phone: <a href="tel:1-417-209-1823">(417) 209-1823</a>
             </p>
@@ -90,9 +86,7 @@ const SCContact = () => (
               <span className="contact-title">Support Coordinator</span>
               <br />
               Email:{" "}
-              <a href="mailto: deanna@wc-partners.net">
-                deanna@wc-partners.net
-              </a>
+              <a href="mailto:deanna@wcpartners.net">deanna@wcpartners.net</a>
               <br />
               Phone: <a href="tel:1-417-340-0815">(417) 340-0815</a>
             </p>
@@ -111,7 +105,7 @@ const SCContact = () => (
               <span className="contact-title">Support Coordinator</span>
               <br />
               Email:{" "}
-              <a href="mailto:tpage@wc-partners.net">tpage@wc-partners.net</a>
+              <a href="mailto:taylor@wcpartners.net">taylor@wcpartners.net</a>
               <br />
               Phone: <a href="tel:1-417-830-0884">(417) 830-0884</a>
             </p>
@@ -130,9 +124,7 @@ const SCContact = () => (
               <span className="contact-title">Support Coordinator</span>
               <br />
               Email:{" "}
-              <a href="mailto:mmitchell@wc-partners.net">
-                mmitchell@wc-partners.net
-              </a>
+              <a href="mailto:mike@wcpartners.net">mike@wcpartners.net</a>
               <br />
               Phone: <a href="tel:1-417-894-5603">(417) 894-5603</a>
             </p>

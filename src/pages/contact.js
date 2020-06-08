@@ -31,14 +31,6 @@ const Contact = () => (
           <h1 style={{ textAlign: `center` }}>CONTACT US</h1>
 
           <div style={{ textAlign: `center` }}>
-            <p>
-              <strong>
-                Due to the COVID-19 state of emergency, the office is closed to
-                the public.
-              </strong>{" "}
-              Support Coordinators are still working and available to assist
-              individuals and families by phone or virtual meetings.
-            </p>
             <p
               style={{
                 textAlign: `center`,
