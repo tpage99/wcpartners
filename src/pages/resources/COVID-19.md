@@ -395,6 +395,8 @@ Tools that help people stay connected by video, including friends, family, and s
 
 **Whereby:** https://whereby.com/
 
+**Zipcall:** https://zipcall.io/
+
 **Zoom\*:** https://zoom.us/
 
 - [[How to set up Zoom for parents and students]](https://youtu.be/d7xXZxRDFUU)

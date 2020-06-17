@@ -8,6 +8,8 @@ import Footer from "../components/footer"
 import ArtImage from "../components/artImage"
 import Headline from "../components/headline"
 
+import RFPNotice from "../components/rfpNotice"
+
 const About = () => (
   <Fragment>
     <Headline />
@@ -71,6 +73,7 @@ const About = () => (
         </span>
         .
       </p>
+      <RFPNotice />
       <Footer />
     </Layout>
   </Fragment>

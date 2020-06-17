@@ -6,6 +6,7 @@ exports.createPages = ({ actions, graphql }) => {
   const resourceTemplate = path.resolve("src/templates/resource-page.js")
   const eventTemplate = path.resolve("src/templates/event-page.js")
   const careersTemplate = path.resolve("src/templates/careers-page.js")
+  const rfpTemplate = path.resolve("src/templates/rfps-page.js")
 
   return graphql(`
     {
@@ -51,6 +52,20 @@ exports.createPages = ({ actions, graphql }) => {
           }
         }
       }
+      rfps: allMarkdownRemark(
+        filter: { frontmatter: { category: { eq: "rfps" } } }
+      ) {
+        edges {
+          node {
+            html
+            id
+            frontmatter {
+              path
+              title
+            }
+          }
+        }
+      }
     }
   `).then(res => {
     if (res.errors) {
@@ -75,6 +90,12 @@ exports.createPages = ({ actions, graphql }) => {
       createPage({
         path: node.frontmatter.path,
         component: careersTemplate,
+      })
+    })
+    res.data.rfps.edges.forEach(({ node }) => {
+      createPage({
+        path: node.frontmatter.path,
+        component: rfpTemplate,
       })
     })
   })

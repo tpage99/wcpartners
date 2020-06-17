@@ -7,6 +7,8 @@ import HeroHeader from "../components/Navbar/heroHeader"
 import Footer from "../components/footer"
 import Headline from "../components/headline"
 
+import RFPNotice from "../components/rfpNotice"
+
 const Contact = () => (
   <Fragment>
     <Headline />
@@ -141,6 +143,7 @@ const Contact = () => (
             </div>
           </form>
         </div>
+        <RFPNotice />
         <Footer />
       </Layout>
     </div>

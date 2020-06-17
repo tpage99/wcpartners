@@ -7,6 +7,8 @@ import Layout from "../components/layout"
 import Footer from "../components/footer"
 import Headline from "../components/headline"
 
+import RFPNotice from "../components/rfpNotice"
+
 const IndexPage = () => (
   <Fragment>
     <Headline />
@@ -96,6 +98,7 @@ const IndexPage = () => (
           </h3>
         </div>
       </div>
+      <RFPNotice />
       <Footer />
     </Layout>
   </Fragment>
