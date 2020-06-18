@@ -69,4 +69,4 @@ Senate Bill 40 Board shall hold the bids for 30 days for purposes of reviewing t
 
 Bidders should carefully review the pre-requisites for bidding which will be adhered to when interviewing the bids. Bids will be evaluated to determine the bidder that is responsive to the solicitations and is most advantageous to the Senate Bill 40 Board, price, capacity, experience, and other factors considered.
 
-**All bids shall be sealed and turned into the WC Partners Office, 1329 Spur Dr., Suite 160, Marshfield no later than 4:00 pm August 3rd, 2020. The Senate Bill 40 Board reserves the right to waive any informality or to reject any and all bids.**
+**All bids shall be sealed and may be turned into WC Partners Office in person at 1329 Spur Dr., Suite 160, Marshfield, by mail addressed to Executive Director Katrina Detherow at PO Box 9, Marshfield, MO 65706, or by email to Executive Director Katrina Detherow at katrina@wcpartners.net. Bids will no longer be accepted after 4:00pm August 3rd, 2020. The Senate Bill 40 Board reserves the right to waive any informality or to reject any and all bids.**
