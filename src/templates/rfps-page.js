@@ -11,11 +11,12 @@ export default function rfpsTemplate({ data }) {
   // above is same as using const careers = data.markdownRemark;
   return (
     <Fragment>
-      <HeroHeader />
       <SEO
         title={rfps.frontmatter.title}
         description={rfps.frontmatter.description}
+        pageUrl={"https://www.wc-partners.net" + rfps.frontmatter.path}
       />
+      <HeroHeader />
       <main>
         <Layout>
           <h1 style={{ textAlign: `center` }}>
