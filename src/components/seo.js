@@ -69,7 +69,7 @@ function SEO({ description, lang, meta, title, siteUrl }) {
         },
         {
           property: `og:url`,
-          content: `siteUrl`,
+          content: siteUrl,
         },
         {
           property: `og:type`,
