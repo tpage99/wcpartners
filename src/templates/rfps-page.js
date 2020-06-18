@@ -12,7 +12,10 @@ export default function rfpsTemplate({ data }) {
   return (
     <Fragment>
       <HeroHeader />
-      <SEO title={rfps.frontmatter.title} />
+      <SEO
+        title={rfps.frontmatter.title}
+        description={rfps.frontmatter.description}
+      />
       <main>
         <Layout>
           <h1 style={{ textAlign: `center` }}>

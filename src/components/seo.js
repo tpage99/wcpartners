@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-function SEO({ description, lang, meta, title, siteUrl, imgLogo }) {
+function SEO({ description, lang, meta, title }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -18,8 +18,6 @@ function SEO({ description, lang, meta, title, siteUrl, imgLogo }) {
           siteMetadata {
             title
             description
-            siteUrl
-            imgLogo
           }
         }
       }
@@ -37,7 +35,7 @@ function SEO({ description, lang, meta, title, siteUrl, imgLogo }) {
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
         {
-          name: `description`,
+          property: `description`,
           content: metaDescription,
         },
         {
@@ -65,15 +63,15 @@ function SEO({ description, lang, meta, title, siteUrl, imgLogo }) {
           content: metaDescription,
         },
         {
-          name: `og:image`,
-          content: imgLogo,
+          property: `og:image`,
+          content: `https://res.cloudinary.com/tpage99/image/upload/v1592490042/WCPartners/wcpsharelogo.png`,
         },
         {
-          name: `og:url`,
-          content: siteUrl,
+          property: `og:url`,
+          content: `https://www.wc-partners.net`,
         },
         {
-          name: `og:type`,
+          property: `og:type`,
           content: `website`,
         },
       ].concat(meta)}
