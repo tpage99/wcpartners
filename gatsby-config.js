@@ -9,7 +9,7 @@ module.exports = {
     title: `WC Partners`,
     description: `WC Partners is the Webster County SB40 Board. Our mission is - Growing towards empowered futures. We serve individuals with developmental disabilities and their families in the Webster County area through Targeted Case Management services.`,
     siteUrl: `https://www.wc-partners.net`,
-    imgLogo: `https://res.cloudinary.com/tpage99/image/upload/v1560421417/WCPartners/wclogo.png`,
+    imgLogo: `https://res.cloudinary.com/tpage99/image/upload/v1592508638/WCPartners/wcpFacebook.png`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
