@@ -1,7 +1,7 @@
 ---
 path: "/careers/support-coordinator"
 title: "Support Coordinator"
-description: "WC Partners is seeking a Support Coordinator to provide targeted case management services for individuals and their families whom have a developmental disability living in Webster County, Missouri. Cover letter and resume for those interested in the position should be sent to the Executive Director. Applications due by Friday, January 31, 2020 at end of business day."
+description: "WC Partners is seeking a Support Coordinator to provide targeted case management services for individuals and their families whom have a developmental disability living in Webster County, Missouri. Applications due by Wednesday, July 15, 2020 at end of business day. Learn how to apply and for full job description."
 category: "careers"
 tags: exempt
 ---
@@ -128,4 +128,4 @@ A Bachelor’s degree from an accredited college or university required.
 
 ## HOW TO APPLY FOR THIS POSITION
 
-Cover letter and resume for those interested in the position should be sent to WC Partners Executive Director Katrina Detherow by email at [kdetherow@wc-partners.net](mailto:kdetherow@wc-partners.net?Subject=Support Coordinator Position). Applications due Friday, January 31, 2020 by end of business day.
+Cover letter and resume for those interested in the position should be sent to WC Partners Executive Director Katrina Detherow by email at [katrina@wcpartners.net](mailto:katrina@wcpartners.net?Subject=Support Coordinator Position). Applications due Wednesday, July 15, 2020 by end of business day.
