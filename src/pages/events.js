@@ -14,6 +14,7 @@ import Headline from "../components/headline"
 
 import EventsPaused from "../components/eventsPaused"
 import RFPNotice from "../components/rfpNotice"
+import HiringNotice from "../components/wereHiring"
 
 const Events = ({ data }) => (
   <Fragment>
@@ -54,7 +55,7 @@ const Events = ({ data }) => (
         page.
       </p>
       <Signup />
-      <ul style={{ listStyle: `none` }}>
+      {/* <ul style={{ listStyle: `none` }}>
         {data.allEventsJson.edges.map(event => (
           <li className="event-box" key={event.node.id}>
             <div className="grid">
@@ -93,8 +94,9 @@ const Events = ({ data }) => (
             </div>
           </li>
         ))}
-      </ul>
+      </ul> */}
       <EventsPaused />
+      <HiringNotice />
       <RFPNotice />
       <Footer />
     </Layout>

@@ -8,6 +8,7 @@ import Footer from "../components/footer"
 import Headline from "../components/headline"
 
 import RFPNotice from "../components/rfpNotice"
+import HiringNotice from "../components/wereHiring"
 
 const Contact = () => (
   <Fragment>
@@ -143,6 +144,7 @@ const Contact = () => (
             </div>
           </form>
         </div>
+        <HiringNotice />
         <RFPNotice />
         <Footer />
       </Layout>

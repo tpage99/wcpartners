@@ -8,6 +8,7 @@ import Footer from "../components/footer"
 import Headline from "../components/headline"
 
 import RFPNotice from "../components/rfpNotice"
+import HiringNotice from "../components/wereHiring"
 
 const IndexPage = () => (
   <Fragment>
@@ -98,6 +99,7 @@ const IndexPage = () => (
           </h3>
         </div>
       </div>
+      <HiringNotice />
       <RFPNotice />
       <Footer />
     </Layout>

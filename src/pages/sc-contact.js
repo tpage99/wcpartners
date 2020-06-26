@@ -110,25 +110,6 @@ const SCContact = () => (
               Phone: <a href="tel:1-417-830-0884">(417) 830-0884</a>
             </p>
           </div>
-          <div className="line-break"></div>
-          <div className="contact-start">
-            <img
-              src="https://res.cloudinary.com/tpage99/image/upload/v1582126190/WCPartners/mike_avataaars.png"
-              alt="Mike Mitchell"
-              className="contact-photo"
-            />
-          </div>
-          <div className="contact-info">
-            <h2>Mike Mitchell</h2>
-            <p>
-              <span className="contact-title">Support Coordinator</span>
-              <br />
-              Email:{" "}
-              <a href="mailto:mike@wcpartners.net">mike@wcpartners.net</a>
-              <br />
-              Phone: <a href="tel:1-417-894-5603">(417) 894-5603</a>
-            </p>
-          </div>
         </div>
       </main>
       <Footer />
