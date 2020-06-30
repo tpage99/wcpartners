@@ -63,7 +63,7 @@ If applicable: ADA compliance = 5 Points. Points will be awarded on bid proposal
 
 ### VIII. GENERAL INFORMATION
 
-Bid Proposals will be received at the office of WC Partners, 1329 Spur Dr., Suite 160, Marshfield, until July 17, 2020 until 4:00 P.M.) on the date as announced. Bid Proposals received after the time and date will not be accepted. Proposals received on time will be opened privately.
+Bid Proposals will be received at the office of WC Partners, 1329 Spur Dr., Suite 160, Marshfield, until August 3, 2020 until 4:00 P.M. on the date as announced. Bid Proposals received after the time and date will not be accepted. Proposals received on time will be opened privately.
 
 Senate Bill 40 Board shall hold the bids for 30 days for purposes of reviewing the bid Proposals. The Senate Bill 40 Board shall announce the successful bidder on or before 90 days from the final date of receipt of proposals.
 
