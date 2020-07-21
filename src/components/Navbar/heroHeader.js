@@ -54,6 +54,9 @@ class HeroHeader extends React.Component {
                 <Link to="/about">About</Link>
               </li>
               <li>
+                <Link to="/news">News</Link>
+              </li>
+              <li>
                 <Link to="/resources">Resources</Link>
               </li>
               <li>

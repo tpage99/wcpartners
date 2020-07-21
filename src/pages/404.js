@@ -24,6 +24,9 @@ const NotFoundPage = () => (
           <Link to="/about">About page</Link>
         </li>
         <li>
+          <Link to="/news">News page</Link>
+        </li>
+        <li>
           <Link to="/resources">Resources page</Link>
         </li>
         <ul style={{ marginBottom: `0` }}>
