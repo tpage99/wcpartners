@@ -1,6 +1,6 @@
 import React, { Fragment } from "react"
 import { graphql } from "gatsby"
-import SEO from "../components/seo"
+import NewsSEO from "../components/seoNews"
 import Layout from "../components/layout"
 import HeroHeader from "../components/Navbar/heroHeader"
 import Footer from "../components/footer"
@@ -11,10 +11,11 @@ export default function eventTemplate({ data }) {
   return (
     <Fragment>
       <HeroHeader />
-      <SEO
+      <NewsSEO
         title={news.frontmatter.title}
         description={news.frontmatter.description}
         pageUrl={"https://www.wc-partners.net" + news.frontmatter.path}
+        coverImg={news.frontmatter.coverImage}
       />
       <main>
         <Layout>
