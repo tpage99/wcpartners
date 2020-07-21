@@ -1,12 +1,12 @@
 import React, { Fragment } from "react"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
 import Footer from "../components/footer"
 
-const CareerOpportunities = ({ data }) => (
+const CareerOpportunities = () => (
   <Fragment>
     <HeroHeader />
     <SEO title="Career Opportunities" />
@@ -15,7 +15,7 @@ const CareerOpportunities = ({ data }) => (
         <h1>Career Opportunities</h1>
         <hr />
         <section>
-          <ul style={{ listStyle: `none` }}>
+          {/* <ul style={{ listStyle: `none` }}>
             {data.allMarkdownRemark.edges.map(job => (
               <li style={{ margin: `2rem 1rem` }} key={job.node.id}>
                 <Link
@@ -43,13 +43,13 @@ const CareerOpportunities = ({ data }) => (
                 </Link>
               </li>
             ))}
-          </ul>
+          </ul> */}
+          <p style={{ paddingTop: `2rem` }}>
+            Thank you for your interest to work at WC Partners. At this time,
+            there are no available positions. Future career opportunities will
+            be posted on this page.
+          </p>
         </section>
-        {/* <p style={{ paddingTop: `2rem` }}>
-          At this time, there are no open positions with WC Partners. Thank you
-          for your interest. Future job postings will be made available on this
-          page.
-        </p> */}
       </main>
       <Footer />
     </Layout>

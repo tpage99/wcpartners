@@ -10,7 +10,6 @@ import Search from "../components/searchBox"
 import Headline from "../components/headline"
 
 import RFPNotice from "../components/rfpNotice"
-import HiringNotice from "../components/wereHiring"
 
 // import pdf from "./resources/EasterActivities.pdf"
 
@@ -115,7 +114,6 @@ const Resources = ({ data }) => (
         </section>
         <QuickContact />
       </main>
-      <HiringNotice />
       <RFPNotice />
       <Footer />
     </Layout>

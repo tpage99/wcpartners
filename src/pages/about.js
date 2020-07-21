@@ -9,7 +9,6 @@ import ArtImage from "../components/artImage"
 import Headline from "../components/headline"
 
 import RFPNotice from "../components/rfpNotice"
-import HiringNotice from "../components/wereHiring"
 
 const About = () => (
   <Fragment>
@@ -74,7 +73,6 @@ const About = () => (
         </span>
         .
       </p>
-      <HiringNotice />
       <RFPNotice />
       <Footer />
     </Layout>

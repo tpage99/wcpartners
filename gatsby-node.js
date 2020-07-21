@@ -7,6 +7,7 @@ exports.createPages = ({ actions, graphql }) => {
   const eventTemplate = path.resolve("src/templates/event-page.js")
   const careersTemplate = path.resolve("src/templates/careers-page.js")
   const rfpTemplate = path.resolve("src/templates/rfps-page.js")
+  const newsTemplate = path.resolve("src/templates/news-page.js")
 
   return graphql(`
     {
@@ -66,6 +67,20 @@ exports.createPages = ({ actions, graphql }) => {
           }
         }
       }
+      news: allMarkdownRemark(
+        filter: { frontmatter: { category: { eq: "news" } } }
+      ) {
+        edges {
+          node {
+            html
+            id
+            frontmatter {
+              path
+              title
+            }
+          }
+        }
+      }
     }
   `).then(res => {
     if (res.errors) {
@@ -96,6 +111,12 @@ exports.createPages = ({ actions, graphql }) => {
       createPage({
         path: node.frontmatter.path,
         component: rfpTemplate,
+      })
+    })
+    res.data.news.edges.forEach(({ node }) => {
+      createPage({
+        path: node.frontmatter.path,
+        component: newsTemplate,
       })
     })
   })

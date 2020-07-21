@@ -14,7 +14,6 @@ import Headline from "../components/headline"
 
 import EventsPaused from "../components/eventsPaused"
 import RFPNotice from "../components/rfpNotice"
-import HiringNotice from "../components/wereHiring"
 
 const Events = ({ data }) => (
   <Fragment>
@@ -96,7 +95,6 @@ const Events = ({ data }) => (
         ))}
       </ul> */}
       <EventsPaused />
-      <HiringNotice />
       <RFPNotice />
       <Footer />
     </Layout>
