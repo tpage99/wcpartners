@@ -73,6 +73,69 @@ const About = () => (
         </span>
         .
       </p>
+      <h2>Office Information</h2>
+      <div>
+        <div
+          style={{
+            listStyle: `none`,
+            textDecoration: `none`,
+            display: `block`,
+            marginTop: `0`,
+            padding: `0`,
+            textAlign: `center`,
+          }}
+        >
+          <div style={{ display: `inline-block`, padding: `0 0.5rem` }}>
+            <span style={{ fontWeight: `bold` }}>Phone:</span>{" "}
+            <a href="tel:1-417-630-0782">(417) 630-0782</a>
+          </div>
+          <div style={{ display: `inline-block`, padding: `0 0.5rem` }}>
+            <span style={{ fontWeight: `bold` }}>Fax:</span> (417) 630-0783
+          </div>
+        </div>
+        <div className="address-grid">
+          <div style={{ margin: `0 auto` }}>
+            <h3 style={{ marginBottom: `0.5rem` }}>Mailing address</h3>
+            <p>
+              PO Box 9<br />
+              Marshfield, MO 65706
+            </p>
+          </div>
+          <div style={{ margin: `0 auto` }}>
+            <h3 style={{ marginBottom: `0.5rem` }}>Office address</h3>
+            <p>
+              1329 Spur Drive
+              <br />
+              Suite 160
+              <br />
+              Marshfield, MO 65706
+            </p>
+          </div>
+        </div>
+      </div>
+      <div style={{ margin: `0`, padding: `0` }}>
+        <h3>Holidays</h3>
+        <p>
+          WC Partners' office shall be closed on the following county, state,
+          and national holidays:
+        </p>
+        <ul>
+          <li>New Year's Day (January 1)</li>
+          <li>Martin Luther King, Jr. Day (3rd Monday in January)</li>
+          <li>Lincoln's Birthy (February 12)</li>
+          <li>President's Day (February 15)</li>
+          <li>Truman's Birthday (May 8)</li>
+          <li>Memorial Day (Last Monday in May)</li>
+          <li>Independence Day (July 4)</li>
+          <li>Labor Day (First Monday in September)</li>
+          <li>Columbus Day (October 12)</li>
+          <li>Veteran's Day (November 11)</li>
+          <li>Thanksgiving Day (Fourth Thursday of November)</li>
+          <li>Day After Thanksgiving</li>
+          <li>Christmas Eve (December 24)</li>
+          <li>Christmas Day (December 25)</li>
+        </ul>
+      </div>
       <RFPNotice />
       <Footer />
     </Layout>

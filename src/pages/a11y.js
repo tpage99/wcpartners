@@ -5,7 +5,7 @@ import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
 import Footer from "../components/footer"
 
-const Contact = () => (
+const A11y = () => (
   <Fragment>
     <HeroHeader />
     <Layout>
@@ -45,4 +45,4 @@ const Contact = () => (
   </Fragment>
 )
 
-export default Contact
+export default A11y
