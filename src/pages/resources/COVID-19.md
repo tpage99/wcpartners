@@ -383,6 +383,8 @@ Tools that help people stay connected by video, including friends, family, and s
 
 **Facebook Messenger:** https://www.messenger.com/
 
+**Google Meet:** https://meet.google.com/
+
 **Jitsi:** https://meet.jit.si/
 
 **Instagram:** https://www.instagram.com/

@@ -8,8 +8,6 @@ import Footer from "../components/footer"
 
 import Headline from "../components/headline"
 
-import RFPNotice from "../components/rfpNotice"
-
 const News = ({ data }) => (
   <Fragment>
     <Headline />
@@ -65,7 +63,6 @@ const News = ({ data }) => (
           </li>
         ))}
       </ul>
-      <RFPNotice />
       <Footer />
     </Layout>
   </Fragment>

@@ -9,8 +9,6 @@ import Footer from "../components/footer"
 import Search from "../components/searchBox"
 import Headline from "../components/headline"
 
-import RFPNotice from "../components/rfpNotice"
-
 // import pdf from "./resources/EasterActivities.pdf"
 
 const Resources = ({ data }) => (
@@ -114,7 +112,6 @@ const Resources = ({ data }) => (
         </section>
         <QuickContact />
       </main>
-      <RFPNotice />
       <Footer />
     </Layout>
   </Fragment>

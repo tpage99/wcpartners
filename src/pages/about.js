@@ -8,8 +8,6 @@ import Footer from "../components/footer"
 import ArtImage from "../components/artImage"
 import Headline from "../components/headline"
 
-import RFPNotice from "../components/rfpNotice"
-
 const About = () => (
   <Fragment>
     <Headline />
@@ -136,7 +134,6 @@ const About = () => (
           <li>Christmas Day (December 25)</li>
         </ul>
       </div>
-      <RFPNotice />
       <Footer />
     </Layout>
   </Fragment>
