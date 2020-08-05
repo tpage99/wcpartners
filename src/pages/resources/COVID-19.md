@@ -86,6 +86,7 @@ Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/nov
 
 ### Children and COVID-19
 
+- [School Decision-Making Tool for Parents, Caregivers, and Guardians](https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/decision-tool.html) - Web Page
 - [Talking to Kids About the Coronavirus from the Child Mind Institute](https://childmind.org/article/talking-to-kids-about-the-coronavirus/) - Article
 - [Children's Message on COVID-19 from State of Missouri](https://youtu.be/Ogu0vjv-E44) - Video
 - [Resources for families and COVID-19 from Missouri DHSS](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/families.php) - Web Page
