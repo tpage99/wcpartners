@@ -8,12 +8,10 @@ tags: exempt
 
 ---
 
-## Live Events on Hold Due to COVID-19
+## Music Therapy
 
-At this time, our in-person events have been put on hold while following social distancing and best-practice orders from state and federal officials. Please know that we are working to get more information on how we can host virtual events or work with providers to link individuals and families to telehealth services.
+Starting Wednesday, September 9, 2020, WC Partners will resume in-person music therapy classes. These classes are provided at no cost to individuals receiving services with WC Partners. To sign up, [please click here.](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UMThXVDBSNk43OFg1RVI3MVNFVVA4VVk5VS4u)
 
-Please [contact your Support Coordinator](/sc-contact) or [the office](/contact) with further questions.
-
-For information and resources on COVID-19, please visit our dedicated [resources page](/resources/covid-19).
+To learn more about music therapy and WC Partners' collaboration with the Center for Music Therapy and Wellness, please go here: [WC Partners and Center for Music Therapy and Wellness](/events/music-therapy)
 
 ---

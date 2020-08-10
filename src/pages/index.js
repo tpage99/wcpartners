@@ -22,7 +22,7 @@ const IndexPage = () => (
           style={{ gridColumnStart: `1`, gridColumn: `span 7` }}
         >
           <img
-            src="https://res.cloudinary.com/tpage99/image/upload/v1560422846/WCPartners/heroGroup.png"
+            src="https://res.cloudinary.com/wcpartners/image/upload/v1597076274/heroGroup_c0rwyh.png"
             alt="collage of people smiling"
           />
         </div>
@@ -59,7 +59,7 @@ const IndexPage = () => (
         </div>
         <div style={{ gridColumn: `span 4`, gridColumnEnd: `-1` }}>
           <img
-            src="https://res.cloudinary.com/tpage99/image/upload/v1560421417/WCPartners/wclogo.png"
+            src="https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
             alt="wc partners logo"
             className="feature-img"
           />

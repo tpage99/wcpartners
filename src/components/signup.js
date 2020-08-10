@@ -19,7 +19,7 @@ export default class signup extends Component {
           <h2>Interested in signing up for an upcoming event or class?</h2>
           <p>
             Visit our{" "}
-            <Link to="events/sign-up" style={{ color: `white` }}>
+            <Link to="/events/sign-up" style={{ color: `white` }}>
               Sign-Up Page
             </Link>{" "}
             for future classes and events such as Project STIR, Music Therapy,
@@ -31,7 +31,7 @@ export default class signup extends Component {
           </p>
           <p>
             <Link
-              to="events/sign-up"
+              to="/events/sign-up"
               style={{ fontWeight: `bold`, color: `white` }}
             >
               Go to our Sign-Up Page

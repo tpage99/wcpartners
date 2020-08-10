@@ -16,7 +16,7 @@ const SCContact = () => (
           <div className="line-break"></div>
           <div className="contact-start">
             <img
-              src="https://res.cloudinary.com/tpage99/image/upload/v1561653558/WCPartners/avataaars_2.png"
+              src="https://res.cloudinary.com/wcpartners/image/upload/v1597076271/avataaars_2_tnvcp5.png"
               alt="Katrina Detherow"
               className="contact-photo"
             />
@@ -35,7 +35,7 @@ const SCContact = () => (
           <div className="line-break"></div>
           <div className="contact-start">
             <img
-              src="https://res.cloudinary.com/tpage99/image/upload/v1561653561/WCPartners/avataaars_3.png"
+              src="https://res.cloudinary.com/wcpartners/image/upload/v1597076272/avataaars_3_pojck8.png"
               alt="Jennifer Giordano"
               className="contact-photo"
             />
@@ -56,7 +56,7 @@ const SCContact = () => (
           <div className="line-break"></div>
           <div className="contact-start">
             <img
-              src="https://res.cloudinary.com/tpage99/image/upload/v1561653577/WCPartners/avataaars_4.png"
+              src="https://res.cloudinary.com/wcpartners/image/upload/v1597076272/avataaars_4_fbpcyh.png"
               alt="Paula Thompson"
               className="contact-photo"
             />
@@ -75,7 +75,7 @@ const SCContact = () => (
           <div className="line-break"></div>
           <div className="contact-start">
             <img
-              src="https://res.cloudinary.com/tpage99/image/upload/v1561653784/WCPartners/avataaars_5.png"
+              src="https://res.cloudinary.com/wcpartners/image/upload/v1597076270/avataaars_5_sdbsvx.png"
               alt="Deanna DeWitt"
               className="contact-photo"
             />
@@ -94,7 +94,7 @@ const SCContact = () => (
           <div className="line-break"></div>
           <div className="contact-start">
             <img
-              src="https://res.cloudinary.com/tpage99/image/upload/v1561380321/WCPartners/avataaars.png"
+              src="https://res.cloudinary.com/wcpartners/image/upload/v1597076271/avataaars_fecgns.png"
               alt="Taylor Page"
               className="contact-photo"
             />
