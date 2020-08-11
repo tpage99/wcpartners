@@ -427,6 +427,11 @@ form button {
   padding: 0.5rem;
 }
 
+.events2-grid {
+  grid-column: span 6;
+  padding: 0.5rem;
+}
+
 .card {
   margin: 2rem auto;
   padding: 1.5rem 1.5rem 0.05rem 1.5rem;
@@ -502,6 +507,11 @@ form button {
     flex-wrap: wrap;
   }
   .events-grid {
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .events2-grid {
     justify-content: center;
     flex-wrap: wrap;
     flex-direction: column;
