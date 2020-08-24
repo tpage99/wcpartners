@@ -8,7 +8,13 @@ tags: ["legal", "advocacy", "rights", "legislation", "activist"]
 
 ---
 
-[Kids Win Missouri](#kids-win-missouri) | [Missouri Disability Empowerment](#missouri-disability-empowerment) | [People First of Missouri](#people-first-of-missouri) | [Project STIR](#project-stir) | [Self-Advocacy](#self-advocacy)
+[ADA Live Podcast](#ada-live-podcast) | [Kids Win Missouri](#kids-win-missouri) | [Missouri Disability Empowerment](#missouri-disability-empowerment) | [People First of Missouri](#people-first-of-missouri) | [Project STIR](#project-stir) | [Self-Advocacy](#self-advocacy)
+
+---
+
+## ADA Live Podcast
+
+ADA Live! is a free monthly show broadcast nationally on the Internet. Learn about your rights and responsibilities under the Americans with Disabilities Act (ADA). Leaders in the field will share their knowledge, experience, and successful strategies that increase the participation of persons with disabilities in communities and businesses.
 
 ---
 

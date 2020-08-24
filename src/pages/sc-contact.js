@@ -110,7 +110,7 @@ const SCContact = () => (
               Phone: <a href="tel:1-417-830-0884">(417) 830-0884</a>
             </p>
           </div>
-          {/* <div className="line-break"></div>
+          <div className="line-break"></div>
           <div className="contact-start">
             <img
               src="https://res.cloudinary.com/wcpartners/image/upload/v1597329662/amber_profile_mzo3b2.png"
@@ -128,7 +128,7 @@ const SCContact = () => (
               <br />
               Phone: <a href="tel:1-417-630-9963">(417) 630-9963</a>
             </p>
-          </div> */}
+          </div>
         </div>
       </main>
       <Footer />
