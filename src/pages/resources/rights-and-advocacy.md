@@ -8,7 +8,7 @@ tags: ["legal", "advocacy", "rights", "legislation", "activist"]
 
 ---
 
-[ADA Live Podcast](#ada-live-podcast) | [Kids Win Missouri](#kids-win-missouri) | [Missouri Disability Empowerment](#missouri-disability-empowerment) | [People First of Missouri](#people-first-of-missouri) | [Project STIR](#project-stir) | [Self-Advocacy](#self-advocacy)
+[ADA Live Podcast](#ada-live-podcast) | [Kids Win Missouri](#kids-win-missouri) | [Missouri Developmental Disability Council](#missouri-developmental-disability-council) | [Missouri Disability Empowerment](#missouri-disability-empowerment) | [People First of Missouri](#people-first-of-missouri) | [Project STIR](#project-stir) | [Self-Advocacy](#self-advocacy)
 
 ---
 
@@ -23,6 +23,14 @@ ADA Live! is a free monthly show broadcast nationally on the Internet. Learn abo
 Kids Win Missouri is a coalition of organizations and individuals dedicated to improving the well-being of Missouri children. With a mission to further child well-being by advancing the health, education, safety and development of Missouri children and their families, especially those who are at-risk because of poverty, abuse, neglect, racial inequities or other risk factors.
 
 Learn more here: http://kidswinmissouri.org/about/
+
+---
+
+## Missouri Developmental Disability Council
+
+The Council's Mission is: "To assist the community to include all people with developmental disabilities in every aspect of life." The Council is consumer driven and the members are appointed by the governor to plan, advocate for, and give advice concerning programs and services for persons with developmental disabilities that will increase their opportunities for independence, productivity, and integration into communities.
+
+Learn more here: https://moddcouncil.org/
 
 ---
 
