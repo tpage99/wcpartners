@@ -10,7 +10,7 @@ tags: exempt
 
 ## Music Therapy
 
-Starting Wednesday, September 2, 2020, WC Partners will resume in-person music therapy classes. These classes are provided at no cost to individuals receiving services with WC Partners. To sign up, [please click here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UMThXVDBSNk43OFg1RVI3MVNFVVA4VVk5VS4u).
+Current Music Therapy sessions started Wednesday, September 2, 2020. These classes are provided at no cost to individuals receiving services with WC Partners. Classes for the current 8-week session are at capacity, but if you are interested in finding out about future sessions or want to sign up to be placed on waitlist, [please click here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UMDNZUTZNTFlSU1pJRURIUkVPOFNKTkVUVi4u).
 
 To learn more about music therapy and WC Partners' collaboration with the Center for Music Therapy and Wellness, please go here: [WC Partners and Center for Music Therapy and Wellness](/events/music-therapy)
 
