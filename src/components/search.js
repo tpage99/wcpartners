@@ -45,16 +45,11 @@ export default class Search extends Component {
                 backgroundColor: `white`,
               }}
             >
-              <Link
-                to={"/" + page.path}
-                style={{
-                  color: `black`,
-                  textDecoration: `none`,
-                }}
-              >
+              {/* Link to should start with just slash in quotes but had to add domain after Link seems to be broken */}
+              <Link to={"https://www.wc-partners.net/" + page.path}>
                 {page.title}
-                {": " + page.tags.join(`, `)}
               </Link>
+              {": " + page.tags.join(`, `)}
             </li>
           ))}
         </ul>

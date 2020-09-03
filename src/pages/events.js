@@ -12,6 +12,8 @@ import Arcade from "../components/arcadeImg"
 import Signup from "../components/signup"
 import Headline from "../components/headline"
 
+import EventsPaused from "../components/eventsPaused"
+
 const Events = ({ data }) => (
   <Fragment>
     <Headline />
@@ -51,6 +53,8 @@ const Events = ({ data }) => (
         page.
       </p>
       <Signup />
+      <EventsPaused />
+
       <ul style={{ listStyle: `none` }}>
         {data.allEventsJson.edges.map(event => (
           <li className="event-box" key={event.node.id}>

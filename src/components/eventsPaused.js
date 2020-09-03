@@ -8,15 +8,20 @@ export default class signup extends Component {
         <hr />
         <h1>Live Events on Hold Due to COVID-19</h1>
         <p>
-          At this time, our in-person events have been put on hold while
-          following social distancing and best-practice orders from state and
-          federal officials. Please know that we are working to get more
-          information on how we can host virtual events or work with providers
-          to link individuals and families to telehealth services.
+          At this time, our in-person events have been put on hold due to being
+          under a remote monitoring services only advisory from DMH. You can
+          learn more about this advisory and the status of which counties are
+          considered "remote-only" for services{" "}
+          <a href="https://dmh.mo.gov/dev-disabilities/covid-19-information/county-status">
+            here
+          </a>
+          . Contact your Support Coordinator
         </p>
         <p>
           Please <Link to="/sc-contact">contact your Support Coordinator</Link>{" "}
-          or <Link to="/contact">the office</Link> with further questions
+          or <Link to="/contact">the office</Link> if you have questions or for
+          information on virtual events and our work with providers linking
+          individuals and families to telehealth services.
         </p>
         <p>
           For information and resources on COVID-19, please visit our dedicated{" "}

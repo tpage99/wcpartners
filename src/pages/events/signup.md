@@ -10,7 +10,9 @@ tags: exempt
 
 ## Music Therapy
 
-Current Music Therapy sessions started Wednesday, September 2, 2020. These classes are provided at no cost to individuals receiving services with WC Partners. Classes for the current 8-week session are at capacity, but if you are interested in finding out about future sessions or want to sign up to be placed on waitlist, [please click here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UMDNZUTZNTFlSU1pJRURIUkVPOFNKTkVUVi4u).
+Classes did start for this session in-person, however the Department of Mental Health  placed Webster County on a remote monitoring services only advisory effective September 2, 2020. To learn more about this advisory and the current status for counties across Missouri, visit [DMH's dedicated webpage](https://dmh.mo.gov/dev-disabilities/covid-19-information/county-status) for this information.
+
+Current Music Therapy sessions started Wednesday, September 2, 2020. These classes are provided at no cost to individuals receiving services with WC Partners. Classes for the current 8-week session are at capacity, but if you are interested in finding out about future sessions or want to sign up to be placed on waitlist, [please visit our sign-up form here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UMDNZUTZNTFlSU1pJRURIUkVPOFNKTkVUVi4u).
 
 To learn more about music therapy and WC Partners' collaboration with the Center for Music Therapy and Wellness, please go here: [WC Partners and Center for Music Therapy and Wellness](/events/music-therapy)
 
