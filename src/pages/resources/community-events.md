@@ -36,24 +36,24 @@ The Missouri Developmental Disabilities Council is hosting a public listening se
 
 ## October 2020
 
-No known events at this time. Please contact us for informatoin about events and/or webinars to be posted.
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
 
 ---
 
 ## November 2020
 
-No known events at this time. Please contact us for informatoin about events and/or webinars to be posted.
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
 
 ---
 
 ## December 2020
 
-No known events at this time. Please contact us for informatoin about events and/or webinars to be posted.
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
 
 ---
 
 ## 2021
 
-No known events at this time. Please contact us for informatoin about events and/or webinars to be posted.
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
 
 ---
