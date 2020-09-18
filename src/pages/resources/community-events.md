@@ -70,7 +70,13 @@ Upon completion of a five-step follow-up program, participants will receive a ce
 
 ## November 2020
 
-No known events at this time. Please contact us for information about events and/or webinars to be posted.
+### Bear POWER Open House
+
+_Saturday, November 7 from 9am to 12pm_
+
+The Bear POWER Fall Open House date is being moved to Saturday, November 7th! The event is free and will be held via Zoom - includes a program presentation, student panel, Ambassador panel, faculty panel, and plenty of time for questions and answers.
+
+This event is open to prospective students, families, and educators! You can register for this event online here: https://www.missouristate.edu/BearPOWER/openhouse.htm
 
 ---
 
