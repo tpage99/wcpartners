@@ -3,7 +3,6 @@ import { graphql } from "gatsby"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 import HeroHeader from "../components/Navbar/heroHeader"
-import Footer from "../components/footer"
 
 export default function eventTemplate({ data }) {
   const { markdownRemark: event } = data
@@ -16,7 +15,6 @@ export default function eventTemplate({ data }) {
         <Layout>
           <h1>{event.frontmatter.title}</h1>
           <div dangerouslySetInnerHTML={{ __html: event.html }} />
-          <Footer />
         </Layout>
       </main>
     </Fragment>

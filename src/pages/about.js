@@ -4,7 +4,6 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
-import Footer from "../components/footer"
 import ArtImage from "../components/artImage"
 import Headline from "../components/headline"
 
@@ -134,7 +133,6 @@ const About = () => (
           <li>Christmas Day (December 25)</li>
         </ul>
       </div>
-      <Footer />
     </Layout>
   </Fragment>
 )

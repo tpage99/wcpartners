@@ -3,7 +3,6 @@ import React, { Fragment } from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
-import Footer from "../components/footer"
 
 const SCContact = () => (
   <Fragment>
@@ -131,7 +130,6 @@ const SCContact = () => (
           </div>
         </div>
       </main>
-      <Footer />
     </Layout>
   </Fragment>
 )

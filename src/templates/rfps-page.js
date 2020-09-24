@@ -4,7 +4,6 @@ import { graphql } from "gatsby"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 import HeroHeader from "../components/Navbar/heroHeader"
-import Footer from "../components/footer"
 
 export default function rfpsTemplate({ data }) {
   const { markdownRemark: rfps } = data
@@ -24,7 +23,6 @@ export default function rfpsTemplate({ data }) {
           </h1>
           <hr />
           <div dangerouslySetInnerHTML={{ __html: rfps.html }} />
-          <Footer />
         </Layout>
       </main>
     </Fragment>

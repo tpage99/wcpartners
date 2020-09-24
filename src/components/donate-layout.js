@@ -1,10 +1,9 @@
 import React from "react"
 import Footer from "./footer"
-import Donations from "./donate-section"
 
 import "./layout.css"
 
-const Layout = ({ children }) => (
+const DonateLayout = ({ children }) => (
   <div
     style={{
       margin: `0 auto`,
@@ -14,10 +13,9 @@ const Layout = ({ children }) => (
   >
     <main>
       {children}
-      <Donations />
       <Footer />
     </main>
   </div>
 )
 
-export default Layout
+export default DonateLayout

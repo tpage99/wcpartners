@@ -14,7 +14,7 @@ export default class footer extends Component {
             paddingTop: `1.5rem`,
             paddingBottom: `40px`,
             borderTop: `1px solid #e2e2e6`,
-            madWidth: `1200`,
+            maxWidth: `1200`,
           }}
         >
           <p style={{ textAlign: `center` }}>
