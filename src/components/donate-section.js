@@ -42,7 +42,7 @@ export default class donateSection extends Component {
               individual or family who lives with a developmental disability.
             </p>
             <p>
-              <span className="donate-btn">
+              <span className="donate-link">
                 <Link to="/donate">Donate Today</Link>
               </span>
             </p>

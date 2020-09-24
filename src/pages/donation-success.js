@@ -5,17 +5,22 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
 
-const ContactSuccess = () => (
+const DonationSuccess = () => (
   <Fragment>
     <HeroHeader />
-    <SEO title="Success" />
+    <SEO title="Donation Successfully Completed" />
     <Layout>
       <div style={{ margin: `10rem auto` }}>
         <h1 style={{ textAlign: `center` }}>
-          Your Form Was Successfully Submitted!
+          Thank You for Partnering With Us!
         </h1>
         <p>
-          Thank you for contacting us. Someone will reach out to you shortly.
+          Your donation is going to make the lives of someone better today! We
+          are grateful you have chosen to partner with us and we look forward to
+          helping better the lives of others with your contribution. You should
+          receive an email receipt for your donation.
+        </p>
+        <p>
           Until then, feel free to continue browsing our website by returning to
           the{" "}
           <span className="strong-link">
@@ -32,4 +37,4 @@ const ContactSuccess = () => (
   </Fragment>
 )
 
-export default ContactSuccess
+export default DonationSuccess
