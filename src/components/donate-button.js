@@ -37,10 +37,16 @@ const DonateButton = ({ product }) => {
 
   return (
     <div>
-      <form onSubmit={handleSubmit}>
+      <form
+        onSubmit={handleSubmit}
+        style={{
+          borderTop: `1px solid #e2e2e6`,
+          padding: `1rem`,
+        }}
+      >
         <fieldset style={{ border: "none" }}>
           <legend>
-            <h2>{product.name}</h2>
+            <h3>{product.name}</h3>
           </legend>
           <label>
             Amount{" "}

@@ -21,10 +21,6 @@ class DonatePage extends React.Component {
           <article>
             <h1>Donate</h1>
             <section>
-              <h2>
-                Help make today better for someone with a developmental
-                disability!
-              </h2>
               <div className="grid">
                 <div className="events-grid event-img">
                   <GameNight />
@@ -49,7 +45,11 @@ class DonatePage extends React.Component {
               <p>Even small donations are welcome and appreciated.</p>
               <p>All proceeds are tax deductible.</p>
             </section>
-            <section>
+            <section style={{ textAlign: `center` }}>
+              <h2>
+                Help make today better for someone with a developmental
+                disability!
+              </h2>
               <DonateItems />
             </section>
           </article>
