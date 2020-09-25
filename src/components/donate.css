@@ -1,0 +1,16 @@
+.buttonDisabledStyles {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.buttonStyle {
+  display: block;
+  font-size: 13px;
+  text-align: center;
+  color: #000;
+  padding: 12px;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.1);
+  background-color: rgb(255, 178, 56);
+  border-radius: 6px;
+  letter-spacing: 1.5px;
+}

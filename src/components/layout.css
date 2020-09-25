@@ -269,6 +269,14 @@ button {
   padding: 0.25rem 0.25rem;
 }
 
+.donate-link a,
+.donate-link a:link,
+.donate-link a:visited {
+  color: white;
+  background-color: #2d5b2d;
+  padding: 1rem;
+}
+
 .link-box {
   background: #2d5b2d;
   height: 200px;
@@ -352,7 +360,8 @@ form textarea {
   border: 1px solid #c1c1c4;
 }
 
-form button {
+form button,
+.donate-btn {
   background-color: #2d5b2d;
   color: #fff;
   font-weight: bold;

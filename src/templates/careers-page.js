@@ -4,7 +4,6 @@ import { graphql } from "gatsby"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 import HeroHeader from "../components/Navbar/heroHeader"
-import Footer from "../components/footer"
 
 export default function careersTemplate({ data }) {
   const { markdownRemark: careers } = data
@@ -20,7 +19,6 @@ export default function careersTemplate({ data }) {
             Disabled)
           </h1>
           <div dangerouslySetInnerHTML={{ __html: careers.html }} />
-          <Footer />
         </Layout>
       </main>
     </Fragment>

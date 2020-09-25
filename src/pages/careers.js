@@ -4,7 +4,6 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
-import Footer from "../components/footer"
 
 const CareerOpportunities = () => (
   <Fragment>
@@ -51,7 +50,6 @@ const CareerOpportunities = () => (
           </p>
         </section>
       </main>
-      <Footer />
     </Layout>
   </Fragment>
 )

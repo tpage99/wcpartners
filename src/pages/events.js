@@ -4,7 +4,6 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
-import Footer from "../components/footer"
 
 import GameNight from "../components/gameImg"
 import ArtClass from "../components/artClassImg"
@@ -95,7 +94,6 @@ const Events = ({ data }) => (
           </li>
         ))}
       </ul>
-      <Footer />
     </Layout>
   </Fragment>
 )

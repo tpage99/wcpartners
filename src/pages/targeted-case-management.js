@@ -3,7 +3,6 @@ import React, { Fragment } from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
-import Footer from "../components/footer"
 
 const TCM = () => (
   <Fragment>
@@ -98,7 +97,6 @@ const TCM = () => (
           </ol>
         </p>
       </main>
-      <Footer />
     </Layout>
   </Fragment>
 )

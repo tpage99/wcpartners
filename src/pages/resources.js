@@ -5,7 +5,6 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
 import QuickContact from "../components/quick-contact"
-import Footer from "../components/footer"
 import Search from "../components/searchBox"
 import Headline from "../components/headline"
 
@@ -112,7 +111,6 @@ const Resources = ({ data }) => (
         </section>
         <QuickContact />
       </main>
-      <Footer />
     </Layout>
   </Fragment>
 )
