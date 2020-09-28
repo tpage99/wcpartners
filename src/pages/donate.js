@@ -43,7 +43,6 @@ class DonatePage extends React.Component {
                 skills while attending an art class, or going to camp.
               </p>
               <p>Even small donations are welcome and appreciated.</p>
-              <p>All proceeds are tax deductible.</p>
             </section>
             <section style={{ textAlign: `center` }}>
               <h2>
