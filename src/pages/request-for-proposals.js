@@ -47,11 +47,11 @@ const RFP = ({ data }) => (
               </li>
             ))}
           </ul>
-          <p style={{ paddingTop: `2rem` }}>
+          {/* <p style={{ paddingTop: `2rem` }}>
             Thank you for your interest to work with WC Partners. At this time,
             there are no requests for proposals being accepted at this time.
             Future RFPs will be posted on this page.
-          </p>
+          </p> */}
         </section>
       </main>
     </Layout>

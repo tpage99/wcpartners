@@ -25,22 +25,17 @@ export default class rfpNotice extends Component {
           <strong>Notice to Bidders</strong>
         </p>
         <p>
-          The Webster County Senate Bill 40 Board is seeking sealed bids for the
-          purpose of Architectural Design for the design of WC Partners Agency
-          office building.
+          The WC Partners/Webster County Senate Bill 40 Board is seeking sealed
+          bids for the purpose of pre-construction services to work directly
+          with current Architectural Firm and WC Partners Executive Director in
+          preparation of construction of WC Partners new office location.
         </p>
         <p>
-          All bids shall be sealed and may be turned into WC Partners Office in
-          person, by mail, or by email to Executive Director Katrina Detherow.
-          Bids will no longer be accepted after 4:00pm August 3rd, 2020. The
-          Senate Bill 40 Board reserves the right to waive any informality or to
-          reject any and all bids.
-        </p>
-        <p>
-          For a complete description of the request for proposals please visit
+          All bids shall be received no later than 4:00pm on October 26, 2020.
+          For a complete description of the request for proposals, please visit
           our{" "}
           <span className="strong-link">
-            <Link to="/request-for-proposals">Request for proposals page</Link>
+            <Link to="/request-for-proposals">Request for Proposals page</Link>
           </span>
           .
         </p>

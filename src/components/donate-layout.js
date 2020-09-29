@@ -1,5 +1,6 @@
 import React from "react"
 import Footer from "./footer"
+import RFP from "./rfpNotice"
 
 import "./layout.css"
 
@@ -13,6 +14,7 @@ const DonateLayout = ({ children }) => (
   >
     <main>
       {children}
+      <RFP />
       <Footer />
     </main>
   </div>
