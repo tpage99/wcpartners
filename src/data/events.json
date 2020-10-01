@@ -1,14 +1,6 @@
 [
   {
     "title": "Music Therapy [Online]",
-    "date": "2020-09-30",
-    "time": "4-4:50pm or 5-5:50pm",
-    "description": "WC Partners has partnered with the Center for Music Therapy and Wellness to bring music therapy classes to Marshfield. Once a week, practitioners from the Center for Music Therapy and Wellness come and engage with individuals we serve to promote communication and interaction through music therapy.",
-    "url": "/events/sign-up#music-therapy",
-    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
-  },
-  {
-    "title": "Music Therapy [Online]",
     "date": "2020-10-07",
     "time": "4-4:50pm or 5-5:50pm",
     "description": "WC Partners has partnered with the Center for Music Therapy and Wellness to bring music therapy classes to Marshfield. Once a week, practitioners from the Center for Music Therapy and Wellness come and engage with individuals we serve to promote communication and interaction through music therapy.",
@@ -28,8 +20,16 @@
     "date": "2020-10-21",
     "time": "4-4:50pm or 5-5:50pm",
     "description": "WC Partners has partnered with the Center for Music Therapy and Wellness to bring music therapy classes to Marshfield. Once a week, practitioners from the Center for Music Therapy and Wellness come and engage with individuals we serve to promote communication and interaction through music therapy.",
-    "url": "/events/sign-up#music-therapy",
+    "url": "/events/sign-up#drive-thru-trick-or-treat",
     "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
+  },
+  {
+    "title": "Drive-Thru Trick-or-Treat",
+    "date": "2020-10-29",
+    "time": "3:30pm-5pm",
+    "description": "Trick-or-treat looks a little different this year thanks to Covid-19, but we would still love to see you and your costumes! WC Partners will be handing out treats at our office for individuals we serve. Please note if you are signed up for Virtual Online Bingo, you may only get one treat bag.",
+    "url": "/events/sign-up#virtual-halloween-bingo",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
   },
   {
     "title": "Virtual Halloween Bingo [Online]",

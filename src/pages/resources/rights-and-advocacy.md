@@ -8,7 +8,7 @@ tags: ["legal", "advocacy", "rights", "legislation", "activist"]
 
 ---
 
-[ADA Live Podcast](#ada-live-podcast) | [Kids Win Missouri](#kids-win-missouri) | [Missouri Developmental Disability Council](#missouri-developmental-disability-council) | [Missouri Disability Empowerment](#missouri-disability-empowerment) | [People First of Missouri](#people-first-of-missouri) | [Project STIR](#project-stir) | [Self-Advocacy](#self-advocacy)
+[ADA Live Podcast](#ada-live-podcast) | [Kids Win Missouri](#kids-win-missouri) | [Missouri Developmental Disability Council](#missouri-developmental-disability-council) | [Missouri Disability Empowerment](#missouri-disability-empowerment) | [Missouri Voter Preparedness](#missouri-voter-preparedness) | [People First of Missouri](#people-first-of-missouri) | [Project STIR](#project-stir) | [Self-Advocacy](#self-advocacy)
 
 ---
 
@@ -39,6 +39,14 @@ Learn more here: https://moddcouncil.org/
 Missouri Disability Empowerment (MoDE) advocates for change of policies and legislation which impact individuals with disabilities. While MoDE has one registered volunteer lobbyist in Missouri, many representing MoDE have taken their time to talk with lawmakers about the needs of individuals with disabilities. MoDE believes anyone can advocate and often it is a family affair!
 
 Learn more here: https://www.moempower.com/
+
+---
+
+## Missouri Voter Preparedness
+
+The Missouri Developmental Disabilities Council has created a voter preparedness video for the general election on November 3, 2020. It features several Missourians with disabilities discussing the importance of voting and includes important information about ensuring your vote counts. It can be viewed on YouTube at the links below.
+
+Watch the video on Youtube here: https://www.youtube.com/watch?v=jzw1XZh6yts&feature=youtu.be
 
 ---
 
