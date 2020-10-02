@@ -119,7 +119,6 @@ const About = () => (
         <ul>
           <li>New Year's Day (January 1)</li>
           <li>Martin Luther King, Jr. Day (3rd Monday in January)</li>
-          <li>Lincoln's Birthy (February 12)</li>
           <li>President's Day (February 15)</li>
           <li>Truman's Birthday (May 8)</li>
           <li>Memorial Day (Last Monday in May)</li>

@@ -238,6 +238,10 @@ In this time of uncertainty, it can be easy to feel nervous, scared and full of 
 
 The National Alliance on Mental Illness (NAMI) of Southwest Missouri is continuing to host support groups for panic, anxiety, OCD, depression, suicide survivors, and more. Please visit their Facebook for more information about participating in groups: https://www.facebook.com/NamiSwmo/
 
+### Show Me Hope Missouri
+
+Show Me Hope is Missouri’s crisis counseling program (CCP) in response to a disaster or critical event. Counselors are based in the local community to teach coping and stress management skills to anyone dealing with the anxiety and uncertainty caused by the event. The CCP helps individuals and communities recover from natural and human-caused disasters through community outreach and access to resources including mental health services. Learn more at https://www.moshowmehope.org/ or https://dmh.mo.gov/disaster-services/crisis-counseling-program
+
 ---
 
 ## Missouri Department of Mental Health
