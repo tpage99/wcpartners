@@ -8,7 +8,7 @@ tags: ["be my eyes", "seeing ai", "wc partners"]
 
 ---
 
-[Be My Eyes](#be-my-eyes) | [Seeing AI](#seeing-ai) | [WC Partners](#wc-partners)
+[Be My Eyes](#be-my-eyes) | [Otter AI](#otter-ai) | [Seeing AI](#seeing-ai) | [WC Partners](#wc-partners)
 
 ---
 
@@ -20,6 +20,16 @@ Instructions on how to get started found here: https://www.bemyeyes.com/get-star
 
 [Download Be My Eyes from Google Play for Android](https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes)  
 [Download Be My Eyes from the App Store for iPhone/iPad](https://itunes.apple.com/us/app/be-my-eyes-helping-blind-see/id905177575?mt=8)
+
+---
+
+## Otter AI
+
+Generate rich notes for meetings, interviews, lectures, and other important voice conversations with Otter, your AI-powered assistant.
+
+This app listens and transcribes conversations in real time so you can stay up-to-date with what's going on. This has been noted as being helpful for deaf and hard of hearing individuals who may need to know what their doctor is saying while they are wearing a mask. There are paid and free tiers. The app records conversations as well, in case individuals may need the assistance of clarifying information later for someone else who can interpret at a later time.
+
+Learn more at: https://otter.ai/
 
 ---
 
