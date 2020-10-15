@@ -1,14 +1,6 @@
 [
   {
     "title": "Music Therapy [Online]",
-    "date": "2020-10-14",
-    "time": "4-4:50pm or 5-5:50pm",
-    "description": "WC Partners has partnered with the Center for Music Therapy and Wellness to bring music therapy classes to Marshfield. Once a week, practitioners from the Center for Music Therapy and Wellness come and engage with individuals we serve to promote communication and interaction through music therapy.",
-    "url": "/events/sign-up#music-therapy",
-    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
-  },
-  {
-    "title": "Music Therapy [Online]",
     "date": "2020-10-21",
     "time": "4-4:50pm or 5-5:50pm",
     "description": "WC Partners has partnered with the Center for Music Therapy and Wellness to bring music therapy classes to Marshfield. Once a week, practitioners from the Center for Music Therapy and Wellness come and engage with individuals we serve to promote communication and interaction through music therapy.",
@@ -30,5 +22,13 @@
     "description": "WC Partners is hosting a Virtual Halloween Bingo! Dress up as your favorite or spookiest Halloween character for a virtual meetup where we will play bingo and there will be prizes. The meetup will be hosted online using Microsoft Teams (no account signup is necessary).",
     "url": "/events/sign-up#virtual-halloween-bingo",
     "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
+  },
+  {
+    "title": "Music Therapy [Online and In-Person]",
+    "date": "2020-11-01",
+    "time": "4-4:50pm or 5-5:50pm",
+    "description": "WC Partners has partnered with the Center for Music Therapy and Wellness to bring music therapy classes to Marshfield. Once a week, practitioners from the Center for Music Therapy and Wellness come and engage with individuals we serve to promote communication and interaction through music therapy. Next 8-week session starts in November and will be a hybrid class with 6 in-person seats and 4 virtual.",
+    "url": "/events/sign-up#music-therapy",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
   }
 ]

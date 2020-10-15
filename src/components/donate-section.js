@@ -22,8 +22,8 @@ export default class donateSection extends Component {
             className="event-img"
           >
             <img
-              src="https://res.cloudinary.com/wcpartners/image/upload/v1600957298/nathan-anderson-GM5Yn5XRVqA-unsplash_hnv6ta.jpg"
-              alt="young man with down syndrome hugging his mother with his father looking at them and smiling"
+              src="https://res.cloudinary.com/wcpartners/image/upload/v1602779090/donate_collage_et4scq.jpg"
+              alt="collage of individuals participating in wc partners events at christmas time and also in painting activities as well as two support coordinators"
             />
           </div>
           <div

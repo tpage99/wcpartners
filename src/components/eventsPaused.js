@@ -6,16 +6,16 @@ export default class signup extends Component {
     return (
       <section>
         <hr />
-        <h1>Live Events on Hold Due to COVID-19</h1>
+        <h1>In-Person Events on Hold or Modified Due to COVID-19</h1>
         <p>
-          At this time, our in-person events have been put on hold due to being
+          At this time, our in-person events have either been put on hold or modified due to being
           under a remote monitoring services only advisory from DMH. You can
           learn more about this advisory and the status of which counties are
           considered "remote-only" for services{" "}
           <a href="https://dmh.mo.gov/dev-disabilities/covid-19-information/county-status">
             here
           </a>
-          . Contact your Support Coordinator
+          .
         </p>
         <p>
           Please <Link to="/sc-contact">contact your Support Coordinator</Link>{" "}

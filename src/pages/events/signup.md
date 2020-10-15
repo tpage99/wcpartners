@@ -8,21 +8,6 @@ tags: exempt
 
 ---
 
-## Music Therapy
-
-Classes did start for this session in-person, however the Department of Mental Health placed Webster County on a remote monitoring services only advisory effective September 2, 2020. To learn more about this advisory and the current status for counties across Missouri, visit [DMH's dedicated webpage](https://dmh.mo.gov/dev-disabilities/covid-19-information/county-status) for this information.
-
-Current Music Therapy sessions started Wednesday, September 2, 2020. These classes are provided at no cost to individuals receiving services with WC Partners. Classes for the current 8-week session are at capacity, but if you are interested in finding out about future sessions or want to sign up to be placed on waitlist, [please visit our sign-up form here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UMDNZUTZNTFlSU1pJRURIUkVPOFNKTkVUVi4u).
-
-To learn more about music therapy and WC Partners' collaboration with the Center for Music Therapy and Wellness, please go here: [WC Partners and Center for Music Therapy and Wellness](/events/music-therapy)
-
-<div class="grid">
-<img src="https://res.cloudinary.com/wcpartners/image/upload/v1597156932/mtpromo-1_yo2jb6.png" alt="flyer for music therapy classes indicating times starting at 4pm and 5pm on september 2nd and located at WC Partners office" class="events2-grid event-img">
-<img src="https://res.cloudinary.com/wcpartners/image/upload/v1597156933/mtpromo-2_ncv4te.png" alt="2nd flyer for music therapy classes indicating benefits of music therapy and encouraging to sign up for classes by contacting support coordinator" class="events2-grid event-img">
-</div>
-
----
-
 ## Drive-Thru Trick-or-Treat
 
 Trick-or-treat looks a little different this year thanks to Covid-19, but we would still love to see you and your costumes! WC Partners will be handing out treats at our office for individuals we serve. Please note if you are signed up for Virtual Online Bingo, you may only get one treat bag.
@@ -50,3 +35,13 @@ Please sign-up for this event by providing your information on [our sign-up form
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UODNLTElYVTdXTFFSNjZOQllRSU5WMVkyQi4u" style="margin: 0 auto; border: solid gray; ">
 <img src="https://res.cloudinary.com/wcpartners/image/upload/v1599748738/Halloween-Bingo-Party-flyer_ijc9wb.jpg" alt="flyer for virtual halloween bingo indicating date is october 29 at 6pm via microsoft teams and people are encouraged to wear costumes"></a>
 </div>
+
+---
+
+## Music Therapy
+
+Our next Music Therapy 8-week session will start in November and will be a hybrid class with a limited amount of in-person seated participants and additional online participants (class total is capped at 10). In-person participants will need to follow mask and temperature screening protocols due to Covid-19 state of emergency.
+
+These classes are provided at no cost to individuals receiving services with WC Partners. To sign-up for this session or future sessions, [please visit our interest/waitlist form here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UMDNZUTZNTFlSU1pJRURIUkVPOFNKTkVUVi4u).
+
+To learn more about music therapy and WC Partners' collaboration with the Center for Music Therapy and Wellness, please go here: [WC Partners and Center for Music Therapy and Wellness](/events/music-therapy)
