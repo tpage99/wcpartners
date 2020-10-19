@@ -11,13 +11,13 @@ const News = ({ data }) => (
   <Fragment>
     <Headline />
     <HeroHeader />
-    <SEO title="News" />
+    <SEO title="News" description="Updates, media coverage, and accomplishments from WC Partners." />
     <Layout>
       <h1>WC Partners News</h1>
       <p>Accomplishments, updates, and media coverage for WC Partners.</p>
       <ul style={{ listStyle: `none` }}>
         {data.allMarkdownRemark.edges.map(news => (
-          <li className="event-box" key={news.node.frontmatter.id}>
+          <li className="event-box" key={news.node.id}>
             <div className="grid">
               <div
                 style={{

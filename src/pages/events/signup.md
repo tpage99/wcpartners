@@ -40,8 +40,8 @@ Please sign-up for this event by providing your information on [our sign-up form
 
 ## Music Therapy
 
-Our next Music Therapy 8-week session will start in November and will be a hybrid class with a limited amount of in-person seated participants and additional online participants (class total is capped at 10). In-person participants will need to follow mask and temperature screening protocols due to Covid-19 state of emergency.
+Our next Music Therapy 8-week session will start November 4th and will be online again due to the current guidance from DMH and local state and county officials. To learn more about music therapy and WC Partners' collaboration with the Center for Music Therapy and Wellness, please go here: [WC Partners and Center for Music Therapy and Wellness](/events/music-therapy).
 
-These classes are provided at no cost to individuals receiving services with WC Partners. To sign-up for this session or future sessions, [please visit our interest/waitlist form here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UMDNZUTZNTFlSU1pJRURIUkVPOFNKTkVUVi4u).
+These classes are provided at no cost to individuals receiving services with WC Partners. To sign-up for this session, [please visit our sign-up form here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UMThXVDBSNk43OFg1RVI3MVNFVVA4VVk5VS4u).
 
-To learn more about music therapy and WC Partners' collaboration with the Center for Music Therapy and Wellness, please go here: [WC Partners and Center for Music Therapy and Wellness](/events/music-therapy)
+If you have questions or difficulties with signing up, [contact your Support Coordinator](/sc-contact/).

@@ -10,7 +10,7 @@ export default function eventTemplate({ data }) {
   return (
     <Fragment>
       <HeroHeader />
-      <SEO title={event.frontmatter.title} />
+      <SEO title={event.frontmatter.title} description={event.frontmatter.description} />
       <main>
         <Layout>
           <h1>{event.frontmatter.title}</h1>
