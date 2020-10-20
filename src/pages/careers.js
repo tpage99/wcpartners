@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
 
-const CareerOpportunities = () => (
+const CareerOpportunities = ({data}) => (
   <Fragment>
     <HeroHeader />
     <SEO title="Career Opportunities" />
@@ -49,6 +49,42 @@ const CareerOpportunities = () => (
             be posted on this page.
           </p>
         </section>
+        <section style={{borderTop: `1px solid #e2e2e6`, maxWidth: `1200`,}}>
+          <h2 style={{textAlign: `center`, paddingTop: `1.5rem`, lineHeight: `2rem`}}>Interested in Work that is Fun, Life Changing, and Close to Home? Look No Further! Work with One of the Great Providers Serving Our Area Today!</h2>
+          <ul style={{ listStyle: `none` }}>
+        {data.allProvidersJson.edges.map(provider => (
+          <li className="event-box" key={provider.node.id}>
+            <div className="grid">
+              <div
+                style={{
+                  gridColumn: `span 4`,
+                  alignContent: `middle`,
+                  margin: `auto`
+                }}
+              >
+                <img
+                  src={provider.node.thumbnailImage}
+                  alt={provider.node.name + " logo"}
+                  style={{
+                    maxWidth: `75%`,
+                    maxHeight: `75%`,
+                    margin: `0 auto`,
+                    display: `flex`,
+                  }}
+                />
+              </div>
+              <div style={{ gridColumn: `span 8`, gridColumnEnd: `-1` }}>
+                <h3>{provider.node.name}{"   "}<strong style={{color: `white`, backgroundColor: `#2D5B2D`, padding: `0.3rem`, fontSize: `1rem`}}>Actively Hiring!</strong></h3>
+                <p>{provider.node.description}</p>
+                <p>
+                  You can learn more about this provider by <a href={provider.node.url}>visiting their job listings here.</a>
+                </p>
+              </div>
+            </div>
+          </li>
+        ))}
+      </ul>
+        </section>
       </main>
     </Layout>
   </Fragment>
@@ -68,6 +104,18 @@ export const jobPageQuery = graphql`
             title
             description
           }
+        }
+      }
+    }
+    allProvidersJson(sort: {fields: name, order: DESC}) {
+      edges {
+        node {
+          name
+          description
+          thumbnailImage
+          url
+          activelyHiring
+          id
         }
       }
     }
