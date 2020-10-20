@@ -5,5 +5,19 @@
       "url": "https://www.indeed.com/cmp/K&C-Stepping-Stones-1/jobs",
       "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1603204479/steppingstones_camoad.jpg",
       "activelyHiring": true
+    }, 
+    {
+    "name": "The Arc of the Ozarks",
+    "description": "The Arc of the Ozarks provides community-based, in-home, and residential supports.",
+    "url": "http://www.thearcoftheozarks.org/achievewithus",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1603216170/arc_logo_provided_auqrzu.jpg",
+    "activelyHiring": true
+    }, 
+    {
+    "name": "Self-Directed Supports",
+    "description": "The Self-Directed Support (SDS) program is a means by which individuals and/or their designated representative can become an employer to employ those who might work with them best. These supports can occur in the community and in the home.",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UNklUU1ZPV1ZVTEs0SUdIVDg4MVhPTDdLWi4u",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1600957298/nathan-anderson-GM5Yn5XRVqA-unsplash_hnv6ta.jpg",
+    "activelyHiring": true
     }
 ]

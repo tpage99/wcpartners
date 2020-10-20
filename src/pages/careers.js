@@ -8,7 +8,7 @@ import HeroHeader from "../components/Navbar/heroHeader"
 const CareerOpportunities = ({data}) => (
   <Fragment>
     <HeroHeader />
-    <SEO title="Career Opportunities" />
+    <SEO title="Career Opportunities" description="Career opportunities with WC Partners and links to providers working in the Marshfield area who also help support individuals and families with developmental disabilities who may be hiring." />
     <Layout>
       <main>
         <h1>Career Opportunities</h1>
@@ -44,8 +44,7 @@ const CareerOpportunities = ({data}) => (
             ))}
           </ul> */}
           <p style={{ paddingTop: `2rem` }}>
-            Thank you for your interest to work at WC Partners. At this time,
-            there are no available positions. Future career opportunities will
+            Thank you for your interest but at this time there are no available positions with WC Partners. Future career opportunities will
             be posted on this page.
           </p>
         </section>
@@ -107,7 +106,7 @@ export const jobPageQuery = graphql`
         }
       }
     }
-    allProvidersJson(sort: {fields: name, order: DESC}) {
+    allProvidersJson(sort: {fields: name, order: ASC}) {
       edges {
         node {
           name
