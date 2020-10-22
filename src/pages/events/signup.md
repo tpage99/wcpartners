@@ -35,13 +35,3 @@ Please sign-up for this event by providing your information on [our sign-up form
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UODNLTElYVTdXTFFSNjZOQllRSU5WMVkyQi4u" style="margin: 0 auto; border: solid gray; ">
 <img src="https://res.cloudinary.com/wcpartners/image/upload/v1599748738/Halloween-Bingo-Party-flyer_ijc9wb.jpg" alt="flyer for virtual halloween bingo indicating date is october 29 at 6pm via microsoft teams and people are encouraged to wear costumes"></a>
 </div>
-
----
-
-## Music Therapy
-
-Our next Music Therapy 8-week session will start November 4th and will be online again due to the current guidance from DMH and local state and county officials. Due to the holiday schedule, there will be no session on November 25th.
-
-These classes are provided at no cost to individuals receiving services with WC Partners. To sign-up for this session, [please visit our sign-up form here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UMThXVDBSNk43OFg1RVI3MVNFVVA4VVk5VS4u). To learn more about music therapy and WC Partners' collaboration with the Center for Music Therapy and Wellness, please visit our info page: [WC Partners and Center for Music Therapy and Wellness](/events/music-therapy).
-
-If you have questions or difficulties with signing up, [contact your Support Coordinator](/sc-contact/).
