@@ -8,7 +8,7 @@ import HeroHeader from "../components/Navbar/heroHeader"
 const CareerOpportunities = ({data}) => (
   <Fragment>
     <HeroHeader />
-    <SEO title="Career Opportunities" description="Career opportunities with WC Partners and links to providers working in the Marshfield area who also help support individuals and families with developmental disabilities who may be hiring." />
+    <SEO title="Career Opportunities" description="Career opportunities with WC Partners and jobs in the Marshfield area from providers who also help support individuals and families with developmental disabilities who are hiring." />
     <Layout>
       <main>
         <h1>Career Opportunities</h1>

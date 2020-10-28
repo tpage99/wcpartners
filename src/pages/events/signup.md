@@ -31,6 +31,8 @@ Join WC Partners online for a Virtual Halloween Bingo! We'll be hosting a meetup
 
 Please sign-up for this event by providing your information on [our sign-up form here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UODNLTElYVTdXTFFSNjZOQllRSU5WMVkyQi4u) or clicking on the image below. You must sign-up by Thursday, October 15, to ensure we have enough supplies for everyone who wants to participate. If you have difficulties signing up online, please [contact your Support Coordinator](/sc-contact).
 
+If you signed up, you should have received an invite. If not, then you can join the meeting [by clicking here!](https://teams.microsoft.com/l/meetup-join/19%3adb1ac5ecabd14fa9ad79f8c550528cab%40thread.skype/1603893121586?context=%7b%22Tid%22%3a%22c57779ac-95f8-4c61-a908-28af74478666%22%2c%22Oid%22%3a%2296970250-59be-46af-a964-a5dbfe49da8f%22%7d).
+
 <div style="display: flex; max-width: 80%; min-width: 375px; margin: 0 auto; padding-bottom: 2rem">
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UODNLTElYVTdXTFFSNjZOQllRSU5WMVkyQi4u" style="margin: 0 auto; border: solid gray; ">
 <img src="https://res.cloudinary.com/wcpartners/image/upload/v1599748738/Halloween-Bingo-Party-flyer_ijc9wb.jpg" alt="flyer for virtual halloween bingo indicating date is october 29 at 6pm via microsoft teams and people are encouraged to wear costumes"></a>

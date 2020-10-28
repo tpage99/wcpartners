@@ -16,7 +16,7 @@ const Resources = ({ data }) => (
   <Fragment>
     <Headline />
     <HeroHeader />
-    <SEO title="Resources" />
+    <SEO title="Resources" description="Resources for individuals living in the Webster County area. Activities, online events, funding, accessible technology, Medicaid assistance, Food Stamps, and more." />
     <Layout>
       <main>
         <section>
