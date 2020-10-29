@@ -16,7 +16,7 @@ Come in costume and get a treat! Staff will be ready to give you some delicious 
 
 We will be handing out treats at the office from 3:30pm-5pm on Thursday, October 29th. Swing by and say hi!
 
-Please sign-up for this event by providing your information on [our sign-up form here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UM0JEWTVVWEtZVkFSMU0wRk5HUlRYRU9MRS4u) or clicking on the image below. Please sign-up by Thursday, October 22, to ensure we have enough supplies for everyone who wants to participate. If you have difficulties signing up online, please [contact your Support Coordinator](/sc-contact).
+Please [contact your Support Coordinator](/sc-contact) if you have additional questions.
 
 <div style="display: flex; max-width: 80%; min-width: 250px; margin: 0 auto;">
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UM0JEWTVVWEtZVkFSMU0wRk5HUlRYRU9MRS4u" style="margin: 0 auto;">
@@ -29,7 +29,7 @@ Please sign-up for this event by providing your information on [our sign-up form
 
 Join WC Partners online for a Virtual Halloween Bingo! We'll be hosting a meetup online using Microsoft Teams (no account signup is necessary) where individuals can dress up in their spookiest Halloween costume and play bingo with their friends. We will provide bingo cards and a Halloween treat to be picked up at our office the week before the event.
 
-Please sign-up for this event by providing your information on [our sign-up form here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UODNLTElYVTdXTFFSNjZOQllRSU5WMVkyQi4u) or clicking on the image below. You must sign-up by Thursday, October 15, to ensure we have enough supplies for everyone who wants to participate. If you have difficulties signing up online, please [contact your Support Coordinator](/sc-contact).
+Please [contact your Support Coordinator](/sc-contact) if you have additional questions.
 
 If you signed up, you should have received an invite. If not, then you can join the meeting [by clicking here!](https://teams.microsoft.com/l/meetup-join/19%3adb1ac5ecabd14fa9ad79f8c550528cab%40thread.skype/1603893121586?context=%7b%22Tid%22%3a%22c57779ac-95f8-4c61-a908-28af74478666%22%2c%22Oid%22%3a%2296970250-59be-46af-a964-a5dbfe49da8f%22%7d).
 

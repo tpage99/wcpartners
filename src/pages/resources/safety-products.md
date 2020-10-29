@@ -12,12 +12,15 @@ tags:
     "smart911",
     "wallet card",
     "wearable gps devices",
+    "banks",
+    "scam",
+    "fraud",
   ]
 ---
 
 ---
 
-[Autism Moms Know Safety](#autism-moms-know-safety) | [Autism Speaks Safety Resources](#autism-speaks-safety-resources) | [Big Red Safety Box](#big-red-safety-box) | [If I Need Help](#if-i-need-help) | [Smart911](#smart911) | [Wallet Card](#wallet-card) | [Wearable GPS Devices](#wearable-gps-devices)
+[Autism Moms Know Safety](#autism-moms-know-safety) | [Autism Speaks Safety Resources](#autism-speaks-safety-resources) | [Banks Never Ask for That](#banks-never-ask-for-that) | [Big Red Safety Box](#big-red-safety-box) | [If I Need Help](#if-i-need-help) | [Smart911](#smart911) | [Wallet Card](#wallet-card) | [Wearable GPS Devices](#wearable-gps-devices)
 
 ---
 
@@ -34,6 +37,14 @@ Learn more at: https://www.autismmomsknowsafety.com/safety-kit
 Autism Speaks is dedicated to promoting solutions, across the spectrum and throughout the life span, for the needs of individuals with autism and their families through advocacy and support; increasing understanding and acceptance of people with autism spectrum disorder; and advancing research into causes and better interventions for autism spectrum disorder and related conditions.
 
 Many of the resources mentioned here are referenced from the Autism Speaks website. There are many other options on here, including paid resources. Learn more information here: https://www.autismspeaks.org/safety-products-and-services
+
+---
+
+## Banks Never Ask for That
+
+With people being home more, scams are at an all-time high. Many scammers attempt to call and impersonate your bank or credit card company to get you to give them information to access your account. That's why the American Bankers Association created the helpful website [Banks Never Ask for That](https://www.banksneveraskthat.com/).
+
+Learn more about this resource providing helpful information on what banks will not ask for and how to identify scams by email or phone. Visit their website: https://www.banksneveraskthat.com/
 
 ---
 

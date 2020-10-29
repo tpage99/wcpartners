@@ -8,7 +8,7 @@ tags: ["achieve", "bear power", "mpact"]
 
 ---
 
-[Achieve](#achieve) | [Bear Power](#bear-power) | [Distance Learning and Form G](#distance-learning-and-form-g) | [MPACT](#mpact)
+[Achieve](#achieve) | [Bear Power](#bear-power) | [Distance Learning and Form G](#distance-learning-and-form-g) | [Missouri Statewide Parent Involvement Network](#mospin) | [MPACT](#mpact)
 
 ---
 
@@ -39,6 +39,14 @@ To learn more, visit their website: https://www.missouristate.edu/bearpower/
 The Missouri Department of Elementary and Secondary Education has prepared additional education materials for parents and guardians who now bear more responsibility than ever for the educational success of their children through online or distance learning. Parents, who are working to understand and keep up with all of the changes in the current school climate, have asked DESE to provide guidance by answering some key questions about getting IEPs ready to meet students’ needs as schools reopen. Special Education Compliance staff members used questions provided by parents through a variety of sources to develop two new parent resources.
 
 See the link here: https://dese.mo.gov/special-education/compliance/parent-information
+
+---
+
+## MoSPIN
+
+The purpose of the Missouri Statewide Parent Involvement Network (MoSPIN) is to provide a free homebased program for families of children, birth through five years of age, who are visually impaired, including those with multiple disabilities and combined vision and hearing challenges. Services are coordinated with local education agencies, adult service providers and deafblind task forces to enhance networking and to build expertise in the community.
+
+To learn more, visit their website: https://msb.dese.mo.gov/outreach-services/mospin.html
 
 ---
 
