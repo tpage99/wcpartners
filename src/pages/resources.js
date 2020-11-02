@@ -8,10 +8,6 @@ import QuickContact from "../components/quick-contact"
 import Search from "../components/searchBox"
 import Headline from "../components/headline"
 
-import WCHealthUnit from "./resources/WC_Health_Unit_halloween.pdf"
-import Halloween from "./resources/Halloween-Other-Activities.pdf"
-import TrickOrTreat from "./resources/Trick-or-treating.pdf"
-
 const Resources = ({ data }) => (
   <Fragment>
     <Headline />
@@ -21,16 +17,6 @@ const Resources = ({ data }) => (
       <main>
         <section>
           <h1>Resources for Webster County</h1>
-          <article>
-          <h2>
-            Halloween Activities and Resources 
-          </h2>
-          <ul>
-            <li><Link href={WCHealthUnit}>Statement from Webster County Health Unit</Link></li>
-            <li><Link href={Halloween}>Halloween activities recommendations from CDC</Link></li>
-            <li><Link href={TrickOrTreat}>Trick-or-treating guidelines from CDC</Link></li>
-          </ul>
-          </article>
           <p>
             Most events and activities on the activity list have been canceled
             due to COVID-19. In order to help serve the individuals and families
@@ -58,7 +44,7 @@ const Resources = ({ data }) => (
               </li>
               <li>
                 For online educational activities{" "}
-                <Link to="/resources/covid-19#educational-resources-for-all-students">
+                <Link to="/resources/covid-19#educational-resources">
                   click here
                 </Link>
               </li>

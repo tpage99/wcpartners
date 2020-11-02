@@ -8,13 +8,23 @@ tags: ["legal", "advocacy", "rights", "legislation", "activist"]
 
 ---
 
-[ADA Live Podcast](#ada-live-podcast) | [Kids Win Missouri](#kids-win-missouri) | [Missouri Developmental Disability Council](#missouri-developmental-disability-council) | [Missouri Disability Empowerment](#missouri-disability-empowerment) | [Missouri Voter Preparedness](#missouri-voter-preparedness) | [People First of Missouri](#people-first-of-missouri) | [Project STIR](#project-stir) | [Self-Advocacy](#self-advocacy)
+[ADA Live Podcast](#ada-live-podcast) | [Election Protection](#election-protection) | [Kids Win Missouri](#kids-win-missouri) | [Missouri Developmental Disability Council](#missouri-developmental-disability-council) | [Missouri Disability Empowerment](#missouri-disability-empowerment) | [Missouri Voter Preparedness](#missouri-voter-preparedness) | [People First of Missouri](#people-first-of-missouri) | [Project STIR](#project-stir) | [Self-Advocacy](#self-advocacy)
 
 ---
 
 ## ADA Live Podcast
 
 ADA Live! is a free monthly show broadcast nationally on the Internet. Learn about your rights and responsibilities under the Americans with Disabilities Act (ADA). Leaders in the field will share their knowledge, experience, and successful strategies that increase the participation of persons with disabilities in communities and businesses.
+
+Visit their website to learn more: https://www.adalive.org/
+
+---
+
+## Election Protection
+
+The national, nonpartisan Election Protection coalition works year-round to ensure that all voters have an equal opportunity to vote and have that vote count. Made up of more than 100 local, state and national partners, Election Protection uses a wide range of tools and activities to protect, advance and defend the right to vote. Information on their website includes resources regarding rights of individuals with disabilities and voting.
+
+To learn more, visit their dedicated page for Missouri: https://866ourvote.org/state/missouri/
 
 ---
 

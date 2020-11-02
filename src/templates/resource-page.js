@@ -11,7 +11,7 @@ export default function Template({ data }) {
   return (
     <Fragment>
       <HeroHeader />
-      <SEO title={resource.frontmatter.title} />
+      <SEO title={resource.frontmatter.title} description={resource.frontmatter.description} />
       <main>
         <Layout>
           <h1>{resource.frontmatter.title} | Resources</h1>
