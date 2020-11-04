@@ -1,18 +1,10 @@
 [
   {
-    "title": "Drive-Thru Trick-or-Treat",
-    "date": "2020-10-29",
-    "time": "3:30pm-5pm",
-    "description": "Trick-or-treat looks a little different this year thanks to Covid-19, but we would still love to see you and your costumes! WC Partners will be handing out treats at our office for individuals we serve. Please note if you are signed up for Virtual Online Bingo, you may only get one treat bag.",
-    "url": "/events/sign-up#virtual-halloween-bingo",
-    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
-  },
-  {
-    "title": "Virtual Halloween Bingo [Online]",
-    "date": "2020-10-29",
-    "time": "6pm",
-    "description": "WC Partners is hosting a Virtual Halloween Bingo! Dress up as your favorite or spookiest Halloween character for a virtual meetup where we will play bingo and there will be prizes. The meetup will be hosted online using Microsoft Teams (no account signup is necessary).",
-    "url": "/events/sign-up#virtual-halloween-bingo",
+    "title": "Holiday Celebration",
+    "date": "2020-12-11",
+    "time": "12pm-5pm",
+    "description": "Join WC Partners for a Holiday Celebration! We'll be making crafts all while enjoying treats and holiday cheer! Both online and in-person participation is available. November 30th is the last day to sign-up.",
+    "url": "/events/sign-up#holiday-celebration",
     "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
   }
 ]

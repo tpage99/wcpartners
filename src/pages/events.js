@@ -10,6 +10,7 @@ import ArtClass from "../components/artClassImg"
 import Arcade from "../components/arcadeImg"
 import Headline from "../components/headline"
 
+import Signup from "../components/signup"
 import EventsPaused from "../components/eventsPaused"
 
 const Events = ({ data }) => (
@@ -50,8 +51,8 @@ const Events = ({ data }) => (
         </span>{" "}
         page.
       </p>
+      <Signup/>
       <EventsPaused />
-{/* 
       <ul style={{ listStyle: `none` }}>
         {data.allEventsJson.edges.map(event => (
           <li className="event-box" key={event.node.id}>
@@ -91,7 +92,7 @@ const Events = ({ data }) => (
             </div>
           </li>
         ))}
-      </ul> */}
+      </ul>
     </Layout>
   </Fragment>
 )
