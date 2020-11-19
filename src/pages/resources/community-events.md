@@ -40,11 +40,25 @@ The Bear POWER Fall Open House date is being moved to Saturday, November 7th! Th
 
 This event is open to prospective students, families, and educators! You can register for this event online here: https://www.missouristate.edu/BearPOWER/openhouse.htm
 
+### Springfield Park Board Ceramics
+
+The Springfield Park Board is hosting various accessible Ceramics activities, including drive-thru ceramics, in the months of November and December 2020. Visit their website to learn more and how to sign-up: https://www.parkboard.org/335/Adult-Programs
+
 ---
 
 ## December 2020
 
-No known events at this time. Please contact us for information about events and/or webinars to be posted.
+### Santa Clause is Coming to Town!
+
+_Thursday, December 17 from 6:00pm-7:00pm via Zoom_
+
+Easterseals will be hosting an evening of holiday fun! Crafts, Games, Santa Visits, & More! You must RSVP by Friday, December 4 due to limited slots available. Participants must have an active Southwest Missouri Autism Project (SWAP) authorization to sign up. If you need help signing up, contact your Support Coordinator.
+
+To RSVP, email or call Becky Cliffton Hopkins at [becky.clifftonhopkins@esmw.org](mailto:becky.clifftonhopkins@esmw.org) or [(417) 459-6833](tel:4174596833).
+
+### Springfield Park Board Ceramics
+
+The Springfield Park Board is hosting various accessible Ceramics activities, including drive-thru ceramics, in the months of November and December 2020. Visit their website to learn more and how to sign-up: https://www.parkboard.org/335/Adult-Programs
 
 ---
 
