@@ -1,7 +1,7 @@
 ---
 path: "/resources/covid-19"
 title: "COVID-19"
-description: "Information and resources regarding the coronavirus (COVID-19) epidemic."
+description: "Information and resources regarding the coronavirus (COVID-19) pandemic."
 category: "resource"
 tags:
   [
@@ -83,6 +83,7 @@ Learn more here: https://health.mo.gov/living/healthcondiseases/communicable/nov
 - [Preparing for Coronavirus (COVID-19) and Influenza: Free Online Training & Resources](https://www.relias.com/topic/coronavirus?utm_source=marketo-em&utm_medium=email&utm_campaign=pac_em_2020-03-18_coronavirus-resources-march&mkt_tok=eyJpIjoiTkdFd01EWTFNelU1TlRFNCIsInQiOiJlS1haOGR0bUFTY3dkbHN5UGpQSXVRaFdrUmpycEp1K25VUm1LQThNMmZudnZKU2VHXC9YWWdBQUh0bmJNa3VRNGZOTFVGbndHYTk4U3ltWTdyWDArZU96WWxjWG9GRnE3dGRWdlRWUW9VUkRFNE5JcEV2cU9wZ2c5d2tpYlg5eUUifQ==)
 - [Plain Language Resources from UMKC's Institute for Human Development](https://ihd.umkc.edu/plain-language-covid-19-resources/)
 - [COVID-19 Coronavirus and Autism Resources from Autism Parenting Magazine](https://www.autismparentingmagazine.com/coronavirus-and-autism/)
+- [COVID-19 helpline for individuals, families and caregivers - Project Connect](https://www.disabilityscoop.com/2020/12/03/pandemic-helpline-launches-for-people-with-idd-caregivers/29105/)
 
 ### Children and COVID-19
 

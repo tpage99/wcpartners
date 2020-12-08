@@ -13,13 +13,13 @@ import Headline from "../components/headline"
 import Signup from "../components/signup"
 import EventsPaused from "../components/eventsPaused"
 
-const Events = ({ data }) => (
+const Activities = ({ data }) => (
   <Fragment>
     <Headline />
     <HeroHeader />
-    <SEO title="Events" />
+    <SEO title="Activities" />
     <Layout>
-      <h1>WC Partners Events</h1>
+      <h1>WC Partners Activities</h1>
       <div className="grid">
         <div className="events-grid event-img">
           <GameNight />
@@ -31,28 +31,32 @@ const Events = ({ data }) => (
           <Arcade />
         </div>
       </div>
+
+      <section className="address-grid">
+        <div style={{ margin: `1rem auto` }}>
+          <a
+            href="/activities#events"
+            className="feature-btn"
+          ><span className="big-btn">WC Partners Activities</span></a>
+          <p style={{marginTop: `1.5rem`, padding: `1rem 1.3rem 0 0`}}>
+            These events, groups, activities, or classes are hosted by WC Partners' and take place at our office or online.
+          </p>
+        </div>
+        <div style={{ margin: `1rem auto` }}>
+          <Link
+            to="/resources/community-activities/"
+            className="feature-btn"><span className="big-btn">Community Activities</span></Link>
+          <p style={{marginTop: `1.5rem`, paddingTop: `1rem`}}>
+          Listing of open community activities, events, classes, or groups for individuals with developmental disabilities and their families within and around the Webster County area or online.
+          </p>
+        </div>
+      </section>
       <p>
         Events listed below are hosted at WC Partners' office, unless otherwise
         noted. Some events may require prior registration. Contact your Support
         Coordinator for additional information.
       </p>
-      <p>
-        For more information about other local events see our{" "}
-        <span className="strong-link">
-          <Link to="/resources/community-events/">Community Events</Link>
-        </span>{" "}
-        page.{" "}
-      </p>
-      <p>
-        For more information about activities in the community, see our activity
-        list located at the top of the{" "}
-        <span className="strong-link">
-          <Link to="/resources/">Resources</Link>
-        </span>{" "}
-        page.
-      </p>
-      <Signup/>
-      <EventsPaused />
+      <h2 style={{textAlign: `center`, fontSize: `2.2rem`, padding: `1.5rem 0`}} id="events">List of WC Partners Activities</h2>
       <ul style={{ listStyle: `none` }}>
         {data.allEventsJson.edges.map(event => (
           <li className="event-box" key={event.node.id}>
@@ -93,6 +97,8 @@ const Events = ({ data }) => (
           </li>
         ))}
       </ul>
+      <Signup/>
+      <EventsPaused />
     </Layout>
   </Fragment>
 )
@@ -115,4 +121,4 @@ export const eventListQuery = graphql`
   }
 `
 
-export default Events
+export default Activities

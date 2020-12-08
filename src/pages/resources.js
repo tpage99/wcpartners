@@ -50,17 +50,12 @@ const Resources = ({ data }) => (
               </li>
             </ul>
           </p>
-          <div style={{ margin: `2rem 0` }}>
+          <div style={{ margin: `2rem 0`, padding: `1.5rem 0` }}>
             <Link
               to="/resources/covid-19"
-              style={{
-                color: `#fff`,
-                fontSize: `2.5rem`,
-                fontWeight: `bold`,
-                lineHeight: `2.5rem`,
-              }}
+              className="feature-btn"
             >
-              <button className="big-btn">All COVID-19 Resources</button>
+              <span className="big-btn">All COVID-19 Resources</span>
             </Link>
           </div>
         </section>

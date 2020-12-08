@@ -1,7 +1,7 @@
 ---
 path: "/events/sign-up"
-title: "Sign-Up for WC Partners Events"
-description: "Sign-up for events hosted by WC Partners."
+title: "Sign-Up for WC Partners Activities"
+description: "Sign-up for activities, events, groups, or classes hosted by WC Partners."
 category: "events"
 tags: exempt
 ---
