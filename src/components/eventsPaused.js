@@ -6,7 +6,7 @@ export default class signup extends Component {
     return (
       <section>
         <hr />
-        <h1>In-Person Events on Hold or Modified Due to COVID-19</h1>
+        <h2 style={{textAlign: `center`}}>In-Person Events on Hold or Modified Due to COVID-19</h2>
         <p>
           At this time, our in-person events have either been put on hold or modified due to being
           under a remote monitoring services only advisory from DMH. You can

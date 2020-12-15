@@ -8,9 +8,9 @@ tags: exempt
 
 ---
 
-<!-- We do not have any events going on at the moment, but hope to be able to start hosting again soon! Continue to check our website for up-to-date information on events and resources. -->
+We do not have any events going on at the moment, but hope to be able to start hosting again soon! Continue to check our website for up-to-date information on events and resources.
 
-# Holiday Celebration
+<!-- # Holiday Celebration
 
 Join WC Partners for a Holiday Celebration! We'll be making crafts all while enjoying treats and holiday cheer!
 
@@ -20,6 +20,6 @@ For in-person participation, masks will be required and gloves will be provided.
 
 Deadline to apply is November 30, 2020 to ensure we have sufficient supplies available. [Sign-up here](https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UQ0VQWURROVBRUEQwMTZKSTgxSTc1N0dVMC4u) or click the image below.
 
-<div style="display: flex; max-width: 80%; min-width: 375px; margin: 0 auto; padding-bottom: 2rem">	
+<div style="display: flex; max-width: 80%; min-width: 375px; margin: 0 auto; padding-bottom: 2rem">
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UQ0VQWURROVBRUEQwMTZKSTgxSTc1N0dVMC4u" style="margin: 0 auto;">
-<img src="https://res.cloudinary.com/wcpartners/image/upload/v1604509840/holiday-celebration-event_kdcxg2.jpg" alt="flyer for holiday celebration event on december 11"></a></div>
+<img src="https://res.cloudinary.com/wcpartners/image/upload/v1604509840/holiday-celebration-event_kdcxg2.jpg" alt="flyer for holiday celebration event on december 11"></a></div> -->

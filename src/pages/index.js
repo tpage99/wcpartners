@@ -4,11 +4,9 @@ import { Link } from "gatsby"
 import HeroNav from "../components/Navbar/heroNav"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
-import Headline from "../components/headline"
 
 const IndexPage = () => (
   <Fragment>
-    <Headline />
     <HeroNav />
     <SEO title="Home" />
     <div className="slant-bg">

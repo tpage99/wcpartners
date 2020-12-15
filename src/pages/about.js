@@ -5,11 +5,9 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
 import ArtImage from "../components/artImage"
-import Headline from "../components/headline"
 
 const About = () => (
   <Fragment>
-    <Headline />
     <HeroHeader />
     <SEO title="About" />
     <Layout>

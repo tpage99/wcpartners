@@ -6,11 +6,9 @@ import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
 import QuickContact from "../components/quick-contact"
 import Search from "../components/searchBox"
-import Headline from "../components/headline"
 
 const Resources = ({ data }) => (
   <Fragment>
-    <Headline />
     <HeroHeader />
     <SEO title="Resources" description="Resources for individuals living in the Webster County area. Activities, online events, funding, accessible technology, Medicaid assistance, Food Stamps, and more." />
     <Layout>

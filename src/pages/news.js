@@ -5,11 +5,8 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroHeader from "../components/Navbar/heroHeader"
 
-import Headline from "../components/headline"
-
 const News = ({ data }) => (
   <Fragment>
-    <Headline />
     <HeroHeader />
     <SEO title="News" description="Updates, media coverage, and accomplishments from WC Partners." />
     <Layout>

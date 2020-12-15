@@ -3,7 +3,6 @@ import React, { Fragment } from "react"
 import HeroNav from "../components/Navbar/heroNav"
 import SEO from "../components/seo"
 import DonateLayout from "../components/donate-layout"
-import Headline from "../components/headline"
 import GameNight from "../components/gameImg"
 import ArtClass from "../components/artClassImg"
 import Arcade from "../components/arcadeImg"
@@ -14,7 +13,6 @@ class DonatePage extends React.Component {
   render() {
     return (
       <Fragment>
-        <Headline />
         <HeroNav />
         <SEO title="Donate" />
         <DonateLayout>
