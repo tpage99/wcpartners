@@ -1,6 +1,7 @@
 import React from "react"
 import Footer from "./footer"
 import Donations from "./donate-section"
+import Hiring from "./wereHiring"
 
 import "./layout.css"
 
@@ -14,6 +15,7 @@ const Layout = ({ children }) => (
   >
     <main>
       {children}
+      <Hiring />
       <Donations />
       <Footer />
     </main>
