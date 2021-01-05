@@ -16,27 +16,83 @@ For more information about virtual tours, activities, and resources see our [COV
 
 ## 2020
 
-[December](#december-2020) | [2021](#2021)
+[January](#january) | [February](#february) | [March](#march) | [April](#april) | [May](#may) | [June](#june) | [July](#july) | [August](#august) | [September](#september) | [October](#october) | [November](#november) | [December](#december) |
 
 ---
 
-## December 2020
+## January
 
-### Santa Clause is Coming to Town!
-
-_Thursday, December 17 from 6:00pm-7:00pm via Zoom_
-
-Easterseals will be hosting an evening of holiday fun! Crafts, Games, Santa Visits, & More! You must RSVP by Friday, December 4 due to limited slots available. Participants must have an active Southwest Missouri Autism Project (SWAP) authorization to sign up. If you need help signing up, contact your Support Coordinator.
-
-To RSVP, email or call Becky Cliffton Hopkins at [becky.clifftonhopkins@esmw.org](mailto:becky.clifftonhopkins@esmw.org) or [(417) 459-6833](tel:4174596833).
-
-### Springfield Park Board Ceramics
-
-The Springfield Park Board is hosting various accessible Ceramics activities, including drive-thru ceramics, in the months of November and December 2020. Visit their website to learn more and how to sign-up: https://www.parkboard.org/335/Adult-Programs
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
 
 ---
 
-## 2021
+## February
+
+### Night to Shine 2021
+
+_February 12, 2021 [Virtual]_
+
+Night to Shine 2021 is an unforgettable experience hosted by the Tim Tebow Foundation and will be virtual this year. High Street Church will be partnering with the foundation to create gift bags for every guest in the Springfield area who registers through this link: https://highstreet.churchcenter.com/people/forms/193462.
+
+All guests must register through their host church's link to receive access to the virtual event on February 12, 2021. Additional information will be sent to those who register. You can check out their Facebook page for more information: https://www.facebook.com/nighttoshinesgf
+
+---
+
+## March
+
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
+
+---
+
+## April
+
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
+
+---
+
+## May
+
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
+
+---
+
+## June
+
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
+
+---
+
+## July
+
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
+
+---
+
+## August
+
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
+
+---
+
+## September
+
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
+
+---
+
+## October
+
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
+
+---
+
+## November
+
+No known events at this time. Please contact us for information about events and/or webinars to be posted.
+
+---
+
+## December
 
 No known events at this time. Please contact us for information about events and/or webinars to be posted.
 

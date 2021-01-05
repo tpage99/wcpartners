@@ -10,6 +10,6 @@ WC Partners has partnered with the Center for Music Therapy and Wellness to brin
 
 Music therapy is an evidenced-based practice that utilizes music as a tool to address non-musical goals and objectives. Music therapy has been found to be effective in addressing skills with people with developmental disabilities of all ages, including improved social skills, improved emotional self-regulation, improved self-esteem, increased attention, improved cognitive functioning, and many more positive benefits.
 
-Classes are on Wednesdays and spots are limited, so [contact your Support Coordinator](/sc-contact/) in order to learn more or [click here to sign up for this class](/events/sign-up).
+Classes are on Wednesdays and spots are limited, so [contact your Support Coordinator](/sc-contact/) in order to learn more.
 
 If you'd like to learn more about the Center for Music Therapy and Wellness, you can visit their website: https://www.centerformusictherapyandwellness.com/

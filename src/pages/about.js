@@ -122,7 +122,7 @@ const About = () => (
           <li>Memorial Day (Last Monday in May)</li>
           <li>Independence Day (July 4)</li>
           <li>Labor Day (First Monday in September)</li>
-          <li>Columbus Day (October 12)</li>
+          <li>Columbus Day (October 11)</li>
           <li>Veteran's Day (November 11)</li>
           <li>Thanksgiving Day (Fourth Thursday of November)</li>
           <li>Day After Thanksgiving</li>

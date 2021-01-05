@@ -1,10 +1,74 @@
 [
   {
-    "title": "Holiday Celebration",
-    "date": "2020-12-11",
-    "time": "12pm-5pm",
-    "description": "Join WC Partners for a Holiday Celebration! We'll be making crafts all while enjoying treats and holiday cheer! Both online and in-person participation is available. November 30th is the last day to sign-up.",
-    "url": "/events/sign-up#holiday-celebration",
+    "title": "Board Meeting",
+    "date": "2021-01-12",
+    "time": "7pm",
+    "description": "The WC Partners SB40 Board will be holding a meeting to cover general information and progress, as well as to set the budget. This meeting is open to the public but part of the meeting will be a closed session.",
+    "url": "/about",
     "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
+  },
+  {
+    "title": "Music Therapy [Virtual]",
+    "date": "2021-01-13",
+    "time": "4:15pm-5:15pm",
+    "description": "Music therapy is for everyone! Join WC Partners and the Center for Music Therapy and Wellness for this virtual music therapy session. Classes are once per week. Contact your Support Coordinator to sign-up.",
+    "url": "/events/music-therapy",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
+  },
+  {
+    "title": "Music Therapy [Virtual]",
+    "date": "2021-01-20",
+    "time": "4:15pm-5:15pm",
+    "description": "Music therapy is for everyone! Join WC Partners and the Center for Music Therapy and Wellness for this virtual music therapy session. Classes are once per week. Contact your Support Coordinator to sign-up.",
+    "url": "/events/music-therapy",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
+  },
+  {
+    "title": "Music Therapy [Virtual]",
+    "date": "2021-01-27",
+    "time": "4:15pm-5:15pm",
+    "description": "Music therapy is for everyone! Join WC Partners and the Center for Music Therapy and Wellness for this virtual music therapy session. Classes are once per week. Contact your Support Coordinator to sign-up.",
+    "url": "/events/music-therapy",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
+  },
+  {
+    "title": "Music Therapy [Virtual]",
+    "date": "2021-02-03",
+    "time": "4:15pm-5:15pm",
+    "description": "Music therapy is for everyone! Join WC Partners and the Center for Music Therapy and Wellness for this virtual music therapy session. Classes are once per week. Contact your Support Coordinator to sign-up.",
+    "url": "/events/music-therapy",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
+  },
+  {
+    "title": "Music Therapy [Virtual]",
+    "date": "2021-02-10",
+    "time": "4:15pm-5:15pm",
+    "description": "Music therapy is for everyone! Join WC Partners and the Center for Music Therapy and Wellness for this virtual music therapy session. Classes are once per week. Contact your Support Coordinator to sign-up.",
+    "url": "/events/music-therapy",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
+  },
+  {
+    "title": "Music Therapy [Virtual]",
+    "date": "2021-02-17",
+    "time": "4:15pm-5:15pm",
+    "description": "Music therapy is for everyone! Join WC Partners and the Center for Music Therapy and Wellness for this virtual music therapy session. Classes are once per week. Contact your Support Coordinator to sign-up.",
+    "url": "/events/music-therapy",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
+  },
+  {
+    "title": "Music Therapy [Virtual]",
+    "date": "2021-02-24",
+    "time": "4:15pm-5:15pm",
+    "description": "Music therapy is for everyone! Join WC Partners and the Center for Music Therapy and Wellness for this virtual music therapy session. Classes are once per week. Contact your Support Coordinator to sign-up.",
+    "url": "/events/music-therapy",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
+  },
+  {
+    "title": "Music Therapy [Virtual]",
+    "date": "2021-03-03",
+    "time": "4:15pm-5:15pm",
+    "description": "Music therapy is for everyone! Join WC Partners and the Center for Music Therapy and Wellness for this virtual music therapy session. Classes are once per week. Contact your Support Coordinator to sign-up.",
+    "url": "/events/music-therapy",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
   }
 ]

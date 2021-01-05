@@ -54,7 +54,7 @@ const Activities = ({ data }) => (
         Coordinator for additional information.
       </p>
       <h2 style={{textAlign: `center`, fontSize: `2.2rem`, padding: `1.5rem 0`}} id="events">List of WC Partners Activities</h2>
-      {/* <ul style={{ listStyle: `none` }}>
+      <ul style={{ listStyle: `none` }}>
         {data.allEventsJson.edges.map(event => (
           <li className="event-box" key={event.node.id}>
             <div className="grid">
@@ -94,7 +94,7 @@ const Activities = ({ data }) => (
           </li>
         ))}
       </ul>
-      <Signup/> */}
+      {/* <Signup/> */}
       <EventsPaused />
     </Layout>
   </Fragment>
