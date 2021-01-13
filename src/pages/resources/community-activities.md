@@ -36,11 +36,29 @@ Night to Shine 2021 is an unforgettable experience hosted by the Tim Tebow Found
 
 All guests must register through their host church's link to receive access to the virtual event on February 12, 2021. Additional information will be sent to those who register. You can check out their Facebook page for more information: https://www.facebook.com/nighttoshinesgf
 
+### Missouri First Responder Advocacy Training
+
+_February 25, 2021 from 2:00pm to 4:00pm [Virtual]_
+
+The First Responder Disability Awareness Training project at Niagara University is pleased to announce the First Responder Advocacy Training for people with disabilities, disability advocates and those invested in the disability community. This is only open to Missouri residents.
+
+First Responder Advocacy Training (FRAT) is open to every disability advocate — You do not have to be a professional first responder to participate in the FRAT training! The training is free of charge and will be held virtually.
+
+To register, visit this link: https://events.r20.constantcontact.com/register/eventReg?oeidk=a07ehi7aoq5d7e0a9a0&oseq=&c=&ch=
+
 ---
 
 ## March
 
-No known events at this time. Please contact us for information about events and/or webinars to be posted.
+### Missouri First Responder Advocacy Training
+
+_March 25, 2021 from 2:00pm to 4:00pm [Virtual]_
+
+The First Responder Disability Awareness Training project at Niagara University is pleased to announce the First Responder Advocacy Training for people with disabilities, disability advocates and those invested in the disability community. This is only open to Missouri residents.
+
+First Responder Advocacy Training (FRAT) is open to every disability advocate — You do not have to be a professional first responder to participate in the FRAT training! The training is free of charge and will be held virtually.
+
+To register, visit this link: https://events.r20.constantcontact.com/register/eventReg?oeidk=a07ehi7aovu32010881&oseq&c&ch&fbclid=IwAR2wfyxFXDlt02xQnKU86hSZ-CqYT9V58E0zsQ2KIZspAyktBh1M2zoQb2g
 
 ---
 
