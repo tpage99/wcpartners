@@ -14,7 +14,7 @@ For more information about virtual tours, activities, and resources see our [COV
 
 ---
 
-## 2020
+## 2021
 
 [January](#january) | [February](#february) | [March](#march) | [April](#april) | [May](#may) | [June](#june) | [July](#july) | [August](#august) | [September](#september) | [October](#october) | [November](#november) | [December](#december) |
 

@@ -66,7 +66,7 @@ const News = ({ data }) => (
 export const newsPageQuery = graphql`
   query newsQuery {
     allMarkdownRemark(
-      sort: { fields: [frontmatter___title], order: ASC }
+      sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { category: { eq: "news" } } }
     ) {
       edges {

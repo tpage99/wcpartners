@@ -23,15 +23,11 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          {
-            family: `Merriweather`,
-          },
-          {
-            family: `Lato`,
-          },
+          `Lato`,
+          `Merriweather`
         ],
       },
     },
@@ -134,6 +130,13 @@ module.exports = {
         objects: ["Price"],
         secretKey: `${process.env.GATSBY_STRIPE_SECRET_KEY}`,
         downloadFiles: false,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+          endpoint: 'https://wc-partners.us4.list-manage.com/subscribe/post?u=8ae6a664b05886309dd81905e&amp;id=299c897558', // string; add your MC list endpoint here; see instructions below
+          timeout: 3500, // number; the amount of time, in milliseconds, that you want to allow mailchimp to respond to your request before timing out. defaults to 3500
       },
     },
     {
