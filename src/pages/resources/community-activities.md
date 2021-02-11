@@ -16,13 +16,7 @@ For more information about virtual tours, activities, and resources see our [COV
 
 ## 2021
 
-[January](#january) | [February](#february) | [March](#march) | [April](#april) | [May](#may) | [June](#june) | [July](#july) | [August](#august) | [September](#september) | [October](#october) | [November](#november) | [December](#december) |
-
----
-
-## January
-
-No known events at this time. Please contact us for information about events and/or webinars to be posted.
+[February](#february) | [March](#march) | [April](#april) | [May](#may) | [June](#june) | [July](#july) | [August](#august) | [September](#september) | [October](#october) | [November](#november) | [December](#december) |
 
 ---
 
@@ -45,6 +39,21 @@ The First Responder Disability Awareness Training project at Niagara University 
 First Responder Advocacy Training (FRAT) is open to every disability advocate — You do not have to be a professional first responder to participate in the FRAT training! The training is free of charge and will be held virtually.
 
 To register, visit this link: https://events.r20.constantcontact.com/register/eventReg?oeidk=a07ehi7aoq5d7e0a9a0&oseq=&c=&ch=
+
+### Accessible Recreation Drive-Thru Ceramics
+
+_Ongoing_  
+Drive-Thru Ceramics offers a safe and fun way to expand your creativity while staying safe in your own home! It's minimal interaction but maximum fun! We have ceramic projects that are ready to be your next masterpiece! There are a variety of project options - just call or email to schedule a pick-up time. Call when you arrive, and we will bring it out! Pick-up at the Northview Center. Learn more here: https://www.parkboard.org/335/Adult-Programs
+
+### Ceramics Class
+
+_Class 1: Wednesdays, February 3-24, Class 2: Thursdays, February 4-25, from 9 a.m.-12 p.m._
+Join us for a fun way to create ceramic projects for anyone ages 16 and up with a disability! Classes will be held in the Northview Center Ballroom. No transportation will be offered for these programs. Register by Feb. 1. Learn more here: https://www.parkboard.org/335/Adult-Programs
+
+### Zoo Zoom
+
+_Monday, February 22 at 3:30 p.m._
+Join Accessible Rec and Zoo staff to experience up close animal encounters! Register by Wed. Feb. 17, 2021, and a link to the Zoom presentation will be emailed to you - no Zoom account is required, just a valid email address! Register over phone at 837-5808. Learn more here: https://www.parkboard.org/335/Adult-Programs
 
 ---
 
