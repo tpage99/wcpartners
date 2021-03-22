@@ -1,14 +1,6 @@
 [
   {
     "title": "Music Therapy [Virtual]",
-    "date": "2021-03-17",
-    "time": "4:15pm-5pm",
-    "description": "Music therapy is for everyone! Join WC Partners and the Center for Music Therapy and Wellness for this virtual music therapy session. Classes are once per week. Contact your Support Coordinator to sign-up.",
-    "url": "/events/sign-up#music-therapy",
-    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
-  },
-  {
-    "title": "Music Therapy [Virtual]",
     "date": "2021-03-24",
     "time": "4:15pm-5pm",
     "description": "Music therapy is for everyone! Join WC Partners and the Center for Music Therapy and Wellness for this virtual music therapy session. Classes are once per week. Contact your Support Coordinator to sign-up.",
@@ -190,5 +182,54 @@
     "description": "This is a support group that will meet beginning April 1st to May 6th from 3:30 pm to 4:30 pm. (if you work at the Workshop we will see if the bus can drop you off) This group will be limited in size, but do not let that stop you from signing up. Each week there will be a healthy food option to try. There will be prizes at the end of the 6 weeks. ",
     "url": "/events/sign-up#fit-life",
     "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
+  },
+  {
+    "title": "Art Classes",
+    "date": "2021-04-09",
+    "time": "2:30pm or 3:45pm",
+    "description": "We're having art classes again! We'll be hosting guided painting classes at WC Partners' office that is free for individuals our office supports. Supplies will be provided. Sign-up information will be available soon.",
+    "url": "/events/sign-up#art-classes",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
+  },
+  {
+    "title": "Art Classes",
+    "date": "2021-04-23",
+    "time": "2:30pm or 3:45pm",
+    "description": "We're having art classes again! We'll be hosting guided painting classes at WC Partners' office that is free for individuals our office supports. Supplies will be provided. Sign-up information will be available soon.",
+    "url": "/events/sign-up#art-classes",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
+  },
+  {
+    "title": "Art Classes",
+    "date": "2021-05-14",
+    "time": "2:30pm or 3:45pm",
+    "description": "We're having art classes again! We'll be hosting guided painting classes at WC Partners' office that is free for individuals our office supports. Supplies will be provided. Sign-up information will be available soon.",
+    "url": "/events/sign-up#art-classes",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
+  },
+  {
+    "title": "Art Classes",
+    "date": "2021-05-28",
+    "time": "2:30pm or 3:45pm",
+    "description": "We're having art classes again! We'll be hosting guided painting classes at WC Partners' office that is free for individuals our office supports. Supplies will be provided. Sign-up information will be available soon.",
+    "url": "/events/sign-up#art-classes",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
+  },
+  {
+    "title": "Art Classes",
+    "date": "2021-06-11",
+    "time": "2:30pm or 3:45pm",
+    "description": "We're having art classes again! We'll be hosting guided painting classes at WC Partners' office that is free for individuals our office supports. Supplies will be provided. Sign-up information will be available soon.",
+    "url": "/events/sign-up#art-classes",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
+  },
+  {
+    "title": "Art Classes",
+    "date": "2021-06-25",
+    "time": "2:30pm or 3:45pm",
+    "description": "We're having art classes again! We'll be hosting guided painting classes at WC Partners' office that is free for individuals our office supports. Supplies will be provided. Sign-up information will be available soon.",
+    "url": "/events/sign-up#art-classes",
+    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
   }
+
 ]
