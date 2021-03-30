@@ -44,24 +44,24 @@ You may sign-up for more than one class or multiple classes each month, but prio
 
 ### April
 
-[April 9th at 2:30pm](https://www.eventbrite.com/e/april-art-class-i-tickets-147664786351)  
-[April 9th at 3:45pm](https://www.eventbrite.com/e/april-art-class-i-tickets-147668762243)  
-[April 23rd at 2:30pm](https://www.eventbrite.com/e/april-art-class-ii-tickets-147668182509)  
-[April 23rd at 3:45pm](https://www.eventbrite.com/e/april-art-class-ii-tickets-147667919723)
+[April 9th at 2:00pm](https://www.eventbrite.com/e/april-art-class-i-tickets-147664786351)  
+[April 9th at 3:15pm](https://www.eventbrite.com/e/april-art-class-i-tickets-147668762243)  
+[April 23rd at 2:00pm](https://www.eventbrite.com/e/april-art-class-ii-tickets-147668182509)  
+[April 23rd at 3:15pm](https://www.eventbrite.com/e/april-art-class-ii-tickets-147667919723)
 
 ### May
 
-[May 14th at 2:30pm](https://www.eventbrite.com/e/may-art-class-i-tickets-147669556619)  
-[May 14th at 3:45pm](https://www.eventbrite.com/e/may-art-class-i-tickets-147670040065)  
-[May 28th at 2:30pm](https://www.eventbrite.com/e/may-art-class-ii-tickets-147671004951)  
-[May 28th at 3:45pm](https://www.eventbrite.com/e/may-art-class-ii-tickets-147671131329)
+[May 14th at 2:00pm](https://www.eventbrite.com/e/may-art-class-i-tickets-147669556619)  
+[May 14th at 3:15pm](https://www.eventbrite.com/e/may-art-class-i-tickets-147670040065)  
+[May 28th at 2:00pm](https://www.eventbrite.com/e/may-art-class-ii-tickets-147671004951)  
+[May 28th at 3:15pm](https://www.eventbrite.com/e/may-art-class-ii-tickets-147671131329)
 
 ### June
 
-[June 11th at 2:30pm](https://www.eventbrite.com/e/june-art-class-i-tickets-147671462319)  
-[June 11th at 3:45pm](https://www.eventbrite.com/e/june-art-class-i-tickets-147672272743)  
-[June 25th at 2:30pm](https://www.eventbrite.com/e/june-art-class-ii-tickets-147672367025)  
-[June 25th at 3:45pm](https://www.eventbrite.com/e/147672587685)
+[June 11th at 2:00pm](https://www.eventbrite.com/e/june-art-class-i-tickets-147671462319)  
+[June 11th at 3:15pm](https://www.eventbrite.com/e/june-art-class-i-tickets-147672272743)  
+[June 25th at 2:00pm](https://www.eventbrite.com/e/june-art-class-ii-tickets-147672367025)  
+[June 25th at 3:15pm](https://www.eventbrite.com/e/147672587685)
 
 <!-- <div style="display: flex; max-width: 80%; min-width: 375px; margin: 0 auto; padding-bottom: 2rem">
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=rHl3xfiVYUypCCivdEeGZlACl5a-Wa9GqWSl2_5J2o9UQ0VQWURROVBRUEQwMTZKSTgxSTc1N0dVMC4u" style="margin: 0 auto;">
