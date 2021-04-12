@@ -14,7 +14,7 @@ const CareerOpportunities = ({data}) => (
         <h1>Career Opportunities</h1>
         <hr />
         <section>
-          <ul style={{ listStyle: `none` }}>
+          {/* <ul style={{ listStyle: `none` }}>
             {data.allMarkdownRemark.edges.map(job => (
               <li style={{ margin: `2rem 1rem` }} key={job.node.id}>
                 <Link
@@ -42,10 +42,12 @@ const CareerOpportunities = ({data}) => (
                 </Link>
               </li>
             ))}
-          </ul>
-          {/* <p style={{ paddingTop: `2rem` }}>
-            Thank you for your interest but at this time there are no available positions with WC Partners. Future career opportunities will be posted on this page.
-          </p> */}
+          </ul> */}
+          <p style={{ paddingTop: `2rem` }}>
+            Thank you for your interest but we are not accepting applications for employment with WC Partners at this time. Future career opportunities will be posted on this page.</p> 
+            
+            <p>For additional career opportunities with agencies WC Partners works with, see below.
+          </p>
         </section>
         <section style={{borderTop: `1px solid #e2e2e6`, maxWidth: `1200`,}}>
           <h2 style={{textAlign: `center`, paddingTop: `1.5rem`, lineHeight: `2rem`}}>Interested in Work that is Fun, Life Changing, and Close to Home? Look No Further! Work with One of the Great Providers Serving Our Area Today!</h2>

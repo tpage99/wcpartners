@@ -16,21 +16,7 @@ For more information about virtual tours, activities, and resources see our [COV
 
 ## 2021
 
-[February](#february) | [March](#march) | [April](#april) | [May](#may) | [June](#june) | [July](#july) | [August](#august) | [September](#september) | [October](#october) | [November](#november) | [December](#december) |
-
----
-
-## March
-
-### Missouri First Responder Advocacy Training
-
-_March 25, 2021 from 2:00pm to 4:00pm [Virtual]_
-
-The First Responder Disability Awareness Training project at Niagara University is pleased to announce the First Responder Advocacy Training for people with disabilities, disability advocates and those invested in the disability community. This is only open to Missouri residents.
-
-First Responder Advocacy Training (FRAT) is open to every disability advocate — You do not have to be a professional first responder to participate in the FRAT training! The training is free of charge and will be held virtually.
-
-To register, visit this link: https://events.r20.constantcontact.com/register/eventReg?oeidk=a07ehi7aovu32010881&oseq&c&ch&fbclid=IwAR2wfyxFXDlt02xQnKU86hSZ-CqYT9V58E0zsQ2KIZspAyktBh1M2zoQb2g
+[April](#april) | [May](#may) | [June](#june) | [July](#july) | [August](#august) | [September](#september) | [October](#october) | [November](#november) | [December](#december) |
 
 ---
 
