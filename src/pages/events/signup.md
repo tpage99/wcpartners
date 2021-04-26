@@ -42,13 +42,6 @@ You may sign-up for more than one class or multiple classes each month, but prio
 
 **Sign-up using the links below**
 
-### April
-
-[April 9th at 2:00pm](https://www.eventbrite.com/e/april-art-class-i-tickets-147664786351)  
-[April 9th at 3:15pm](https://www.eventbrite.com/e/april-art-class-i-tickets-147668762243)  
-[April 23rd at 2:00pm](https://www.eventbrite.com/e/april-art-class-ii-tickets-147668182509)  
-[April 23rd at 3:15pm](https://www.eventbrite.com/e/april-art-class-ii-tickets-147667919723)
-
 ### May
 
 [May 14th at 2:00pm](https://www.eventbrite.com/e/may-art-class-i-tickets-147669556619)  
@@ -58,8 +51,8 @@ You may sign-up for more than one class or multiple classes each month, but prio
 
 ### June
 
-[June 11th at 2:00pm](https://www.eventbrite.com/e/june-art-class-i-tickets-147671462319)  
-[June 11th at 3:15pm](https://www.eventbrite.com/e/june-art-class-i-tickets-147672272743)  
+[June 4th at 2:00pm](https://www.eventbrite.com/e/june-art-class-i-tickets-147671462319)  
+[June 4th at 3:15pm](https://www.eventbrite.com/e/june-art-class-i-tickets-147672272743)  
 [June 25th at 2:00pm](https://www.eventbrite.com/e/june-art-class-ii-tickets-147672367025)  
 [June 25th at 3:15pm](https://www.eventbrite.com/e/147672587685)
 

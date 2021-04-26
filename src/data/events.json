@@ -1,37 +1,5 @@
 [
   {
-    "title": "Music Therapy [Virtual]",
-    "date": "2021-04-21",
-    "time": "4:15pm-5pm",
-    "description": "Music therapy is for everyone! Join WC Partners and the Center for Music Therapy and Wellness for this virtual music therapy session. Classes are once per week. Contact your Support Coordinator to sign-up.",
-    "url": "/events/sign-up#music-therapy",
-    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597077866/music-therapy-logo_rtfrua.png"
-  },
-  {
-    "title": "Making Strides Walking Club",
-    "date": "2021-04-15",
-    "time": "11am-11:30am",
-    "description": "Join Jennifer and our New Friends with Making Strides walking club! Beginning April 1st (Thursday) we will meet at the Rotary Park at 11:00 am to 11:30 am for walking and socializing. The club will meet each Tuesday and Thursday for 6 weeks (April 1st to May 11th). Prizes for individuals that attend all 12 sessions.",
-    "url": "/events/sign-up#fit-life",
-    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
-  },
-  {
-    "title": "Making Strides Walking Club",
-    "date": "2021-04-20",
-    "time": "11am-11:30am",
-    "description": "Join Jennifer and our New Friends with Making Strides walking club! Beginning April 1st (Thursday) we will meet at the Rotary Park at 11:00 am to 11:30 am for walking and socializing. The club will meet each Tuesday and Thursday for 6 weeks (April 1st to May 11th). Prizes for individuals that attend all 12 sessions.",
-    "url": "/events/sign-up#fit-life",
-    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
-  },
-  {
-    "title": "Making Strides Walking Club",
-    "date": "2021-04-22",
-    "time": "11am-11:30am",
-    "description": "Join Jennifer and our New Friends with Making Strides walking club! Beginning April 1st (Thursday) we will meet at the Rotary Park at 11:00 am to 11:30 am for walking and socializing. The club will meet each Tuesday and Thursday for 6 weeks (April 1st to May 11th). Prizes for individuals that attend all 12 sessions.",
-    "url": "/events/sign-up#fit-life",
-    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
-  },
-  {
     "title": "Making Strides Walking Club",
     "date": "2021-04-27",
     "time": "11am-11:30am",
@@ -73,22 +41,6 @@
   },
   {
     "title": "Goal Getters",
-    "date": "2021-04-15",
-    "time": "3:30pm-4:30pm",
-    "description": "This is a support group that will meet beginning April 1st to May 6th from 3:30 pm to 4:30 pm. (if you work at the Workshop we will see if the bus can drop you off) This group will be limited in size, but do not let that stop you from signing up. Each week there will be a healthy food option to try. There will be prizes at the end of the 6 weeks. ",
-    "url": "/events/sign-up#fit-life",
-    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
-  },
-  {
-    "title": "Goal Getters",
-    "date": "2021-04-22",
-    "time": "3:30pm-4:30pm",
-    "description": "This is a support group that will meet beginning April 1st to May 6th from 3:30 pm to 4:30 pm. (if you work at the Workshop we will see if the bus can drop you off) This group will be limited in size, but do not let that stop you from signing up. Each week there will be a healthy food option to try. There will be prizes at the end of the 6 weeks. ",
-    "url": "/events/sign-up#fit-life",
-    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
-  },
-  {
-    "title": "Goal Getters",
     "date": "2021-04-29",
     "time": "3:30pm-4:30pm",
     "description": "This is a support group that will meet beginning April 1st to May 6th from 3:30 pm to 4:30 pm. (if you work at the Workshop we will see if the bus can drop you off) This group will be limited in size, but do not let that stop you from signing up. Each week there will be a healthy food option to try. There will be prizes at the end of the 6 weeks. ",
@@ -101,14 +53,6 @@
     "time": "3:30pm-4:30pm",
     "description": "This is a support group that will meet beginning April 1st to May 6th from 3:30 pm to 4:30 pm. (if you work at the Workshop we will see if the bus can drop you off) This group will be limited in size, but do not let that stop you from signing up. Each week there will be a healthy food option to try. There will be prizes at the end of the 6 weeks. ",
     "url": "/events/sign-up#fit-life",
-    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
-  },
-  {
-    "title": "Art Classes",
-    "date": "2021-04-23",
-    "time": "2:00pm or 3:15pm",
-    "description": "We're having art classes again! We'll be hosting guided painting classes at WC Partners' office that is free for individuals our office supports. Supplies will be provided. Sign-up information will be available soon.",
-    "url": "/events/sign-up#art-classes",
     "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
   },
   {
@@ -129,7 +73,7 @@
   },
   {
     "title": "Art Classes",
-    "date": "2021-06-11",
+    "date": "2021-06-04",
     "time": "2:00pm or 3:15pm",
     "description": "We're having art classes again! We'll be hosting guided painting classes at WC Partners' office that is free for individuals our office supports. Supplies will be provided. Sign-up information will be available soon.",
     "url": "/events/sign-up#art-classes",
@@ -141,14 +85,6 @@
     "time": "2:00pm or 3:15pm",
     "description": "We're having art classes again! We'll be hosting guided painting classes at WC Partners' office that is free for individuals our office supports. Supplies will be provided. Sign-up information will be available soon.",
     "url": "/events/sign-up#art-classes",
-    "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
-  },
-  {
-    "title": "WC Partners/Sentate Bill 40 Board of Directors Meeting",
-    "date": "2021-04-20",
-    "time": "7:00pm",
-    "description": "A public hearing for WC Partners/Senate Bill 40 Board of Directors will be held on Tuesday, April, 20, 2021 at 7:00 p.m. at the office of WC Partners, 1329 Spur Dr. Suite 160, Marshfield, MO 65706. The purpose of this hearing to amend the WC Partners annual budget. ",
-    "url": "/about",
     "thumbnailImage": "https://res.cloudinary.com/wcpartners/image/upload/v1597076271/wcpsharelogo_poroef.png"
   }
 ]
