@@ -16,27 +16,7 @@ For more information about virtual tours, activities, and resources see our [COV
 
 ## 2021
 
-[April](#april) | [May](#may) | [June](#june) | [July](#july) | [August](#august) | [September](#september) | [October](#october) | [November](#november) | [December](#december) |
-
----
-
-## April
-
-### Autism Awareness 5k Run/Walk: A Step Towards a Better Understanding
-
-_Saturday, April 24, 2021 at 8am_
-
-Spreading autism awareness through fundraising for autism programs in Missouri. A 5k walk/run, auction, vendors and more.
-
-Preregister fee by April 10th $20 after the 10th and on race day(8am-8:45am) $25.
-
-Registration papers can be picked up or dropped off at Fordland City Hall, Hair Nails and Beyond Fordland, Rennes Place Seymour, and YMCA Seymour.
-
-Printable registration form: https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:us:42cfc260-4331-427e-9529-af9b8045a441
-
-Each registered runner will receive an event shirt and bracelet. Pay by check, cash, Facebook pay or Paypal (jennifernailsnhair@hotmail.com) any questions etc post to Facebook event or email firechick317@live.com.
-
-More details to follow. Stay up-to-date via the Facebook event: https://fb.me/e/20YRCmttx
+[May](#may) | [June](#june) | [July](#july) | [August](#august) | [September](#september) | [October](#october) | [November](#november) | [December](#december) |
 
 ---
 

@@ -57,9 +57,6 @@ export default class footer extends Component {
                 <Link to="/resources/apps#wc-partners">Download the App</Link>
               </li>
               <li className="footer-link">
-                <Link to="/newsletter/">Newsletter</Link>
-              </li>
-              <li className="footer-link">
                 <a href="https://wcpartnerstest.sharepoint.com/sites/WCPartnersTCM">
                   Staff Login
                 </a>
